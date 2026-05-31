@@ -1,0 +1,16 @@
+{
+    "name": "Farigiraf",
+    "type": "normal",
+    "hp": 120,
+    "attacks": [
+        {
+            "name": "Psicorrayo",
+            "damage": 26
+        },
+        {
+            "name": "Trueno",
+            "damage": 44
+        }
+    ],
+    "image_path": "assets/farigiraf.png"
+}

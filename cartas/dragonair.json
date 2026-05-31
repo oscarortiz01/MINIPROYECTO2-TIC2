@@ -1,0 +1,16 @@
+{
+    "name": "Dragonair",
+    "type": "dragon",
+    "hp": 61,
+    "attacks": [
+        {
+            "name": "Lanzallamas",
+            "damage": 36
+        },
+        {
+            "name": "Enfado",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/dragonair.png"
+}

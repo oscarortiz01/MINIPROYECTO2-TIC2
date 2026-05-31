@@ -1,0 +1,16 @@
+{
+    "name": "Bergmite",
+    "type": "ice",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Bola Hielo",
+            "damage": 15
+        },
+        {
+            "name": "Roca Afilada",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/bergmite.png"
+}

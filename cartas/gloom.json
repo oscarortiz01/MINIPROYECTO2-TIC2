@@ -1,0 +1,16 @@
+{
+    "name": "Gloom",
+    "type": "grass",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Fitoimpulso",
+            "damage": 22
+        },
+        {
+            "name": "Bomba Lodo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/gloom.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Shedinja",
+    "type": "bug",
+    "hp": 1,
+    "attacks": [
+        {
+            "name": "Corte Furia",
+            "damage": 16
+        },
+        {
+            "name": "Ladrón",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/shedinja.png"
+}

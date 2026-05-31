@@ -1,0 +1,16 @@
+{
+    "name": "Incineroar",
+    "type": "fire",
+    "hp": 95,
+    "attacks": [
+        {
+            "name": "Buena Baza",
+            "damage": 24
+        },
+        {
+            "name": "Voto Fuego",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/incineroar.png"
+}

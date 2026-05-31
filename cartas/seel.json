@@ -1,0 +1,16 @@
+{
+    "name": "Seel",
+    "type": "water",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Triple Axel",
+            "damage": 15
+        },
+        {
+            "name": "Hidropulso",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/seel.png"
+}

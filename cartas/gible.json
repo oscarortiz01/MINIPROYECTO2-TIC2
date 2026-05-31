@@ -1,0 +1,16 @@
+{
+    "name": "Gible",
+    "type": "dragon",
+    "hp": 58,
+    "attacks": [
+        {
+            "name": "Enfado",
+            "damage": 45
+        },
+        {
+            "name": "Cuchillada",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/gible.png"
+}

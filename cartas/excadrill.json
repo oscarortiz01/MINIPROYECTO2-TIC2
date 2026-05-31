@@ -1,0 +1,16 @@
+{
+    "name": "Excadrill",
+    "type": "ground",
+    "hp": 110,
+    "attacks": [
+        {
+            "name": "Bucle Arena",
+            "damage": 15
+        },
+        {
+            "name": "Cabeza de Hierro",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/excadrill.png"
+}

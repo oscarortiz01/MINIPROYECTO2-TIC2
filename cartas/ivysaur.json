@@ -1,0 +1,16 @@
+{
+    "name": "Ivysaur",
+    "type": "grass",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Danza Pétalo",
+            "damage": 45
+        },
+        {
+            "name": "Meteorobola",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/ivysaur.png"
+}

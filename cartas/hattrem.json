@@ -1,0 +1,16 @@
+{
+    "name": "Hattrem",
+    "type": "psychic",
+    "hp": 57,
+    "attacks": [
+        {
+            "name": "Rapidez",
+            "damage": 24
+        },
+        {
+            "name": "Carantoña",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/hattrem.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Sylveon",
+    "type": "fairy",
+    "hp": 95,
+    "attacks": [
+        {
+            "name": "Día de Pago",
+            "damage": 16
+        },
+        {
+            "name": "Hoja Mágica",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/sylveon.png"
+}

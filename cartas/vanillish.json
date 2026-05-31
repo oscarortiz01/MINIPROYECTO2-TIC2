@@ -1,0 +1,16 @@
+{
+    "name": "Vanillish",
+    "type": "ice",
+    "hp": 51,
+    "attacks": [
+        {
+            "name": "Doble Rayo",
+            "damage": 30
+        },
+        {
+            "name": "Foco Resplandor",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/vanillish.png"
+}

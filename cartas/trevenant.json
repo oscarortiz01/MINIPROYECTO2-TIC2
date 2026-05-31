@@ -1,0 +1,16 @@
+{
+    "name": "Trevenant",
+    "type": "ghost",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Garra Umbría",
+            "damage": 28
+        },
+        {
+            "name": "Pulso Umbrío",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/trevenant.png"
+}

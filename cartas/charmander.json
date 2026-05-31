@@ -1,0 +1,16 @@
+{
+    "name": "Charmander",
+    "type": "fire",
+    "hp": 39,
+    "attacks": [
+        {
+            "name": "Acróbata",
+            "damage": 22
+        },
+        {
+            "name": "Golpe Cabeza",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/charmander.png"
+}

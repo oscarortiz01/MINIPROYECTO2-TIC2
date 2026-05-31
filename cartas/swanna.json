@@ -1,0 +1,16 @@
+{
+    "name": "Swanna",
+    "type": "water",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Ala de Acero",
+            "damage": 28
+        },
+        {
+            "name": "Surf",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/swanna.png"
+}

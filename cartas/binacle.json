@@ -1,0 +1,16 @@
+{
+    "name": "Binacle",
+    "type": "rock",
+    "hp": 42,
+    "attacks": [
+        {
+            "name": "Antiaéreo",
+            "damage": 20
+        },
+        {
+            "name": "Tenaza",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/binacle.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Doublade",
+    "type": "steel",
+    "hp": 59,
+    "attacks": [
+        {
+            "name": "Canon",
+            "damage": 24
+        },
+        {
+            "name": "Golpe Roca",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/doublade.png"
+}

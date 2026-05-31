@@ -1,0 +1,16 @@
+{
+    "name": "Bombirdier",
+    "type": "flying",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Tajo Aéreo",
+            "damage": 30
+        },
+        {
+            "name": "Tumba Rocas",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/bombirdier.png"
+}

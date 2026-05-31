@@ -1,0 +1,16 @@
+{
+    "name": "Serperior",
+    "type": "grass",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Canon",
+            "damage": 24
+        },
+        {
+            "name": "Placaje",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/serperior.png"
+}

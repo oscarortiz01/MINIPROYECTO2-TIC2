@@ -1,0 +1,16 @@
+{
+    "name": "Slugma",
+    "type": "fire",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Antiaéreo",
+            "damage": 20
+        },
+        {
+            "name": "Terremoto",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/slugma.png"
+}

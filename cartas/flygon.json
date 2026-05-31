@@ -1,0 +1,16 @@
+{
+    "name": "Flygon",
+    "type": "ground",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Viento Plata",
+            "damage": 24
+        },
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/flygon.png"
+}

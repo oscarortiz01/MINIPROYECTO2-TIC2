@@ -1,0 +1,16 @@
+{
+    "name": "Basculin-red-striped",
+    "type": "water",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Testarazo",
+            "damage": 45
+        },
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/basculin-red-striped.png"
+}

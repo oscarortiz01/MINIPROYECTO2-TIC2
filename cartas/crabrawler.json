@@ -1,0 +1,16 @@
+{
+    "name": "Crabrawler",
+    "type": "fighting",
+    "hp": 47,
+    "attacks": [
+        {
+            "name": "Persecución",
+            "damage": 16
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/crabrawler.png"
+}

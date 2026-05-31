@@ -1,0 +1,16 @@
+{
+    "name": "Swellow",
+    "type": "normal",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Canon",
+            "damage": 24
+        },
+        {
+            "name": "Ala de Acero",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/swellow.png"
+}

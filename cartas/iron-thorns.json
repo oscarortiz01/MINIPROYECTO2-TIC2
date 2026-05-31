@@ -1,0 +1,16 @@
+{
+    "name": "Iron-thorns",
+    "type": "rock",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Demolición",
+            "damage": 30
+        },
+        {
+            "name": "Roca Afilada",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/iron-thorns.png"
+}

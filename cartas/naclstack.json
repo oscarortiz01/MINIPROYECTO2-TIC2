@@ -1,0 +1,16 @@
+{
+    "name": "Naclstack",
+    "type": "rock",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Tierra Viva",
+            "damage": 36
+        },
+        {
+            "name": "Imagen",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/naclstack.png"
+}

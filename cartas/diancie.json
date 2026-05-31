@@ -1,0 +1,16 @@
+{
+    "name": "Diancie",
+    "type": "rock",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Antojo",
+            "damage": 24
+        },
+        {
+            "name": "Foco Resplandor",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/diancie.png"
+}

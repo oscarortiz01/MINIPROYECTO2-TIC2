@@ -1,0 +1,16 @@
+{
+    "name": "Ursaring",
+    "type": "normal",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "A Bocajarro",
+            "damage": 45
+        },
+        {
+            "name": "Bomba Germen",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/ursaring.png"
+}

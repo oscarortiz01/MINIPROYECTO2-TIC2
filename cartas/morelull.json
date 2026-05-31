@@ -1,0 +1,16 @@
+{
+    "name": "Morelull",
+    "type": "grass",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        },
+        {
+            "name": "Energibola",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/morelull.png"
+}

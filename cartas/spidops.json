@@ -1,0 +1,16 @@
+{
+    "name": "Spidops",
+    "type": "bug",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        },
+        {
+            "name": "Tijera X",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/spidops.png"
+}

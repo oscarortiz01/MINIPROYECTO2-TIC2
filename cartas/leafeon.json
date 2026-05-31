@@ -1,0 +1,16 @@
+{
+    "name": "Leafeon",
+    "type": "grass",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Placaje",
+            "damage": 16
+        },
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/leafeon.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Heliolisk",
+    "type": "electric",
+    "hp": 62,
+    "attacks": [
+        {
+            "name": "Rayo",
+            "damage": 36
+        },
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/heliolisk.png"
+}

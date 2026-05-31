@@ -1,0 +1,16 @@
+{
+    "name": "Cottonee",
+    "type": "grass",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Bomba Germen",
+            "damage": 32
+        },
+        {
+            "name": "Energibola",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/cottonee.png"
+}

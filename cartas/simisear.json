@@ -1,0 +1,16 @@
+{
+    "name": "Simisear",
+    "type": "fire",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Puño Certero",
+            "damage": 45
+        },
+        {
+            "name": "Cola Férrea",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/simisear.png"
+}

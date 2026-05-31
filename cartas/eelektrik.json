@@ -1,0 +1,16 @@
+{
+    "name": "Eelektrik",
+    "type": "electric",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        },
+        {
+            "name": "Acróbata",
+            "damage": 22
+        }
+    ],
+    "image_path": "assets/eelektrik.png"
+}

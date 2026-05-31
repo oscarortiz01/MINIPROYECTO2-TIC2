@@ -1,0 +1,16 @@
+{
+    "name": "Quaquaval",
+    "type": "water",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Puntapié",
+            "damage": 26
+        },
+        {
+            "name": "Torbellino",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/quaquaval.png"
+}

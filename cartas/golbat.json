@@ -1,0 +1,16 @@
+{
+    "name": "Golbat",
+    "type": "poison",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Ciclón",
+            "damage": 16
+        },
+        {
+            "name": "Vuelo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/golbat.png"
+}

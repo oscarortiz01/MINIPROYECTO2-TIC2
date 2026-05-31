@@ -1,0 +1,16 @@
+{
+    "name": "Duosion",
+    "type": "psychic",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Vasta Fuerza",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/duosion.png"
+}

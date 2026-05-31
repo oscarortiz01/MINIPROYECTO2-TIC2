@@ -1,0 +1,16 @@
+{
+    "name": "Pincurchin",
+    "type": "electric",
+    "hp": 48,
+    "attacks": [
+        {
+            "name": "Ronquido",
+            "damage": 20
+        },
+        {
+            "name": "Buena Baza",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/pincurchin.png"
+}

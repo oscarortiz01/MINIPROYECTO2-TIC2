@@ -1,0 +1,16 @@
+{
+    "name": "Furret",
+    "type": "normal",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Represalia",
+            "damage": 28
+        },
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/furret.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Sandy-shocks",
+    "type": "electric",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Rayo Carga",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/sandy-shocks.png"
+}

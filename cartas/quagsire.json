@@ -1,0 +1,16 @@
+{
+    "name": "Quagsire",
+    "type": "water",
+    "hp": 95,
+    "attacks": [
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        },
+        {
+            "name": "Terremoto",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/quagsire.png"
+}

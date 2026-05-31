@@ -1,0 +1,16 @@
+{
+    "name": "Nidorino",
+    "type": "poison",
+    "hp": 61,
+    "attacks": [
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        },
+        {
+            "name": "Golpe Roca",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/nidorino.png"
+}

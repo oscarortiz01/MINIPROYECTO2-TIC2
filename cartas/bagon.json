@@ -1,0 +1,16 @@
+{
+    "name": "Bagon",
+    "type": "dragon",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Avalancha",
+            "damage": 30
+        },
+        {
+            "name": "Corte Furia",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/bagon.png"
+}

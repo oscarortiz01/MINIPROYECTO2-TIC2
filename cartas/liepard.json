@@ -1,0 +1,16 @@
+{
+    "name": "Liepard",
+    "type": "dark",
+    "hp": 64,
+    "attacks": [
+        {
+            "name": "Golpes Furia",
+            "damage": 15
+        },
+        {
+            "name": "Psicocorte",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/liepard.png"
+}

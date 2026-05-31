@@ -1,0 +1,16 @@
+{
+    "name": "Quaxly",
+    "type": "water",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Voto Agua",
+            "damage": 32
+        },
+        {
+            "name": "Última Baza",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/quaxly.png"
+}

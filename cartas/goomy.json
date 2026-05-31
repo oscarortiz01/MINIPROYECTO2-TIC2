@@ -1,0 +1,16 @@
+{
+    "name": "Goomy",
+    "type": "dragon",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        },
+        {
+            "name": "Absorber",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/goomy.png"
+}

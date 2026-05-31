@@ -1,0 +1,16 @@
+{
+    "name": "Lokix",
+    "type": "bug",
+    "hp": 71,
+    "attacks": [
+        {
+            "name": "Plancha",
+            "damage": 32
+        },
+        {
+            "name": "Tijera X",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/lokix.png"
+}

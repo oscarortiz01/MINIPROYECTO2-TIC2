@@ -1,0 +1,16 @@
+{
+    "name": "Marill",
+    "type": "water",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Placaje",
+            "damage": 16
+        },
+        {
+            "name": "Terratemblor",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/marill.png"
+}

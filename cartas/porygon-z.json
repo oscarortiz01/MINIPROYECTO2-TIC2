@@ -1,0 +1,16 @@
+{
+    "name": "Porygon-z",
+    "type": "normal",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Electrocañón",
+            "damage": 45
+        },
+        {
+            "name": "Imagen",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/porygon-z.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Pancham",
+    "type": "fighting",
+    "hp": 67,
+    "attacks": [
+        {
+            "name": "Pulso Umbrío",
+            "damage": 32
+        },
+        {
+            "name": "Antojo",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/pancham.png"
+}

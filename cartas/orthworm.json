@@ -1,0 +1,16 @@
+{
+    "name": "Orthworm",
+    "type": "steel",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        },
+        {
+            "name": "Derribo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/orthworm.png"
+}

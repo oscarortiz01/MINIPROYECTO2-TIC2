@@ -1,0 +1,16 @@
+{
+    "name": "Chatot",
+    "type": "normal",
+    "hp": 76,
+    "attacks": [
+        {
+            "name": "Ala de Acero",
+            "damage": 28
+        },
+        {
+            "name": "Golpe Aéreo",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/chatot.png"
+}

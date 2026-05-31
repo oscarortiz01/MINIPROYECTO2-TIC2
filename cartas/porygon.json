@@ -1,0 +1,16 @@
+{
+    "name": "Porygon",
+    "type": "normal",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Rayo Hielo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/porygon.png"
+}

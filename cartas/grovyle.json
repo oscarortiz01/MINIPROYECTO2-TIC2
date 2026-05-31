@@ -1,0 +1,16 @@
+{
+    "name": "Grovyle",
+    "type": "grass",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Megapatada",
+            "damage": 45
+        },
+        {
+            "name": "Corte",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/grovyle.png"
+}

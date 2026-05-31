@@ -1,0 +1,16 @@
+{
+    "name": "Mantyke",
+    "type": "water",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Tajo Aéreo",
+            "damage": 30
+        },
+        {
+            "name": "Golpe Cabeza",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/mantyke.png"
+}

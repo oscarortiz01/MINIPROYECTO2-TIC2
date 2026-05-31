@@ -1,0 +1,16 @@
+{
+    "name": "Nidoran-m",
+    "type": "poison",
+    "hp": 46,
+    "attacks": [
+        {
+            "name": "Trueno",
+            "damage": 44
+        },
+        {
+            "name": "Taladradora",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/nidoran-m.png"
+}

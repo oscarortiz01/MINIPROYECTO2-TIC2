@@ -1,0 +1,16 @@
+{
+    "name": "Regirock",
+    "type": "rock",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Tumba Rocas",
+            "damage": 24
+        },
+        {
+            "name": "Puño Hielo",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/regirock.png"
+}

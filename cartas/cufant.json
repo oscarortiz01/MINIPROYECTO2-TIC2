@@ -1,0 +1,16 @@
+{
+    "name": "Cufant",
+    "type": "steel",
+    "hp": 72,
+    "attacks": [
+        {
+            "name": "Eructo",
+            "damage": 45
+        },
+        {
+            "name": "Fuerza Equina",
+            "damage": 38
+        }
+    ],
+    "image_path": "assets/cufant.png"
+}

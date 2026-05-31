@@ -1,0 +1,16 @@
+{
+    "name": "Golem",
+    "type": "rock",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Golpe Cuerpo",
+            "damage": 34
+        },
+        {
+            "name": "Puño Trueno",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/golem.png"
+}

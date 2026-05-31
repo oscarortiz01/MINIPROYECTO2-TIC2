@@ -1,0 +1,16 @@
+{
+    "name": "Decidueye",
+    "type": "grass",
+    "hp": 78,
+    "attacks": [
+        {
+            "name": "Rapidez",
+            "damage": 24
+        },
+        {
+            "name": "Ala de Acero",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/decidueye.png"
+}

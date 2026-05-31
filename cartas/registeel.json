@@ -1,0 +1,16 @@
+{
+    "name": "Registeel",
+    "type": "steel",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Terremoto",
+            "damage": 40
+        },
+        {
+            "name": "Bucle Arena",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/registeel.png"
+}

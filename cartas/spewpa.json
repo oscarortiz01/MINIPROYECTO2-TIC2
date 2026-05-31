@@ -1,0 +1,16 @@
+{
+    "name": "Spewpa",
+    "type": "bug",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Electrotela",
+            "damage": 22
+        },
+        {
+            "name": "Estoicismo",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/spewpa.png"
+}

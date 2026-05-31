@@ -1,0 +1,16 @@
+{
+    "name": "Giratina-altered",
+    "type": "ghost",
+    "hp": 150,
+    "attacks": [
+        {
+            "name": "Viento Hielo",
+            "damage": 22
+        },
+        {
+            "name": "Cabeza de Hierro",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/giratina-altered.png"
+}

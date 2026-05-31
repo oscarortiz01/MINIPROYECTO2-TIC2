@@ -1,0 +1,16 @@
+{
+    "name": "Corvisquire",
+    "type": "flying",
+    "hp": 68,
+    "attacks": [
+        {
+            "name": "Tajo Aéreo",
+            "damage": 30
+        },
+        {
+            "name": "Vendetta",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/corvisquire.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Masquerain",
+    "type": "bug",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Psicorrayo",
+            "damage": 26
+        },
+        {
+            "name": "Viento Plata",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/masquerain.png"
+}

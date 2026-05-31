@@ -1,0 +1,16 @@
+{
+    "name": "Dialga",
+    "type": "steel",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Garra Dragón",
+            "damage": 32
+        },
+        {
+            "name": "Demolición",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/dialga.png"
+}

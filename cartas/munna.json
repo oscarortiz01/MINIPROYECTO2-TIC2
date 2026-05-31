@@ -1,0 +1,16 @@
+{
+    "name": "Munna",
+    "type": "psychic",
+    "hp": 76,
+    "attacks": [
+        {
+            "name": "Canon",
+            "damage": 24
+        },
+        {
+            "name": "Rapidez",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/munna.png"
+}

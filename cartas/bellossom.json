@@ -1,0 +1,16 @@
+{
+    "name": "Bellossom",
+    "type": "grass",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        },
+        {
+            "name": "Energibola",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/bellossom.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Nidoran-f",
+    "type": "poison",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Onda Voltio",
+            "damage": 24
+        },
+        {
+            "name": "Puya Nociva",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/nidoran-f.png"
+}

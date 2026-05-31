@@ -1,0 +1,16 @@
+{
+    "name": "Sealeo",
+    "type": "ice",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Cascada",
+            "damage": 32
+        },
+        {
+            "name": "Bofetón Lodo",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/sealeo.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Electivire",
+    "type": "electric",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Rapidez",
+            "damage": 24
+        },
+        {
+            "name": "Puño Certero",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/electivire.png"
+}

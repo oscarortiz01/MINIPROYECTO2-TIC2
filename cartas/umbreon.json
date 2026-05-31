@@ -1,0 +1,16 @@
+{
+    "name": "Umbreon",
+    "type": "dark",
+    "hp": 95,
+    "attacks": [
+        {
+            "name": "Poder Reserva",
+            "damage": 15
+        },
+        {
+            "name": "Triturar",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/umbreon.png"
+}

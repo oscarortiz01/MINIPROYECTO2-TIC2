@@ -1,0 +1,16 @@
+{
+    "name": "Veluza",
+    "type": "water",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        },
+        {
+            "name": "Chilling Water",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/veluza.png"
+}

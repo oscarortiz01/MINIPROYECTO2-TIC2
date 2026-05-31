@@ -1,0 +1,16 @@
+{
+    "name": "Archaludon",
+    "type": "steel",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Vasto Impacto",
+            "damage": 24
+        },
+        {
+            "name": "Pulso Umbrío",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/archaludon.png"
+}

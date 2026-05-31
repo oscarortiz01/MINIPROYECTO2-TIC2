@@ -1,0 +1,16 @@
+{
+    "name": "Diggersby",
+    "type": "normal",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Desarme",
+            "damage": 26
+        },
+        {
+            "name": "Demolición",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/diggersby.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Spinarak",
+    "type": "bug",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Doble Rayo",
+            "damage": 30
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/spinarak.png"
+}

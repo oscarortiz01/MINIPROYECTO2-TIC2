@@ -1,0 +1,16 @@
+{
+    "name": "Gabite",
+    "type": "dragon",
+    "hp": 68,
+    "attacks": [
+        {
+            "name": "Arenas Ardientes",
+            "damage": 28
+        },
+        {
+            "name": "Canon",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/gabite.png"
+}

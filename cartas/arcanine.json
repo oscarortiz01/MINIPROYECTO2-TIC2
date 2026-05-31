@@ -1,0 +1,16 @@
+{
+    "name": "Arcanine",
+    "type": "fire",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Mordisco",
+            "damage": 24
+        },
+        {
+            "name": "Onda Ígnea",
+            "damage": 38
+        }
+    ],
+    "image_path": "assets/arcanine.png"
+}

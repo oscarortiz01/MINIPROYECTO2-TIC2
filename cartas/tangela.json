@@ -1,0 +1,16 @@
+{
+    "name": "Tangela",
+    "type": "grass",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Ronquido",
+            "damage": 20
+        },
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/tangela.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Exploud",
+    "type": "normal",
+    "hp": 104,
+    "attacks": [
+        {
+            "name": "Onda Certera",
+            "damage": 45
+        },
+        {
+            "name": "Golpe Cuerpo",
+            "damage": 34
+        }
+    ],
+    "image_path": "assets/exploud.png"
+}

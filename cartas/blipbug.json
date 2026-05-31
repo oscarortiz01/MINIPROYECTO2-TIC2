@@ -1,0 +1,16 @@
+{
+    "name": "Blipbug",
+    "type": "bug",
+    "hp": 25,
+    "attacks": [
+        {
+            "name": "Acoso",
+            "damage": 15
+        },
+        {
+            "name": "Estoicismo",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/blipbug.png"
+}

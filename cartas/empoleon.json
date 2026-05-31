@@ -1,0 +1,16 @@
+{
+    "name": "Empoleon",
+    "type": "water",
+    "hp": 84,
+    "attacks": [
+        {
+            "name": "Torbellino",
+            "damage": 15
+        },
+        {
+            "name": "Demolición",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/empoleon.png"
+}

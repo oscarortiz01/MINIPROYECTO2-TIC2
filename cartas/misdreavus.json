@@ -1,0 +1,16 @@
+{
+    "name": "Misdreavus",
+    "type": "ghost",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Vendetta",
+            "damage": 20
+        },
+        {
+            "name": "Rayo Carga",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/misdreavus.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Aggron",
+    "type": "steel",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Puño Hielo",
+            "damage": 30
+        },
+        {
+            "name": "Allanador Férreo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/aggron.png"
+}

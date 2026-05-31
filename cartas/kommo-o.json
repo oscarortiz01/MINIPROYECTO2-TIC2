@@ -1,0 +1,16 @@
+{
+    "name": "Kommo-o",
+    "type": "dragon",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Golpe Cabeza",
+            "damage": 28
+        },
+        {
+            "name": "Vozarrón",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/kommo-o.png"
+}

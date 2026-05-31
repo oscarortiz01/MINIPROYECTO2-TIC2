@@ -1,0 +1,16 @@
+{
+    "name": "Tornadus-incarnate",
+    "type": "flying",
+    "hp": 79,
+    "attacks": [
+        {
+            "name": "Tornado",
+            "damage": 16
+        },
+        {
+            "name": "Impresionar",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/tornadus-incarnate.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Flabebe",
+    "type": "fairy",
+    "hp": 44,
+    "attacks": [
+        {
+            "name": "Rapidez",
+            "damage": 24
+        },
+        {
+            "name": "Poder Reserva",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/flabebe.png"
+}

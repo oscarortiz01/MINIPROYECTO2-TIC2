@@ -1,0 +1,16 @@
+{
+    "name": "Foongus",
+    "type": "grass",
+    "hp": 69,
+    "attacks": [
+        {
+            "name": "Bomba Lodo",
+            "damage": 36
+        },
+        {
+            "name": "Rayo Solar",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/foongus.png"
+}

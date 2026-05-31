@@ -1,0 +1,16 @@
+{
+    "name": "Aegislash-shield",
+    "type": "steel",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Corte",
+            "damage": 20
+        },
+        {
+            "name": "Foco Resplandor",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/aegislash-shield.png"
+}

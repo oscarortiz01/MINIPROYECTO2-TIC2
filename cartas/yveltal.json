@@ -1,0 +1,16 @@
+{
+    "name": "Yveltal",
+    "type": "dark",
+    "hp": 126,
+    "attacks": [
+        {
+            "name": "Cabezazo Zen",
+            "damage": 32
+        },
+        {
+            "name": "Bola Sombra",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/yveltal.png"
+}

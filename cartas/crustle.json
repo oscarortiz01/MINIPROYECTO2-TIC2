@@ -1,0 +1,16 @@
+{
+    "name": "Crustle",
+    "type": "bug",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        },
+        {
+            "name": "Pataleta",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/crustle.png"
+}

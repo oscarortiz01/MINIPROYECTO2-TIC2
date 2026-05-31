@@ -1,0 +1,16 @@
+{
+    "name": "Horsea",
+    "type": "water",
+    "hp": 30,
+    "attacks": [
+        {
+            "name": "Surf",
+            "damage": 36
+        },
+        {
+            "name": "Ventisca",
+            "damage": 44
+        }
+    ],
+    "image_path": "assets/horsea.png"
+}

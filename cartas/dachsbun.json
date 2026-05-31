@@ -1,0 +1,16 @@
+{
+    "name": "Dachsbun",
+    "type": "fairy",
+    "hp": 57,
+    "attacks": [
+        {
+            "name": "Derribo",
+            "damage": 36
+        },
+        {
+            "name": "Lengüetazo",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/dachsbun.png"
+}

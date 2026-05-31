@@ -1,0 +1,16 @@
+{
+    "name": "Staravia",
+    "type": "normal",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Ataque Rápido",
+            "damage": 16
+        },
+        {
+            "name": "Eco Voz",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/staravia.png"
+}

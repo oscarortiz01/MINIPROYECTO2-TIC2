@@ -1,0 +1,16 @@
+{
+    "name": "Koraidon",
+    "type": "fighting",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Golpe Roca",
+            "damage": 16
+        },
+        {
+            "name": "Cometa Draco",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/koraidon.png"
+}

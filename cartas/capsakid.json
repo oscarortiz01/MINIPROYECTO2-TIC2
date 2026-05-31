@@ -1,0 +1,16 @@
+{
+    "name": "Capsakid",
+    "type": "grass",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        },
+        {
+            "name": "Mordisco",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/capsakid.png"
+}

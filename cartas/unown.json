@@ -1,0 +1,16 @@
+{
+    "name": "Unown",
+    "type": "psychic",
+    "hp": 48,
+    "attacks": [
+        {
+            "name": "Placaje",
+            "damage": 20
+        },
+        {
+            "name": "Golpe Fuerte",
+            "damage": 35
+        }
+    ],
+    "image_path": "assets/unown.png"
+}

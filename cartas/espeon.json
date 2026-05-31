@@ -1,0 +1,16 @@
+{
+    "name": "Espeon",
+    "type": "psychic",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Electrocañón",
+            "damage": 45
+        },
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/espeon.png"
+}

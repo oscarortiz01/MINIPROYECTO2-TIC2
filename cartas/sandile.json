@@ -1,0 +1,16 @@
+{
+    "name": "Sandile",
+    "type": "ground",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Furia",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/sandile.png"
+}

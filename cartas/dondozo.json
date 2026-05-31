@@ -1,0 +1,16 @@
+{
+    "name": "Dondozo",
+    "type": "water",
+    "hp": 150,
+    "attacks": [
+        {
+            "name": "Avalancha",
+            "damage": 30
+        },
+        {
+            "name": "Terremoto",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/dondozo.png"
+}

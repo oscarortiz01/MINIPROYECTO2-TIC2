@@ -1,0 +1,16 @@
+{
+    "name": "Lampent",
+    "type": "ghost",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Polución",
+            "damage": 15
+        },
+        {
+            "name": "Pulso Umbrío",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/lampent.png"
+}

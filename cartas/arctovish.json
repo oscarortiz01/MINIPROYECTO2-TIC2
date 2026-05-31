@@ -1,0 +1,16 @@
+{
+    "name": "Arctovish",
+    "type": "water",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Triturar",
+            "damage": 32
+        },
+        {
+            "name": "Viento Hielo",
+            "damage": 22
+        }
+    ],
+    "image_path": "assets/arctovish.png"
+}

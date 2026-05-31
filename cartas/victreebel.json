@@ -1,0 +1,16 @@
+{
+    "name": "Victreebel",
+    "type": "grass",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Meteorobola",
+            "damage": 20
+        },
+        {
+            "name": "Ronquido",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/victreebel.png"
+}

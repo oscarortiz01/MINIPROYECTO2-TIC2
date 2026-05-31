@@ -1,0 +1,16 @@
+{
+    "name": "Espurr",
+    "type": "psychic",
+    "hp": 62,
+    "attacks": [
+        {
+            "name": "Cola Férrea",
+            "damage": 40
+        },
+        {
+            "name": "Vendetta",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/espurr.png"
+}

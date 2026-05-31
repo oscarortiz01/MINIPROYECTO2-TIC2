@@ -1,0 +1,16 @@
+{
+    "name": "Spinda",
+    "type": "normal",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Megapatada",
+            "damage": 45
+        },
+        {
+            "name": "Estímulo",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/spinda.png"
+}

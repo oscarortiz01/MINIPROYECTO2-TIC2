@@ -1,0 +1,16 @@
+{
+    "name": "Snom",
+    "type": "ice",
+    "hp": 30,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Estoicismo",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/snom.png"
+}

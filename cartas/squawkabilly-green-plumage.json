@@ -1,0 +1,16 @@
+{
+    "name": "Squawkabilly-green-plumage",
+    "type": "normal",
+    "hp": 82,
+    "attacks": [
+        {
+            "name": "Onda Ígnea",
+            "damage": 38
+        },
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/squawkabilly-green-plumage.png"
+}

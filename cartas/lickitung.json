@@ -1,0 +1,16 @@
+{
+    "name": "Lickitung",
+    "type": "normal",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Derribo",
+            "damage": 36
+        },
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/lickitung.png"
+}

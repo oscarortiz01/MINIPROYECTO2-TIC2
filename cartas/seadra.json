@@ -1,0 +1,16 @@
+{
+    "name": "Seadra",
+    "type": "water",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        },
+        {
+            "name": "Rayo Burbuja",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/seadra.png"
+}

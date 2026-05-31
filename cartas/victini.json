@@ -1,0 +1,16 @@
+{
+    "name": "Victini",
+    "type": "psychic",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Alboroto",
+            "damage": 36
+        },
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/victini.png"
+}

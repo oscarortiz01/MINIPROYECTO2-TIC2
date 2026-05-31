@@ -1,0 +1,16 @@
+{
+    "name": "Staryu",
+    "type": "water",
+    "hp": 30,
+    "attacks": [
+        {
+            "name": "Ventisca",
+            "damage": 44
+        },
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/staryu.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Lunala",
+    "type": "psychic",
+    "hp": 137,
+    "attacks": [
+        {
+            "name": "Rayo Umbrío",
+            "damage": 40
+        },
+        {
+            "name": "Rayo Solar",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/lunala.png"
+}

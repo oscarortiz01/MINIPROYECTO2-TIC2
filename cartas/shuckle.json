@@ -1,0 +1,16 @@
+{
+    "name": "Shuckle",
+    "type": "bug",
+    "hp": 20,
+    "attacks": [
+        {
+            "name": "Golpe Roca",
+            "damage": 16
+        },
+        {
+            "name": "Antojo",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/shuckle.png"
+}

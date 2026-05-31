@@ -1,0 +1,16 @@
+{
+    "name": "Cloyster",
+    "type": "water",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        },
+        {
+            "name": "Meteorobola",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/cloyster.png"
+}

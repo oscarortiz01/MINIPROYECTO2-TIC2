@@ -1,0 +1,16 @@
+{
+    "name": "Arceus",
+    "type": "normal",
+    "hp": 120,
+    "attacks": [
+        {
+            "name": "Zumbido",
+            "damage": 36
+        },
+        {
+            "name": "Pulso Umbrío",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/arceus.png"
+}

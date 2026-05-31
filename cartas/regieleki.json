@@ -1,0 +1,16 @@
+{
+    "name": "Regieleki",
+    "type": "electric",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Voltiocambio",
+            "damage": 28
+        },
+        {
+            "name": "Giro Rápido",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/regieleki.png"
+}

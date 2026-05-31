@@ -1,0 +1,16 @@
+{
+    "name": "Vaporeon",
+    "type": "water",
+    "hp": 130,
+    "attacks": [
+        {
+            "name": "Ataque Rápido",
+            "damage": 16
+        },
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/vaporeon.png"
+}

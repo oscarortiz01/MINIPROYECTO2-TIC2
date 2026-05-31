@@ -1,0 +1,16 @@
+{
+    "name": "Lopunny",
+    "type": "normal",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Carantoña",
+            "damage": 36
+        },
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/lopunny.png"
+}

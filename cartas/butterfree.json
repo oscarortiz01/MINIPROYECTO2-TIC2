@@ -1,0 +1,16 @@
+{
+    "name": "Butterfree",
+    "type": "bug",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        },
+        {
+            "name": "Viento Aciago",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/butterfree.png"
+}

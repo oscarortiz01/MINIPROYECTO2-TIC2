@@ -1,0 +1,16 @@
+{
+    "name": "Darkrai",
+    "type": "dark",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Psicocarga",
+            "damage": 32
+        },
+        {
+            "name": "Juego Sucio",
+            "damage": 38
+        }
+    ],
+    "image_path": "assets/darkrai.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Necrozma",
+    "type": "psychic",
+    "hp": 97,
+    "attacks": [
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        },
+        {
+            "name": "Giro Vil",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/necrozma.png"
+}

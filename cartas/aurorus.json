@@ -1,0 +1,16 @@
+{
+    "name": "Aurorus",
+    "type": "rock",
+    "hp": 123,
+    "attacks": [
+        {
+            "name": "Vaho Gélido",
+            "damage": 24
+        },
+        {
+            "name": "Cabezazo Zen",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/aurorus.png"
+}

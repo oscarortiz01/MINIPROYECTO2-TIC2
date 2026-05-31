@@ -1,0 +1,16 @@
+{
+    "name": "Hydrapple",
+    "type": "grass",
+    "hp": 106,
+    "attacks": [
+        {
+            "name": "Pulso Dragón",
+            "damage": 34
+        },
+        {
+            "name": "Hidrobomba",
+            "damage": 44
+        }
+    ],
+    "image_path": "assets/hydrapple.png"
+}

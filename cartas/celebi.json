@@ -1,0 +1,16 @@
+{
+    "name": "Celebi",
+    "type": "psychic",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Bola Sombra",
+            "damage": 32
+        },
+        {
+            "name": "Bola de Polen",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/celebi.png"
+}

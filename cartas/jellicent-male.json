@@ -1,0 +1,16 @@
+{
+    "name": "Jellicent-male",
+    "type": "water",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Burbuja",
+            "damage": 16
+        },
+        {
+            "name": "Bomba Lodo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/jellicent-male.png"
+}

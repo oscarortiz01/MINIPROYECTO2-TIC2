@@ -1,0 +1,16 @@
+{
+    "name": "Gimmighoul",
+    "type": "ghost",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Placaje",
+            "damage": 16
+        },
+        {
+            "name": "Bola Sombra",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/gimmighoul.png"
+}

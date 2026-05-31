@@ -1,0 +1,16 @@
+{
+    "name": "Chinchou",
+    "type": "water",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Surf",
+            "damage": 36
+        },
+        {
+            "name": "Buceo",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/chinchou.png"
+}

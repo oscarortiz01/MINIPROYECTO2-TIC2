@@ -1,0 +1,16 @@
+{
+    "name": "Shellos",
+    "type": "water",
+    "hp": 76,
+    "attacks": [
+        {
+            "name": "Salmuera",
+            "damage": 26
+        },
+        {
+            "name": "Buceo",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/shellos.png"
+}

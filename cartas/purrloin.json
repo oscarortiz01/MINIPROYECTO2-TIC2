@@ -1,0 +1,16 @@
+{
+    "name": "Purrloin",
+    "type": "dark",
+    "hp": 41,
+    "attacks": [
+        {
+            "name": "Ronquido",
+            "damage": 20
+        },
+        {
+            "name": "Sorpresa",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/purrloin.png"
+}

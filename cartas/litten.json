@@ -1,0 +1,16 @@
+{
+    "name": "Litten",
+    "type": "fire",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Acróbata",
+            "damage": 22
+        }
+    ],
+    "image_path": "assets/litten.png"
+}

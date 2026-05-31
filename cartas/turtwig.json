@@ -1,0 +1,16 @@
+{
+    "name": "Turtwig",
+    "type": "grass",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Cola Férrea",
+            "damage": 40
+        },
+        {
+            "name": "Voto Planta",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/turtwig.png"
+}

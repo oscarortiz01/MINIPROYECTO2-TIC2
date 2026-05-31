@@ -1,0 +1,16 @@
+{
+    "name": "Sawk",
+    "type": "fighting",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Onda Certera",
+            "damage": 45
+        },
+        {
+            "name": "A Bocajarro",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/sawk.png"
+}

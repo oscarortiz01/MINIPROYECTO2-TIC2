@@ -1,0 +1,16 @@
+{
+    "name": "Spiritomb",
+    "type": "ghost",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Ronquido",
+            "damage": 20
+        },
+        {
+            "name": "Psicorrayo",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/spiritomb.png"
+}

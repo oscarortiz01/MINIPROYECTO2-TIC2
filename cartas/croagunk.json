@@ -1,0 +1,16 @@
+{
+    "name": "Croagunk",
+    "type": "poison",
+    "hp": 48,
+    "attacks": [
+        {
+            "name": "Puño Bala",
+            "damage": 16
+        },
+        {
+            "name": "Desahogo",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/croagunk.png"
+}

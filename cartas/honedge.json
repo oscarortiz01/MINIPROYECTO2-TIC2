@@ -1,0 +1,16 @@
+{
+    "name": "Honedge",
+    "type": "steel",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Demolición",
+            "damage": 30
+        },
+        {
+            "name": "Ronquido",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/honedge.png"
+}

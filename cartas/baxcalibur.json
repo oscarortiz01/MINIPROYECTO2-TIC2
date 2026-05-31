@@ -1,0 +1,16 @@
+{
+    "name": "Baxcalibur",
+    "type": "dragon",
+    "hp": 115,
+    "attacks": [
+        {
+            "name": "Viento Hielo",
+            "damage": 22
+        },
+        {
+            "name": "Demolición",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/baxcalibur.png"
+}

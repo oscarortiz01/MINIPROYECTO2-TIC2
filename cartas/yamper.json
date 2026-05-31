@@ -1,0 +1,16 @@
+{
+    "name": "Yamper",
+    "type": "electric",
+    "hp": 59,
+    "attacks": [
+        {
+            "name": "Placaje",
+            "damage": 16
+        },
+        {
+            "name": "Imagen",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/yamper.png"
+}

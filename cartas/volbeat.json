@@ -1,0 +1,16 @@
+{
+    "name": "Volbeat",
+    "type": "bug",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Demolición",
+            "damage": 30
+        },
+        {
+            "name": "Puño Hielo",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/volbeat.png"
+}

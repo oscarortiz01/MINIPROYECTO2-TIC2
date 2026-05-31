@@ -1,0 +1,16 @@
+{
+    "name": "Milcery",
+    "type": "fairy",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Brillo Mágico",
+            "damage": 32
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/milcery.png"
+}

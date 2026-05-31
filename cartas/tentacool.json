@@ -1,0 +1,16 @@
+{
+    "name": "Tentacool",
+    "type": "water",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Hidrobomba",
+            "damage": 44
+        },
+        {
+            "name": "Salmuera",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/tentacool.png"
+}

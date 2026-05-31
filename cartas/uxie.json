@@ -1,0 +1,16 @@
+{
+    "name": "Uxie",
+    "type": "psychic",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Psicorruido",
+            "damage": 30
+        },
+        {
+            "name": "Poder Reserva",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/uxie.png"
+}

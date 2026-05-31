@@ -1,0 +1,16 @@
+{
+    "name": "Doduo",
+    "type": "normal",
+    "hp": 35,
+    "attacks": [
+        {
+            "name": "Canon",
+            "damage": 24
+        },
+        {
+            "name": "Acróbata",
+            "damage": 22
+        }
+    ],
+    "image_path": "assets/doduo.png"
+}

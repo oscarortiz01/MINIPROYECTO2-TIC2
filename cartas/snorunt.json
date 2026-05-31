@@ -1,0 +1,16 @@
+{
+    "name": "Snorunt",
+    "type": "ice",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Chilling Water",
+            "damage": 20
+        },
+        {
+            "name": "Derribo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/snorunt.png"
+}

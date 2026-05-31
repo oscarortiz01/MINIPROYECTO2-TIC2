@@ -1,0 +1,16 @@
+{
+    "name": "Gyarados",
+    "type": "water",
+    "hp": 95,
+    "attacks": [
+        {
+            "name": "Cola Dragón",
+            "damage": 24
+        },
+        {
+            "name": "Cascada",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/gyarados.png"
+}

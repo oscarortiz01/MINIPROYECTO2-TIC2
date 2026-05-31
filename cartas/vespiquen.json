@@ -1,0 +1,16 @@
+{
+    "name": "Vespiquen",
+    "type": "bug",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Estoicismo",
+            "damage": 20
+        },
+        {
+            "name": "Vendaval",
+            "damage": 44
+        }
+    ],
+    "image_path": "assets/vespiquen.png"
+}

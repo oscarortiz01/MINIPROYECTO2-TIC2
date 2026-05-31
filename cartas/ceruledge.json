@@ -1,0 +1,16 @@
+{
+    "name": "Ceruledge",
+    "type": "fire",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Giro Fuego",
+            "damage": 15
+        },
+        {
+            "name": "Llamarada",
+            "damage": 44
+        }
+    ],
+    "image_path": "assets/ceruledge.png"
+}

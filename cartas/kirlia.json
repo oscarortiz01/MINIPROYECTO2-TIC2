@@ -1,0 +1,16 @@
+{
+    "name": "Kirlia",
+    "type": "psychic",
+    "hp": 38,
+    "attacks": [
+        {
+            "name": "Bola Sombra",
+            "damage": 32
+        },
+        {
+            "name": "Golpe Cabeza",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/kirlia.png"
+}

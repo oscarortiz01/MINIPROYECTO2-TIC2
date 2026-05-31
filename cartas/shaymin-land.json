@@ -1,0 +1,16 @@
+{
+    "name": "Shaymin-land",
+    "type": "grass",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        },
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/shaymin-land.png"
+}

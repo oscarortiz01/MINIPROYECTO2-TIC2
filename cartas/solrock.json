@@ -1,0 +1,16 @@
+{
+    "name": "Solrock",
+    "type": "rock",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Autodestrucción",
+            "damage": 45
+        },
+        {
+            "name": "Psicocarga",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/solrock.png"
+}

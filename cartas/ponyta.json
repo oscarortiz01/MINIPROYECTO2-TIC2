@@ -1,0 +1,16 @@
+{
+    "name": "Ponyta",
+    "type": "fire",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Lanzallamas",
+            "damage": 36
+        },
+        {
+            "name": "Ronquido",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/ponyta.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Bulbasaur",
+    "type": "grass",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Canon",
+            "damage": 24
+        },
+        {
+            "name": "Enfado",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/bulbasaur.png"
+}

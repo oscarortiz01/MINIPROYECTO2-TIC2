@@ -1,0 +1,16 @@
+{
+    "name": "Poliwrath",
+    "type": "water",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Psíquico",
+            "damage": 36
+        },
+        {
+            "name": "Rayo Burbuja",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/poliwrath.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Mankey",
+    "type": "fighting",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Tumba Rocas",
+            "damage": 24
+        },
+        {
+            "name": "Tajo Umbrío",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/mankey.png"
+}

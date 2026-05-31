@@ -1,0 +1,16 @@
+{
+    "name": "Vullaby",
+    "type": "dark",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Ida y Vuelta",
+            "damage": 28
+        },
+        {
+            "name": "Ala Bis",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/vullaby.png"
+}

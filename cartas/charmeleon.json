@@ -1,0 +1,16 @@
+{
+    "name": "Charmeleon",
+    "type": "fire",
+    "hp": 58,
+    "attacks": [
+        {
+            "name": "Megapuño",
+            "damage": 32
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/charmeleon.png"
+}

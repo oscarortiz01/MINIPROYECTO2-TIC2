@@ -1,0 +1,16 @@
+{
+    "name": "Hoothoot",
+    "type": "normal",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Ciclón",
+            "damage": 16
+        },
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/hoothoot.png"
+}

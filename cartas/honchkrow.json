@@ -1,0 +1,16 @@
+{
+    "name": "Honchkrow",
+    "type": "dark",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Vendetta",
+            "damage": 20
+        },
+        {
+            "name": "Ida y Vuelta",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/honchkrow.png"
+}

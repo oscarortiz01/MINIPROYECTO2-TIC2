@@ -1,0 +1,16 @@
+{
+    "name": "Frogadier",
+    "type": "water",
+    "hp": 54,
+    "attacks": [
+        {
+            "name": "Avalancha",
+            "damage": 30
+        },
+        {
+            "name": "Ida y Vuelta",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/frogadier.png"
+}

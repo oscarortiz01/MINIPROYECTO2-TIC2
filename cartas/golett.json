@@ -1,0 +1,16 @@
+{
+    "name": "Golett",
+    "type": "ground",
+    "hp": 59,
+    "attacks": [
+        {
+            "name": "Doble Rayo",
+            "damage": 30
+        },
+        {
+            "name": "Demolición",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/golett.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Luxio",
+    "type": "electric",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Rapidez",
+            "damage": 24
+        },
+        {
+            "name": "Placaje",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/luxio.png"
+}

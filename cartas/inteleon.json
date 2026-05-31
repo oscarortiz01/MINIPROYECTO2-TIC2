@@ -1,0 +1,16 @@
+{
+    "name": "Inteleon",
+    "type": "water",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Destructor",
+            "damage": 16
+        },
+        {
+            "name": "Escaldar",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/inteleon.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Gengar",
+    "type": "ghost",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Viento Hielo",
+            "damage": 22
+        },
+        {
+            "name": "Puño Trueno",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/gengar.png"
+}

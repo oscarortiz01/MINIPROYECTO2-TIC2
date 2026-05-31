@@ -1,0 +1,16 @@
+{
+    "name": "Flapple",
+    "type": "grass",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        },
+        {
+            "name": "Lluevehojas",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/flapple.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Girafarig",
+    "type": "normal",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Poder Reserva",
+            "damage": 15
+        },
+        {
+            "name": "Juego Sucio",
+            "damage": 38
+        }
+    ],
+    "image_path": "assets/girafarig.png"
+}

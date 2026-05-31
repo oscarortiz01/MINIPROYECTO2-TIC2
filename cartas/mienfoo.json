@@ -1,0 +1,16 @@
+{
+    "name": "Mienfoo",
+    "type": "fighting",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Represalia",
+            "damage": 28
+        },
+        {
+            "name": "Roca Afilada",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/mienfoo.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Kilowattrel",
+    "type": "electric",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Derribo",
+            "damage": 36
+        },
+        {
+            "name": "Meteorobola",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/kilowattrel.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Ogerpon",
+    "type": "grass",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Cabezazo Zen",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/ogerpon.png"
+}

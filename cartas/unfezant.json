@@ -1,0 +1,16 @@
+{
+    "name": "Unfezant",
+    "type": "normal",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Ida y Vuelta",
+            "damage": 28
+        },
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/unfezant.png"
+}

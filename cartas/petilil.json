@@ -1,0 +1,16 @@
+{
+    "name": "Petilil",
+    "type": "grass",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Follaje",
+            "damage": 16
+        },
+        {
+            "name": "Imagen",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/petilil.png"
+}

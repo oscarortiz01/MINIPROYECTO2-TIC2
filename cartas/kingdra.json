@@ -1,0 +1,16 @@
+{
+    "name": "Kingdra",
+    "type": "water",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Vendaval",
+            "damage": 44
+        },
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/kingdra.png"
+}

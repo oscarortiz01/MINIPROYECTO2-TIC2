@@ -1,0 +1,16 @@
+{
+    "name": "Tarountula",
+    "type": "bug",
+    "hp": 35,
+    "attacks": [
+        {
+            "name": "Golpe Mordaza",
+            "damage": 32
+        },
+        {
+            "name": "Golpe Bajo",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/tarountula.png"
+}

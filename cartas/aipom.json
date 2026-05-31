@@ -1,0 +1,16 @@
+{
+    "name": "Aipom",
+    "type": "normal",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Megapatada",
+            "damage": 45
+        },
+        {
+            "name": "Garra Umbría",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/aipom.png"
+}

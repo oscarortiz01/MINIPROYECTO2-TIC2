@@ -1,0 +1,16 @@
+{
+    "name": "Herdier",
+    "type": "normal",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Carantoña",
+            "damage": 36
+        },
+        {
+            "name": "Antojo",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/herdier.png"
+}

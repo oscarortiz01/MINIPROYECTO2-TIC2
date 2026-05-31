@@ -1,0 +1,16 @@
+{
+    "name": "Tinkatink",
+    "type": "fairy",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        },
+        {
+            "name": "Beso Drenaje",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/tinkatink.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Metang",
+    "type": "steel",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Puño Dinámico",
+            "damage": 40
+        },
+        {
+            "name": "Cabezazo Zen",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/metang.png"
+}

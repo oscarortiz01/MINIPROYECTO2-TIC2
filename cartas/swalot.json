@@ -1,0 +1,16 @@
+{
+    "name": "Swalot",
+    "type": "poison",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Puño Dinámico",
+            "damage": 40
+        },
+        {
+            "name": "Cabezazo Zen",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/swalot.png"
+}

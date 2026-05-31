@@ -1,0 +1,16 @@
+{
+    "name": "Ferrothorn",
+    "type": "grass",
+    "hp": 74,
+    "attacks": [
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        },
+        {
+            "name": "Giro Vil",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/ferrothorn.png"
+}

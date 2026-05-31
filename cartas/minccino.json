@@ -1,0 +1,16 @@
+{
+    "name": "Minccino",
+    "type": "normal",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Atizar",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/minccino.png"
+}

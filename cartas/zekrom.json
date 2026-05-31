@@ -1,0 +1,16 @@
+{
+    "name": "Zekrom",
+    "type": "dragon",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Corte",
+            "damage": 20
+        },
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/zekrom.png"
+}

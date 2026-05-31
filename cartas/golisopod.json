@@ -1,0 +1,16 @@
+{
+    "name": "Golisopod",
+    "type": "bug",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Cuchillada",
+            "damage": 28
+        },
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/golisopod.png"
+}

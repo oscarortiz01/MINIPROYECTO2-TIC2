@@ -1,0 +1,16 @@
+{
+    "name": "Iron-leaves",
+    "type": "grass",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Espada Santa",
+            "damage": 36
+        },
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/iron-leaves.png"
+}

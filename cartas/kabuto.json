@@ -1,0 +1,16 @@
+{
+    "name": "Kabuto",
+    "type": "rock",
+    "hp": 30,
+    "attacks": [
+        {
+            "name": "Desarme",
+            "damage": 26
+        },
+        {
+            "name": "Canon",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/kabuto.png"
+}

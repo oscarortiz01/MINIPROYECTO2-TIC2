@@ -1,0 +1,16 @@
+{
+    "name": "Sableye",
+    "type": "dark",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        },
+        {
+            "name": "Psicorrayo",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/sableye.png"
+}

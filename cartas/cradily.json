@@ -1,0 +1,16 @@
+{
+    "name": "Cradily",
+    "type": "rock",
+    "hp": 86,
+    "attacks": [
+        {
+            "name": "Antiaéreo",
+            "damage": 20
+        },
+        {
+            "name": "Roca Afilada",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/cradily.png"
+}

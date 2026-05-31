@@ -1,0 +1,16 @@
+{
+    "name": "Kadabra",
+    "type": "psychic",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Puño Trueno",
+            "damage": 30
+        },
+        {
+            "name": "Psicocorte",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/kadabra.png"
+}

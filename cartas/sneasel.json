@@ -1,0 +1,16 @@
+{
+    "name": "Sneasel",
+    "type": "dark",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Puño Dinámico",
+            "damage": 40
+        },
+        {
+            "name": "Palma Rauda",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/sneasel.png"
+}

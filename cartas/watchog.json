@@ -1,0 +1,16 @@
+{
+    "name": "Watchog",
+    "type": "normal",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Puño Incremento",
+            "damage": 16
+        },
+        {
+            "name": "Canon",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/watchog.png"
+}

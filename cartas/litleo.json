@@ -1,0 +1,16 @@
+{
+    "name": "Litleo",
+    "type": "fire",
+    "hp": 62,
+    "attacks": [
+        {
+            "name": "Placaje",
+            "damage": 16
+        },
+        {
+            "name": "Eco Voz",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/litleo.png"
+}

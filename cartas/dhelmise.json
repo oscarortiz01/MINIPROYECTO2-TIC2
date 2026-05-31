@@ -1,0 +1,16 @@
+{
+    "name": "Dhelmise",
+    "type": "ghost",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Golpe Fantasma",
+            "damage": 36
+        },
+        {
+            "name": "Buena Baza",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/dhelmise.png"
+}

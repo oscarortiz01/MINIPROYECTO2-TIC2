@@ -1,0 +1,16 @@
+{
+    "name": "Weedle",
+    "type": "bug",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Electrotela",
+            "damage": 22
+        },
+        {
+            "name": "Picadura",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/weedle.png"
+}

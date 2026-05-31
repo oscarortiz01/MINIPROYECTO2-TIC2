@@ -1,0 +1,16 @@
+{
+    "name": "Garganacl",
+    "type": "rock",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Excavar",
+            "damage": 32
+        },
+        {
+            "name": "Salt Cure",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/garganacl.png"
+}

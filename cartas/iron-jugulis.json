@@ -1,0 +1,16 @@
+{
+    "name": "Iron-jugulis",
+    "type": "dark",
+    "hp": 94,
+    "attacks": [
+        {
+            "name": "Desarme",
+            "damage": 26
+        },
+        {
+            "name": "Ala Bis",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/iron-jugulis.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Scyther",
+    "type": "bug",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Plancha",
+            "damage": 32
+        },
+        {
+            "name": "Doble Golpe",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/scyther.png"
+}

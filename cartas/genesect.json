@@ -1,0 +1,16 @@
+{
+    "name": "Genesect",
+    "type": "bug",
+    "hp": 71,
+    "attacks": [
+        {
+            "name": "Autodestrucción",
+            "damage": 45
+        },
+        {
+            "name": "Ida y Vuelta",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/genesect.png"
+}

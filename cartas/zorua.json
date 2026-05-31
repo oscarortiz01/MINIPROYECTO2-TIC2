@@ -1,0 +1,16 @@
+{
+    "name": "Zorua",
+    "type": "dark",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        },
+        {
+            "name": "Excavar",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/zorua.png"
+}

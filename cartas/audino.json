@@ -1,0 +1,16 @@
+{
+    "name": "Audino",
+    "type": "normal",
+    "hp": 103,
+    "attacks": [
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        },
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/audino.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Iron-boulder",
+    "type": "rock",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Cornada",
+            "damage": 26
+        },
+        {
+            "name": "Cuchillada",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/iron-boulder.png"
+}

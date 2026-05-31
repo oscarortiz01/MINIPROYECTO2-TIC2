@@ -1,0 +1,16 @@
+{
+    "name": "Revavroom",
+    "type": "steel",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Residuos",
+            "damage": 26
+        },
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/revavroom.png"
+}

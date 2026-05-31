@@ -1,0 +1,16 @@
+{
+    "name": "Chewtle",
+    "type": "water",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Derribo",
+            "damage": 36
+        },
+        {
+            "name": "Presa Maxilar",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/chewtle.png"
+}

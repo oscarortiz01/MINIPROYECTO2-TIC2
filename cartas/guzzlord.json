@@ -1,0 +1,16 @@
+{
+    "name": "Guzzlord",
+    "type": "dark",
+    "hp": 223,
+    "attacks": [
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        },
+        {
+            "name": "Giro Vil",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/guzzlord.png"
+}

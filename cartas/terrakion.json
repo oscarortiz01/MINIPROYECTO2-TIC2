@@ -1,0 +1,16 @@
+{
+    "name": "Terrakion",
+    "type": "rock",
+    "hp": 91,
+    "attacks": [
+        {
+            "name": "A Bocajarro",
+            "damage": 45
+        },
+        {
+            "name": "Pataleta",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/terrakion.png"
+}

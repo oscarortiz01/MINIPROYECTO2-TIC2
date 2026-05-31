@@ -1,0 +1,16 @@
+{
+    "name": "Buizel",
+    "type": "water",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Doble Bofetón",
+            "damage": 15
+        },
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/buizel.png"
+}

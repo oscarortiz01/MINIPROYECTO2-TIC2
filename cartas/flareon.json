@@ -1,0 +1,16 @@
+{
+    "name": "Flareon",
+    "type": "fire",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Electrocañón",
+            "damage": 45
+        },
+        {
+            "name": "Excavar",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/flareon.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Bewear",
+    "type": "normal",
+    "hp": 120,
+    "attacks": [
+        {
+            "name": "Desquite",
+            "damage": 24
+        },
+        {
+            "name": "Terratemblor",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/bewear.png"
+}

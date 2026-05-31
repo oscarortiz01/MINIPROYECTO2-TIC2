@@ -1,0 +1,16 @@
+{
+    "name": "Miraidon",
+    "type": "electric",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Enfado",
+            "damage": 45
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/miraidon.png"
+}

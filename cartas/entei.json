@@ -1,0 +1,16 @@
+{
+    "name": "Entei",
+    "type": "fire",
+    "hp": 115,
+    "attacks": [
+        {
+            "name": "Trailblaze",
+            "damage": 20
+        },
+        {
+            "name": "Bofetón Lodo",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/entei.png"
+}

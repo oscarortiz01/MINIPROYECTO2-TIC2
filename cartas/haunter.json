@@ -1,0 +1,16 @@
+{
+    "name": "Haunter",
+    "type": "ghost",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Desarme",
+            "damage": 26
+        },
+        {
+            "name": "Lengüetazo",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/haunter.png"
+}

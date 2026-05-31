@@ -1,0 +1,16 @@
+{
+    "name": "Blacephalon",
+    "type": "fire",
+    "hp": 53,
+    "attacks": [
+        {
+            "name": "Rayo Solar",
+            "damage": 45
+        },
+        {
+            "name": "Vasta Fuerza",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/blacephalon.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Igglybuff",
+    "type": "normal",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Megapatada",
+            "damage": 45
+        },
+        {
+            "name": "Canon",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/igglybuff.png"
+}

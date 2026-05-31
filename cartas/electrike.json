@@ -1,0 +1,16 @@
+{
+    "name": "Electrike",
+    "type": "electric",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Cola Férrea",
+            "damage": 40
+        },
+        {
+            "name": "Rayo Carga",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/electrike.png"
+}

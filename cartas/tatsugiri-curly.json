@@ -1,0 +1,16 @@
+{
+    "name": "Tatsugiri-curly",
+    "type": "dragon",
+    "hp": 68,
+    "attacks": [
+        {
+            "name": "Enfado",
+            "damage": 45
+        },
+        {
+            "name": "Imagen",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/tatsugiri-curly.png"
+}

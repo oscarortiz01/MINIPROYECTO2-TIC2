@@ -1,0 +1,16 @@
+{
+    "name": "Bunnelby",
+    "type": "normal",
+    "hp": 38,
+    "attacks": [
+        {
+            "name": "Última Baza",
+            "damage": 45
+        },
+        {
+            "name": "Ronquido",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/bunnelby.png"
+}

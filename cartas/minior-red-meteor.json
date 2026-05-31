@@ -1,0 +1,16 @@
+{
+    "name": "Minior-red-meteor",
+    "type": "rock",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Ronquido",
+            "damage": 20
+        },
+        {
+            "name": "Poder Pasado",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/minior-red-meteor.png"
+}

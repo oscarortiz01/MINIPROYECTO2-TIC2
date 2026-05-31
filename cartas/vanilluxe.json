@@ -1,0 +1,16 @@
+{
+    "name": "Vanilluxe",
+    "type": "ice",
+    "hp": 71,
+    "attacks": [
+        {
+            "name": "Foco Resplandor",
+            "damage": 32
+        },
+        {
+            "name": "Meteorobola",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/vanilluxe.png"
+}

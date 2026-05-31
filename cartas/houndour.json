@@ -1,0 +1,16 @@
+{
+    "name": "Houndour",
+    "type": "dark",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Calcinación",
+            "damage": 24
+        },
+        {
+            "name": "Golpe Roca",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/houndour.png"
+}

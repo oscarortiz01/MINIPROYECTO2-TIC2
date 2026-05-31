@@ -1,0 +1,16 @@
+{
+    "name": "Venusaur",
+    "type": "grass",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Falso Tortazo",
+            "damage": 16
+        },
+        {
+            "name": "Megaagotar",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/venusaur.png"
+}

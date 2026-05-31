@@ -1,0 +1,16 @@
+{
+    "name": "Cherrim",
+    "type": "grass",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Carantoña",
+            "damage": 36
+        },
+        {
+            "name": "Beso Drenaje",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/cherrim.png"
+}

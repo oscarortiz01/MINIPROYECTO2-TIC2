@@ -1,0 +1,16 @@
+{
+    "name": "Samurott",
+    "type": "water",
+    "hp": 95,
+    "attacks": [
+        {
+            "name": "Concha Filo",
+            "damage": 30
+        },
+        {
+            "name": "Desahogo",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/samurott.png"
+}

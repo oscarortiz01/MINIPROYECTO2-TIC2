@@ -1,0 +1,16 @@
+{
+    "name": "Magmortar",
+    "type": "fire",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Alboroto",
+            "damage": 36
+        },
+        {
+            "name": "Pirotecnia",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/magmortar.png"
+}

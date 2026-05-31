@@ -1,0 +1,16 @@
+{
+    "name": "Chespin",
+    "type": "grass",
+    "hp": 56,
+    "attacks": [
+        {
+            "name": "Puño Drenaje",
+            "damage": 30
+        },
+        {
+            "name": "Bomba Lodo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/chespin.png"
+}

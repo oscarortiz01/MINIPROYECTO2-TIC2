@@ -1,0 +1,16 @@
+{
+    "name": "Sizzlipede",
+    "type": "fire",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Zumbido",
+            "damage": 36
+        },
+        {
+            "name": "Giro Vil",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/sizzlipede.png"
+}

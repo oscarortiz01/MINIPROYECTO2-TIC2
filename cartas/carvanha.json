@@ -1,0 +1,16 @@
+{
+    "name": "Carvanha",
+    "type": "water",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Rapidez",
+            "damage": 24
+        },
+        {
+            "name": "Vendetta",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/carvanha.png"
+}

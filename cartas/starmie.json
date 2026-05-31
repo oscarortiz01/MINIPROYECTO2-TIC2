@@ -1,0 +1,16 @@
+{
+    "name": "Starmie",
+    "type": "water",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Rapidez",
+            "damage": 24
+        },
+        {
+            "name": "Triataque",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/starmie.png"
+}

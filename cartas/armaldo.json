@@ -1,0 +1,16 @@
+{
+    "name": "Armaldo",
+    "type": "rock",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Fuerza Bruta",
+            "damage": 45
+        },
+        {
+            "name": "Cola Férrea",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/armaldo.png"
+}

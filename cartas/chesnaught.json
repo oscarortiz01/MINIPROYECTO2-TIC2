@@ -1,0 +1,16 @@
+{
+    "name": "Chesnaught",
+    "type": "grass",
+    "hp": 88,
+    "attacks": [
+        {
+            "name": "Bomba Germen",
+            "damage": 32
+        },
+        {
+            "name": "Puño Drenaje",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/chesnaught.png"
+}

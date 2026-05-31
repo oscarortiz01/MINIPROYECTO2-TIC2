@@ -1,0 +1,16 @@
+{
+    "name": "Iron-bundle",
+    "type": "ice",
+    "hp": 56,
+    "attacks": [
+        {
+            "name": "Ice Spinner",
+            "damage": 32
+        },
+        {
+            "name": "Hidropulso",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/iron-bundle.png"
+}

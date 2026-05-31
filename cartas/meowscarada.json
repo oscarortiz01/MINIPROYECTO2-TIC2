@@ -1,0 +1,16 @@
+{
+    "name": "Meowscarada",
+    "type": "grass",
+    "hp": 76,
+    "attacks": [
+        {
+            "name": "Trailblaze",
+            "damage": 20
+        },
+        {
+            "name": "Joya de Luz",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/meowscarada.png"
+}

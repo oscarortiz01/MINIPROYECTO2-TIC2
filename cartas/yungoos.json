@@ -1,0 +1,16 @@
+{
+    "name": "Yungoos",
+    "type": "normal",
+    "hp": 48,
+    "attacks": [
+        {
+            "name": "Ladrón",
+            "damage": 24
+        },
+        {
+            "name": "Canon",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/yungoos.png"
+}

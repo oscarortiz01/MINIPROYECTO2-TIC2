@@ -1,0 +1,16 @@
+{
+    "name": "Chimchar",
+    "type": "fire",
+    "hp": 44,
+    "attacks": [
+        {
+            "name": "Ida y Vuelta",
+            "damage": 28
+        },
+        {
+            "name": "Cabezazo Zen",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/chimchar.png"
+}

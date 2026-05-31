@@ -1,0 +1,16 @@
+{
+    "name": "Purugly",
+    "type": "normal",
+    "hp": 71,
+    "attacks": [
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        },
+        {
+            "name": "Garra Umbría",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/purugly.png"
+}

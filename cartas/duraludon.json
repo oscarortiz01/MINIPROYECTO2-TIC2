@@ -1,0 +1,16 @@
+{
+    "name": "Duraludon",
+    "type": "steel",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Alarido",
+            "damage": 22
+        },
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/duraludon.png"
+}

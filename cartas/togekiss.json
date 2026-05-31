@@ -1,0 +1,16 @@
+{
+    "name": "Togekiss",
+    "type": "fairy",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Demolición",
+            "damage": 30
+        },
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/togekiss.png"
+}

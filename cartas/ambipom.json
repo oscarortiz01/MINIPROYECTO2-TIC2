@@ -1,0 +1,16 @@
+{
+    "name": "Ambipom",
+    "type": "normal",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Bomba Germen",
+            "damage": 32
+        },
+        {
+            "name": "Comesueños",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/ambipom.png"
+}

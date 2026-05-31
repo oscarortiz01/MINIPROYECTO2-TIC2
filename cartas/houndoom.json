@@ -1,0 +1,16 @@
+{
+    "name": "Houndoom",
+    "type": "dark",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Finta",
+            "damage": 24
+        },
+        {
+            "name": "Onda Ígnea",
+            "damage": 38
+        }
+    ],
+    "image_path": "assets/houndoom.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Poliwag",
+    "type": "water",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        },
+        {
+            "name": "Ronquido",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/poliwag.png"
+}

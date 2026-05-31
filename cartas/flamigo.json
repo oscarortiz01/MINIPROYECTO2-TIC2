@@ -1,0 +1,16 @@
+{
+    "name": "Flamigo",
+    "type": "flying",
+    "hp": 82,
+    "attacks": [
+        {
+            "name": "Acróbata",
+            "damage": 22
+        },
+        {
+            "name": "Ida y Vuelta",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/flamigo.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Klinklang",
+    "type": "steel",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Rayo",
+            "damage": 36
+        },
+        {
+            "name": "Atadura",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/klinklang.png"
+}

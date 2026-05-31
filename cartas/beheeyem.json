@@ -1,0 +1,16 @@
+{
+    "name": "Beheeyem",
+    "type": "psychic",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Golpe Cabeza",
+            "damage": 28
+        },
+        {
+            "name": "Rayo Carga",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/beheeyem.png"
+}

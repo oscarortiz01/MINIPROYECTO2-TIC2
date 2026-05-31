@@ -1,0 +1,16 @@
+{
+    "name": "Yanma",
+    "type": "bug",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        },
+        {
+            "name": "Aire Afilado",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/yanma.png"
+}

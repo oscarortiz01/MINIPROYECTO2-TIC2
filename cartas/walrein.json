@@ -1,0 +1,16 @@
+{
+    "name": "Walrein",
+    "type": "ice",
+    "hp": 110,
+    "attacks": [
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        },
+        {
+            "name": "Terratemblor",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/walrein.png"
+}

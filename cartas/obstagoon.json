@@ -1,0 +1,16 @@
+{
+    "name": "Obstagoon",
+    "type": "dark",
+    "hp": 93,
+    "attacks": [
+        {
+            "name": "Sumisión",
+            "damage": 32
+        },
+        {
+            "name": "Placaje",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/obstagoon.png"
+}

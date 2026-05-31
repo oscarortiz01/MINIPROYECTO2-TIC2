@@ -1,0 +1,16 @@
+{
+    "name": "Chandelure",
+    "type": "ghost",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Envite Ígneo",
+            "damage": 45
+        },
+        {
+            "name": "Calcinación",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/chandelure.png"
+}

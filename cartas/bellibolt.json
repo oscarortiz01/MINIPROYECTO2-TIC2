@@ -1,0 +1,16 @@
+{
+    "name": "Bellibolt",
+    "type": "electric",
+    "hp": 109,
+    "attacks": [
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        },
+        {
+            "name": "Rayo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/bellibolt.png"
+}

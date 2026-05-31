@@ -1,0 +1,16 @@
+{
+    "name": "Wugtrio",
+    "type": "water",
+    "hp": 35,
+    "attacks": [
+        {
+            "name": "Golpe Bajo",
+            "damage": 28
+        },
+        {
+            "name": "Rapidez",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/wugtrio.png"
+}

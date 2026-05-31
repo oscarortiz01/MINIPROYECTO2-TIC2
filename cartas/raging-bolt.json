@@ -1,0 +1,16 @@
+{
+    "name": "Raging-bolt",
+    "type": "electric",
+    "hp": 125,
+    "attacks": [
+        {
+            "name": "Plancha Voltaica",
+            "damage": 40
+        },
+        {
+            "name": "Colmillo Rayo",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/raging-bolt.png"
+}

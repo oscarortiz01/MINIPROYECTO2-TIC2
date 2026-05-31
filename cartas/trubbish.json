@@ -1,0 +1,16 @@
+{
+    "name": "Trubbish",
+    "type": "poison",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Pulso Umbrío",
+            "damage": 32
+        },
+        {
+            "name": "Acoso",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/trubbish.png"
+}

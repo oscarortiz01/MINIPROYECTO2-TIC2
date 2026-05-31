@@ -1,0 +1,16 @@
+{
+    "name": "Rookidee",
+    "type": "flying",
+    "hp": 38,
+    "attacks": [
+        {
+            "name": "Buena Baza",
+            "damage": 24
+        },
+        {
+            "name": "Ataque Aéreo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/rookidee.png"
+}

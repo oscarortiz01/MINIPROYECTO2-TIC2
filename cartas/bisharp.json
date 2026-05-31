@@ -1,0 +1,16 @@
+{
+    "name": "Bisharp",
+    "type": "dark",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Pulso Umbrío",
+            "damage": 32
+        },
+        {
+            "name": "Golpe Bis",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/bisharp.png"
+}

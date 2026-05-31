@@ -1,0 +1,16 @@
+{
+    "name": "Steenee",
+    "type": "grass",
+    "hp": 52,
+    "attacks": [
+        {
+            "name": "Antojo",
+            "damage": 24
+        },
+        {
+            "name": "Beso Drenaje",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/steenee.png"
+}

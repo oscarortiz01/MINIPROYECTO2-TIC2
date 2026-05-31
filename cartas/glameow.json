@@ -1,0 +1,16 @@
+{
+    "name": "Glameow",
+    "type": "normal",
+    "hp": 49,
+    "attacks": [
+        {
+            "name": "Cola Férrea",
+            "damage": 40
+        },
+        {
+            "name": "Antojo",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/glameow.png"
+}

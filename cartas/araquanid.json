@@ -1,0 +1,16 @@
+{
+    "name": "Araquanid",
+    "type": "water",
+    "hp": 68,
+    "attacks": [
+        {
+            "name": "Escaldar",
+            "damage": 32
+        },
+        {
+            "name": "Gigadrenado",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/araquanid.png"
+}

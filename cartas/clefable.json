@@ -1,0 +1,16 @@
+{
+    "name": "Clefable",
+    "type": "fairy",
+    "hp": 95,
+    "attacks": [
+        {
+            "name": "Cabezazo Zen",
+            "damage": 32
+        },
+        {
+            "name": "Sumisión",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/clefable.png"
+}

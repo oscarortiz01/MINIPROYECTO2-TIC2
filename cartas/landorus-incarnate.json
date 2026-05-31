@@ -1,0 +1,16 @@
+{
+    "name": "Landorus-incarnate",
+    "type": "ground",
+    "hp": 89,
+    "attacks": [
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        },
+        {
+            "name": "Triturar",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/landorus-incarnate.png"
+}

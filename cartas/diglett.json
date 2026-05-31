@@ -1,0 +1,16 @@
+{
+    "name": "Diglett",
+    "type": "ground",
+    "hp": 10,
+    "attacks": [
+        {
+            "name": "Bomba Fango",
+            "damage": 26
+        },
+        {
+            "name": "Golpe Cabeza",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/diglett.png"
+}

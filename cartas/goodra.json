@@ -1,0 +1,16 @@
+{
+    "name": "Goodra",
+    "type": "dragon",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Chilling Water",
+            "damage": 20
+        },
+        {
+            "name": "Burbuja",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/goodra.png"
+}

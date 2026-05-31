@@ -1,0 +1,16 @@
+{
+    "name": "Venipede",
+    "type": "bug",
+    "hp": 30,
+    "attacks": [
+        {
+            "name": "Doble Rayo",
+            "damage": 30
+        },
+        {
+            "name": "Vendetta",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/venipede.png"
+}

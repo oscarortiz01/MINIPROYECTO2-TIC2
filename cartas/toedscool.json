@@ -1,0 +1,16 @@
+{
+    "name": "Toedscool",
+    "type": "ground",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Foco Resplandor",
+            "damage": 32
+        },
+        {
+            "name": "Placaje",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/toedscool.png"
+}

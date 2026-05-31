@@ -1,0 +1,16 @@
+{
+    "name": "Greedent",
+    "type": "normal",
+    "hp": 120,
+    "attacks": [
+        {
+            "name": "Fuerza Equina",
+            "damage": 38
+        },
+        {
+            "name": "Mordisco",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/greedent.png"
+}

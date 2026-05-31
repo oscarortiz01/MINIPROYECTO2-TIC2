@@ -1,0 +1,16 @@
+{
+    "name": "Klang",
+    "type": "steel",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Voltiocambio",
+            "damage": 28
+        },
+        {
+            "name": "Rayo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/klang.png"
+}

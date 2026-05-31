@@ -1,0 +1,16 @@
+{
+    "name": "Chikorita",
+    "type": "grass",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Bomba Germen",
+            "damage": 32
+        },
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/chikorita.png"
+}

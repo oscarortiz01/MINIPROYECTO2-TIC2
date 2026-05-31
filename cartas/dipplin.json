@@ -1,0 +1,16 @@
+{
+    "name": "Dipplin",
+    "type": "grass",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        },
+        {
+            "name": "Semilladora",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/dipplin.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Comfey",
+    "type": "fairy",
+    "hp": 51,
+    "attacks": [
+        {
+            "name": "Ida y Vuelta",
+            "damage": 28
+        },
+        {
+            "name": "Bola de Polen",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/comfey.png"
+}

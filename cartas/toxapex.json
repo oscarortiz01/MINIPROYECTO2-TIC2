@@ -1,0 +1,16 @@
+{
+    "name": "Toxapex",
+    "type": "poison",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Picotazo Veneno",
+            "damage": 15
+        },
+        {
+            "name": "Ice Spinner",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/toxapex.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Mandibuzz",
+    "type": "dark",
+    "hp": 110,
+    "attacks": [
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        },
+        {
+            "name": "Ida y Vuelta",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/mandibuzz.png"
+}

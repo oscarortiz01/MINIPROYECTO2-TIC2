@@ -1,0 +1,16 @@
+{
+    "name": "Palkia",
+    "type": "water",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Hidropulso",
+            "damage": 24
+        },
+        {
+            "name": "Ráfaga Escamas",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/palkia.png"
+}

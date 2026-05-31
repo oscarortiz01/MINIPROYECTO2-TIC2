@@ -1,0 +1,16 @@
+{
+    "name": "Shellder",
+    "type": "water",
+    "hp": 30,
+    "attacks": [
+        {
+            "name": "Hidroariete",
+            "damage": 34
+        },
+        {
+            "name": "Giro Rápido",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/shellder.png"
+}

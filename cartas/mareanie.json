@@ -1,0 +1,16 @@
+{
+    "name": "Mareanie",
+    "type": "poison",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Carga Tóxica",
+            "damage": 26
+        },
+        {
+            "name": "Salmuera",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/mareanie.png"
+}

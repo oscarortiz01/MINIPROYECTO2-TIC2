@@ -1,0 +1,16 @@
+{
+    "name": "Wimpod",
+    "type": "bug",
+    "hp": 25,
+    "attacks": [
+        {
+            "name": "Acua Jet",
+            "damage": 16
+        },
+        {
+            "name": "Rapidez",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/wimpod.png"
+}

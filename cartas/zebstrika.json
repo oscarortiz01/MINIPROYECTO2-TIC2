@@ -1,0 +1,16 @@
+{
+    "name": "Zebstrika",
+    "type": "electric",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        },
+        {
+            "name": "Bote",
+            "damage": 34
+        }
+    ],
+    "image_path": "assets/zebstrika.png"
+}

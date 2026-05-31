@@ -1,0 +1,16 @@
+{
+    "name": "Magcargo",
+    "type": "fire",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Llamarada",
+            "damage": 44
+        },
+        {
+            "name": "Pedrada",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/magcargo.png"
+}

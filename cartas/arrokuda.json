@@ -1,0 +1,16 @@
+{
+    "name": "Arrokuda",
+    "type": "water",
+    "hp": 41,
+    "attacks": [
+        {
+            "name": "Mordisco",
+            "damage": 24
+        },
+        {
+            "name": "Viraje",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/arrokuda.png"
+}

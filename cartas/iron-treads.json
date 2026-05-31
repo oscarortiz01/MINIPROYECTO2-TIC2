@@ -1,0 +1,16 @@
+{
+    "name": "Iron-treads",
+    "type": "ground",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Colmillo Rayo",
+            "damage": 26
+        },
+        {
+            "name": "Roca Afilada",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/iron-treads.png"
+}

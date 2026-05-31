@@ -1,0 +1,16 @@
+{
+    "name": "Breloom",
+    "type": "grass",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Avalancha",
+            "damage": 30
+        },
+        {
+            "name": "Energibola",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/breloom.png"
+}

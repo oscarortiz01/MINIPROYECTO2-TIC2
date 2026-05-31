@@ -1,0 +1,16 @@
+{
+    "name": "Torkoal",
+    "type": "fire",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Humareda",
+            "damage": 32
+        },
+        {
+            "name": "Arenas Ardientes",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/torkoal.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Brionne",
+    "type": "water",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        },
+        {
+            "name": "Destructor",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/brionne.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Mime-jr",
+    "type": "psychic",
+    "hp": 20,
+    "attacks": [
+        {
+            "name": "Confusión",
+            "damage": 20
+        },
+        {
+            "name": "Premonición",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/mime-jr.png"
+}

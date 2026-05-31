@@ -1,0 +1,16 @@
+{
+    "name": "Machamp",
+    "type": "fighting",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Terratemblor",
+            "damage": 24
+        },
+        {
+            "name": "Tumba Rocas",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/machamp.png"
+}

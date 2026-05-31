@@ -1,0 +1,16 @@
+{
+    "name": "Lombre",
+    "type": "water",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Bomba Germen",
+            "damage": 32
+        },
+        {
+            "name": "Demolición",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/lombre.png"
+}

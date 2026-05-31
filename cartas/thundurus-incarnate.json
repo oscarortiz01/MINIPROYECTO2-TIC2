@@ -1,0 +1,16 @@
+{
+    "name": "Thundurus-incarnate",
+    "type": "electric",
+    "hp": 79,
+    "attacks": [
+        {
+            "name": "Rayo Carga",
+            "damage": 20
+        },
+        {
+            "name": "Giro Vil",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/thundurus-incarnate.png"
+}

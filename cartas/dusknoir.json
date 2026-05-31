@@ -1,0 +1,16 @@
+{
+    "name": "Dusknoir",
+    "type": "ghost",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        },
+        {
+            "name": "Infortunio",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/dusknoir.png"
+}

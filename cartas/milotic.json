@@ -1,0 +1,16 @@
+{
+    "name": "Milotic",
+    "type": "water",
+    "hp": 95,
+    "attacks": [
+        {
+            "name": "Dragoaliento",
+            "damage": 24
+        },
+        {
+            "name": "Acua Cola",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/milotic.png"
+}

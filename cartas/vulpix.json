@@ -1,0 +1,16 @@
+{
+    "name": "Vulpix",
+    "type": "fire",
+    "hp": 38,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/vulpix.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Gardevoir",
+    "type": "psychic",
+    "hp": 68,
+    "attacks": [
+        {
+            "name": "Psicocarga",
+            "damage": 32
+        },
+        {
+            "name": "Rayo Carga",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/gardevoir.png"
+}

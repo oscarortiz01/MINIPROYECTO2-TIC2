@@ -1,0 +1,16 @@
+{
+    "name": "Ludicolo",
+    "type": "water",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Canon",
+            "damage": 24
+        },
+        {
+            "name": "Ice Spinner",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/ludicolo.png"
+}

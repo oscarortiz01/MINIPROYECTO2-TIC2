@@ -1,0 +1,16 @@
+{
+    "name": "Ducklett",
+    "type": "water",
+    "hp": 62,
+    "attacks": [
+        {
+            "name": "Ronquido",
+            "damage": 20
+        },
+        {
+            "name": "Voz Cautivadora",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/ducklett.png"
+}

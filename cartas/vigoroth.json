@@ -1,0 +1,16 @@
+{
+    "name": "Vigoroth",
+    "type": "normal",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Vozarrón",
+            "damage": 36
+        },
+        {
+            "name": "Tijera X",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/vigoroth.png"
+}

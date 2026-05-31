@@ -1,0 +1,16 @@
+{
+    "name": "Swirlix",
+    "type": "fairy",
+    "hp": 62,
+    "attacks": [
+        {
+            "name": "Viento Feérico",
+            "damage": 16
+        },
+        {
+            "name": "Surf",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/swirlix.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Blitzle",
+    "type": "electric",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Chispazo",
+            "damage": 32
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/blitzle.png"
+}

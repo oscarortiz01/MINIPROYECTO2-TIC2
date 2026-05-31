@@ -1,0 +1,16 @@
+{
+    "name": "Manectric",
+    "type": "electric",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Ladrón",
+            "damage": 24
+        },
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/manectric.png"
+}

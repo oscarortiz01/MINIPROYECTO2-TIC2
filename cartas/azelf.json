@@ -1,0 +1,16 @@
+{
+    "name": "Azelf",
+    "type": "psychic",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Psicocorte",
+            "damage": 28
+        },
+        {
+            "name": "Puño Drenaje",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/azelf.png"
+}

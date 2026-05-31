@@ -1,0 +1,16 @@
+{
+    "name": "Gothitelle",
+    "type": "psychic",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Psicorruido",
+            "damage": 30
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/gothitelle.png"
+}

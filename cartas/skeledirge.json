@@ -1,0 +1,16 @@
+{
+    "name": "Skeledirge",
+    "type": "fire",
+    "hp": 104,
+    "attacks": [
+        {
+            "name": "Voto Fuego",
+            "damage": 32
+        },
+        {
+            "name": "Cólera Ardiente",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/skeledirge.png"
+}

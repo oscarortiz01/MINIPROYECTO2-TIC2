@@ -1,0 +1,16 @@
+{
+    "name": "Delphox",
+    "type": "fire",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Rapidez",
+            "damage": 24
+        },
+        {
+            "name": "Nitrocarga",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/delphox.png"
+}

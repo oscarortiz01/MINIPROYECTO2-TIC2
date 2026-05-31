@@ -1,0 +1,16 @@
+{
+    "name": "Barbaracle",
+    "type": "rock",
+    "hp": 72,
+    "attacks": [
+        {
+            "name": "Alboroto",
+            "damage": 36
+        },
+        {
+            "name": "Escaldar",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/barbaracle.png"
+}

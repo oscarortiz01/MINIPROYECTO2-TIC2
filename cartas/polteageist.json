@@ -1,0 +1,16 @@
+{
+    "name": "Polteageist",
+    "type": "ghost",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Poder Reserva",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/polteageist.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Ninjask",
+    "type": "bug",
+    "hp": 61,
+    "attacks": [
+        {
+            "name": "Acróbata",
+            "damage": 22
+        },
+        {
+            "name": "Ladrón",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/ninjask.png"
+}

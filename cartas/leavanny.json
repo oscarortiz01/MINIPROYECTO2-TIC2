@@ -1,0 +1,16 @@
+{
+    "name": "Leavanny",
+    "type": "bug",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Tijera X",
+            "damage": 32
+        },
+        {
+            "name": "Zumbido",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/leavanny.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Koffing",
+    "type": "poison",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Canon",
+            "damage": 24
+        },
+        {
+            "name": "Rodar",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/koffing.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Lanturn",
+    "type": "water",
+    "hp": 125,
+    "attacks": [
+        {
+            "name": "Rayo Carga",
+            "damage": 20
+        },
+        {
+            "name": "Agua Lodosa",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/lanturn.png"
+}

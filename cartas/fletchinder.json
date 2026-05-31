@@ -1,0 +1,16 @@
+{
+    "name": "Fletchinder",
+    "type": "fire",
+    "hp": 62,
+    "attacks": [
+        {
+            "name": "Lanzallamas",
+            "damage": 36
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/fletchinder.png"
+}

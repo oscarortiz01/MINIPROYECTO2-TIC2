@@ -1,0 +1,16 @@
+{
+    "name": "Phanpy",
+    "type": "ground",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Fuerza Equina",
+            "damage": 38
+        },
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/phanpy.png"
+}

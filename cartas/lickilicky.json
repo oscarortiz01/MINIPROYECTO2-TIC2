@@ -1,0 +1,16 @@
+{
+    "name": "Lickilicky",
+    "type": "normal",
+    "hp": 110,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Cola Dragón",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/lickilicky.png"
+}

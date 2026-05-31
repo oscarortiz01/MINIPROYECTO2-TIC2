@@ -1,0 +1,16 @@
+{
+    "name": "Mr-mime",
+    "type": "psychic",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Golpe Cabeza",
+            "damage": 28
+        },
+        {
+            "name": "Onda Voltio",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/mr-mime.png"
+}

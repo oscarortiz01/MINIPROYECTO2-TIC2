@@ -1,0 +1,16 @@
+{
+    "name": "Weavile",
+    "type": "dark",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Viento Hielo",
+            "damage": 22
+        },
+        {
+            "name": "Vendetta",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/weavile.png"
+}

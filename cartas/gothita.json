@@ -1,0 +1,16 @@
+{
+    "name": "Gothita",
+    "type": "psychic",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Psicorrayo",
+            "damage": 26
+        },
+        {
+            "name": "Avalancha",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/gothita.png"
+}

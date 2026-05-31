@@ -1,0 +1,16 @@
+{
+    "name": "Lillipup",
+    "type": "normal",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Persecución",
+            "damage": 16
+        },
+        {
+            "name": "Imagen",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/lillipup.png"
+}

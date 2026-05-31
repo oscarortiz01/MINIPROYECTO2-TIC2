@@ -1,0 +1,16 @@
+{
+    "name": "Teddiursa",
+    "type": "normal",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Golpes Furia",
+            "damage": 15
+        },
+        {
+            "name": "Rapidez",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/teddiursa.png"
+}

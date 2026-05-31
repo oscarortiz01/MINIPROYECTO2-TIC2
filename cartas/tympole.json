@@ -1,0 +1,16 @@
+{
+    "name": "Tympole",
+    "type": "water",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Eco Voz",
+            "damage": 16
+        },
+        {
+            "name": "Escaldar",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/tympole.png"
+}

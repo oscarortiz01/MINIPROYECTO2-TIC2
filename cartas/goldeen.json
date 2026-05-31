@@ -1,0 +1,16 @@
+{
+    "name": "Goldeen",
+    "type": "water",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Rayo Burbuja",
+            "damage": 26
+        },
+        {
+            "name": "Megacuerno",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/goldeen.png"
+}

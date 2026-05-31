@@ -1,0 +1,16 @@
+{
+    "name": "Cresselia",
+    "type": "psychic",
+    "hp": 120,
+    "attacks": [
+        {
+            "name": "Psicorrayo",
+            "damage": 26
+        },
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/cresselia.png"
+}

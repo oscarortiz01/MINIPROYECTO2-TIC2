@@ -1,0 +1,16 @@
+{
+    "name": "Barraskewda",
+    "type": "water",
+    "hp": 61,
+    "attacks": [
+        {
+            "name": "Ventisca",
+            "damage": 44
+        },
+        {
+            "name": "Bote",
+            "damage": 34
+        }
+    ],
+    "image_path": "assets/barraskewda.png"
+}

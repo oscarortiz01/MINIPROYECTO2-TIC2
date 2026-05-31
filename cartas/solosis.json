@@ -1,0 +1,16 @@
+{
+    "name": "Solosis",
+    "type": "psychic",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Trueno",
+            "damage": 44
+        },
+        {
+            "name": "Cabezazo Zen",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/solosis.png"
+}

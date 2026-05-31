@@ -1,0 +1,16 @@
+{
+    "name": "Sinistcha",
+    "type": "grass",
+    "hp": 71,
+    "attacks": [
+        {
+            "name": "Poltergeist",
+            "damage": 44
+        },
+        {
+            "name": "Megaagotar",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/sinistcha.png"
+}

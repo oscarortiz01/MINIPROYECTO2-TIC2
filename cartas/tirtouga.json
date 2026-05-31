@@ -1,0 +1,16 @@
+{
+    "name": "Tirtouga",
+    "type": "water",
+    "hp": 54,
+    "attacks": [
+        {
+            "name": "Rayo Meteórico",
+            "damage": 45
+        },
+        {
+            "name": "Poder Pasado",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/tirtouga.png"
+}

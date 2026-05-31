@@ -1,0 +1,16 @@
+{
+    "name": "Drapion",
+    "type": "poison",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Tajo Umbrío",
+            "damage": 28
+        },
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/drapion.png"
+}

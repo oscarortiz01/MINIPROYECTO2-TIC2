@@ -1,0 +1,16 @@
+{
+    "name": "Cetitan",
+    "type": "ice",
+    "hp": 170,
+    "attacks": [
+        {
+            "name": "Ventisca",
+            "damage": 44
+        },
+        {
+            "name": "Rayo Hielo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/cetitan.png"
+}

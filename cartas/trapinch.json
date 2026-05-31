@@ -1,0 +1,16 @@
+{
+    "name": "Trapinch",
+    "type": "ground",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Corte Furia",
+            "damage": 16
+        },
+        {
+            "name": "Escaramuza",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/trapinch.png"
+}

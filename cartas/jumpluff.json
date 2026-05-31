@@ -1,0 +1,16 @@
+{
+    "name": "Jumpluff",
+    "type": "grass",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Golpe Aéreo",
+            "damage": 24
+        },
+        {
+            "name": "Bote",
+            "damage": 34
+        }
+    ],
+    "image_path": "assets/jumpluff.png"
+}

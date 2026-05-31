@@ -1,0 +1,16 @@
+{
+    "name": "Hypno",
+    "type": "psychic",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        },
+        {
+            "name": "Comesueños",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/hypno.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Impidimp",
+    "type": "dark",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Buena Baza",
+            "damage": 24
+        },
+        {
+            "name": "Megapuño",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/impidimp.png"
+}

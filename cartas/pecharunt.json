@@ -1,0 +1,16 @@
+{
+    "name": "Pecharunt",
+    "type": "poison",
+    "hp": 88,
+    "attacks": [
+        {
+            "name": "Bomba Ácida",
+            "damage": 16
+        },
+        {
+            "name": "Carga Tóxica",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/pecharunt.png"
+}

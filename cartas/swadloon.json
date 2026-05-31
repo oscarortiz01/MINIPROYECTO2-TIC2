@@ -1,0 +1,16 @@
+{
+    "name": "Swadloon",
+    "type": "bug",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Electrotela",
+            "damage": 22
+        },
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/swadloon.png"
+}

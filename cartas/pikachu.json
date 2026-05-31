@@ -1,0 +1,16 @@
+{
+    "name": "Pikachu",
+    "type": "electric",
+    "hp": 35,
+    "attacks": [
+        {
+            "name": "Beso Drenaje",
+            "damage": 20
+        },
+        {
+            "name": "Demolición",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/pikachu.png"
+}

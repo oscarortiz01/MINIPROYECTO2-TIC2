@@ -1,0 +1,16 @@
+{
+    "name": "Lairon",
+    "type": "steel",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        },
+        {
+            "name": "Hidropulso",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/lairon.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Pichu",
+    "type": "electric",
+    "hp": 20,
+    "attacks": [
+        {
+            "name": "Bofetón Lodo",
+            "damage": 15
+        },
+        {
+            "name": "Electrocañón",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/pichu.png"
+}

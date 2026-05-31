@@ -1,0 +1,16 @@
+{
+    "name": "Stoutland",
+    "type": "normal",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        },
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/stoutland.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Crabominable",
+    "type": "fighting",
+    "hp": 97,
+    "attacks": [
+        {
+            "name": "Golpe Cuerpo",
+            "damage": 34
+        },
+        {
+            "name": "Puño Hielo",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/crabominable.png"
+}

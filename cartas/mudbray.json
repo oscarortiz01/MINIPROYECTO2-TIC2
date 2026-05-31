@@ -1,0 +1,16 @@
+{
+    "name": "Mudbray",
+    "type": "ground",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Fuerza",
+            "damage": 32
+        },
+        {
+            "name": "Bofetón Lodo",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/mudbray.png"
+}

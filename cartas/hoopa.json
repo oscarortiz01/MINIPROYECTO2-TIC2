@@ -1,0 +1,16 @@
+{
+    "name": "Hoopa",
+    "type": "psychic",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Bola Sombra",
+            "damage": 32
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/hoopa.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Raichu",
+    "type": "electric",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Trailblaze",
+            "damage": 20
+        },
+        {
+            "name": "Palma Rauda",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/raichu.png"
+}

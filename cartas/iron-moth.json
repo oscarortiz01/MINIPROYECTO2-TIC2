@@ -1,0 +1,16 @@
+{
+    "name": "Iron-moth",
+    "type": "fire",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Onda Tóxica",
+            "damage": 38
+        },
+        {
+            "name": "Imagen",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/iron-moth.png"
+}

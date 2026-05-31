@@ -1,0 +1,16 @@
+{
+    "name": "Sandshrew",
+    "type": "ground",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Chupavidas",
+            "damage": 32
+        },
+        {
+            "name": "Puño Dinámico",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/sandshrew.png"
+}

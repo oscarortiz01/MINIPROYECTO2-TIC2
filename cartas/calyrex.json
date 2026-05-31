@@ -1,0 +1,16 @@
+{
+    "name": "Calyrex",
+    "type": "psychic",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Gigadrenado",
+            "damage": 30
+        },
+        {
+            "name": "Canon",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/calyrex.png"
+}

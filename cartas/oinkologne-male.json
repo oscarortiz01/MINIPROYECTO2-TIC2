@@ -1,0 +1,16 @@
+{
+    "name": "Oinkologne-male",
+    "type": "normal",
+    "hp": 110,
+    "attacks": [
+        {
+            "name": "Pataleta",
+            "damage": 30
+        },
+        {
+            "name": "Placaje",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/oinkologne-male.png"
+}

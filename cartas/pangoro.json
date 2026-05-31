@@ -1,0 +1,16 @@
+{
+    "name": "Pangoro",
+    "type": "fighting",
+    "hp": 95,
+    "attacks": [
+        {
+            "name": "Puño Drenaje",
+            "damage": 30
+        },
+        {
+            "name": "Puño Hielo",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/pangoro.png"
+}

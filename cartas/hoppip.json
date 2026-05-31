@@ -1,0 +1,16 @@
+{
+    "name": "Hoppip",
+    "type": "grass",
+    "hp": 35,
+    "attacks": [
+        {
+            "name": "Plancha",
+            "damage": 32
+        },
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/hoppip.png"
+}

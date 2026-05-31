@@ -1,0 +1,16 @@
+{
+    "name": "Wartortle",
+    "type": "water",
+    "hp": 59,
+    "attacks": [
+        {
+            "name": "Golpe Cuerpo",
+            "damage": 34
+        },
+        {
+            "name": "Torbellino",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/wartortle.png"
+}

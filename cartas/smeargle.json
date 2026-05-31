@@ -1,0 +1,16 @@
+{
+    "name": "Smeargle",
+    "type": "normal",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Placaje",
+            "damage": 20
+        },
+        {
+            "name": "Golpe Fuerte",
+            "damage": 35
+        }
+    ],
+    "image_path": "assets/smeargle.png"
+}

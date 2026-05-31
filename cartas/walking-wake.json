@@ -1,0 +1,16 @@
+{
+    "name": "Walking-wake",
+    "type": "water",
+    "hp": 99,
+    "attacks": [
+        {
+            "name": "Escaldar",
+            "damage": 32
+        },
+        {
+            "name": "Torbellino",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/walking-wake.png"
+}

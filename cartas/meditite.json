@@ -1,0 +1,16 @@
+{
+    "name": "Meditite",
+    "type": "fighting",
+    "hp": 30,
+    "attacks": [
+        {
+            "name": "Puño Hielo",
+            "damage": 30
+        },
+        {
+            "name": "Fuerza",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/meditite.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Seaking",
+    "type": "water",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Rayo Hielo",
+            "damage": 36
+        },
+        {
+            "name": "Disparo Lodo",
+            "damage": 22
+        }
+    ],
+    "image_path": "assets/seaking.png"
+}

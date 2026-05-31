@@ -1,0 +1,16 @@
+{
+    "name": "Mantine",
+    "type": "water",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Buceo",
+            "damage": 32
+        },
+        {
+            "name": "Vendaval",
+            "damage": 44
+        }
+    ],
+    "image_path": "assets/mantine.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Feraligatr",
+    "type": "water",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        },
+        {
+            "name": "Hidrocañón",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/feraligatr.png"
+}

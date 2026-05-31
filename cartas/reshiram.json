@@ -1,0 +1,16 @@
+{
+    "name": "Reshiram",
+    "type": "dragon",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Cabezazo Zen",
+            "damage": 32
+        },
+        {
+            "name": "Bola Sombra",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/reshiram.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Huntail",
+    "type": "water",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Salmuera",
+            "damage": 26
+        },
+        {
+            "name": "Ventisca",
+            "damage": 44
+        }
+    ],
+    "image_path": "assets/huntail.png"
+}

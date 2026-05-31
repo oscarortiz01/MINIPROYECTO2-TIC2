@@ -1,0 +1,16 @@
+{
+    "name": "Delcatty",
+    "type": "normal",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Sorpresa",
+            "damage": 16
+        },
+        {
+            "name": "Cabezazo Zen",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/delcatty.png"
+}

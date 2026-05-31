@@ -1,0 +1,16 @@
+{
+    "name": "Gothorita",
+    "type": "psychic",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        },
+        {
+            "name": "Rayo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/gothorita.png"
+}

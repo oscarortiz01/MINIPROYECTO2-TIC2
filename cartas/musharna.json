@@ -1,0 +1,16 @@
+{
+    "name": "Musharna",
+    "type": "psychic",
+    "hp": 116,
+    "attacks": [
+        {
+            "name": "Psicorrayo",
+            "damage": 26
+        },
+        {
+            "name": "Vasta Fuerza",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/musharna.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Mabosstiff",
+    "type": "dark",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Presa Maxilar",
+            "damage": 32
+        },
+        {
+            "name": "Desahogo",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/mabosstiff.png"
+}

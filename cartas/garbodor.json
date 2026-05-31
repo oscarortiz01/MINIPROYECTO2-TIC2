@@ -1,0 +1,16 @@
+{
+    "name": "Garbodor",
+    "type": "poison",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Rayo Solar",
+            "damage": 45
+        },
+        {
+            "name": "Eructo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/garbodor.png"
+}

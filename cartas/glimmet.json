@@ -1,0 +1,16 @@
+{
+    "name": "Glimmet",
+    "type": "rock",
+    "hp": 48,
+    "attacks": [
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        },
+        {
+            "name": "Bomba Ácida",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/glimmet.png"
+}

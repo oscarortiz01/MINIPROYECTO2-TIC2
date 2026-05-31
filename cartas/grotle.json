@@ -1,0 +1,16 @@
+{
+    "name": "Grotle",
+    "type": "grass",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Bofetón Lodo",
+            "damage": 15
+        },
+        {
+            "name": "Bomba Germen",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/grotle.png"
+}

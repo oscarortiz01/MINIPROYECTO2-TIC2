@@ -1,0 +1,16 @@
+{
+    "name": "Maushold-family-of-four",
+    "type": "normal",
+    "hp": 74,
+    "attacks": [
+        {
+            "name": "Ladrón",
+            "damage": 24
+        },
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/maushold-family-of-four.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Medicham",
+    "type": "fighting",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Comesueños",
+            "damage": 40
+        },
+        {
+            "name": "Demolición",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/medicham.png"
+}

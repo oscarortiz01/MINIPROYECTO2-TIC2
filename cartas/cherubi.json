@@ -1,0 +1,16 @@
+{
+    "name": "Cherubi",
+    "type": "grass",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Canon",
+            "damage": 24
+        },
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/cherubi.png"
+}

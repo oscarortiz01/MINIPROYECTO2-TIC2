@@ -1,0 +1,16 @@
+{
+    "name": "Hatenna",
+    "type": "psychic",
+    "hp": 42,
+    "attacks": [
+        {
+            "name": "Poder Reserva",
+            "damage": 15
+        },
+        {
+            "name": "Premonición",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/hatenna.png"
+}

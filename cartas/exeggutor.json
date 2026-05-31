@@ -1,0 +1,16 @@
+{
+    "name": "Exeggutor",
+    "type": "grass",
+    "hp": 95,
+    "attacks": [
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        },
+        {
+            "name": "Explosión",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/exeggutor.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Raticate",
+    "type": "normal",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Derribo",
+            "damage": 36
+        },
+        {
+            "name": "Fuerza",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/raticate.png"
+}

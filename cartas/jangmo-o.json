@@ -1,0 +1,16 @@
+{
+    "name": "Jangmo-o",
+    "type": "dragon",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Falso Tortazo",
+            "damage": 16
+        },
+        {
+            "name": "Demolición",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/jangmo-o.png"
+}

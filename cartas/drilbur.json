@@ -1,0 +1,16 @@
+{
+    "name": "Drilbur",
+    "type": "ground",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Arenas Ardientes",
+            "damage": 28
+        },
+        {
+            "name": "Tierra Viva",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/drilbur.png"
+}

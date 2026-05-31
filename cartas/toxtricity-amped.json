@@ -1,0 +1,16 @@
+{
+    "name": "Toxtricity-amped",
+    "type": "electric",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Onda Tóxica",
+            "damage": 38
+        },
+        {
+            "name": "Vendetta",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/toxtricity-amped.png"
+}

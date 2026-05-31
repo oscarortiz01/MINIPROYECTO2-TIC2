@@ -1,0 +1,16 @@
+{
+    "name": "Chien-pao",
+    "type": "dark",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Canto Helado",
+            "damage": 16
+        },
+        {
+            "name": "Golpe Mordaza",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/chien-pao.png"
+}

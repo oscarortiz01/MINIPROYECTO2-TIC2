@@ -1,0 +1,16 @@
+{
+    "name": "Smoliv",
+    "type": "grass",
+    "hp": 41,
+    "attacks": [
+        {
+            "name": "Gigadrenado",
+            "damage": 30
+        },
+        {
+            "name": "Megaagotar",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/smoliv.png"
+}

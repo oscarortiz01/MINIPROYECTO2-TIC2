@@ -1,0 +1,16 @@
+{
+    "name": "Mightyena",
+    "type": "dark",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Golpe Cuerpo",
+            "damage": 34
+        },
+        {
+            "name": "Pulso Umbrío",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/mightyena.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Chingling",
+    "type": "psychic",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Rodar",
+            "damage": 15
+        },
+        {
+            "name": "Comesueños",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/chingling.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Altaria",
+    "type": "dragon",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Golpe Aéreo",
+            "damage": 24
+        },
+        {
+            "name": "Rayo Hielo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/altaria.png"
+}

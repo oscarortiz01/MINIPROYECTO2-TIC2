@@ -1,0 +1,16 @@
+{
+    "name": "Dracozolt",
+    "type": "electric",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Avalancha",
+            "damage": 30
+        },
+        {
+            "name": "Voltio Cruel",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/dracozolt.png"
+}

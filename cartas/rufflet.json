@@ -1,0 +1,16 @@
+{
+    "name": "Rufflet",
+    "type": "normal",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Onda Ígnea",
+            "damage": 38
+        },
+        {
+            "name": "Fuerza",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/rufflet.png"
+}

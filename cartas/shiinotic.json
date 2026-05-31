@@ -1,0 +1,16 @@
+{
+    "name": "Shiinotic",
+    "type": "grass",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Impresionar",
+            "damage": 15
+        },
+        {
+            "name": "Gigadrenado",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/shiinotic.png"
+}

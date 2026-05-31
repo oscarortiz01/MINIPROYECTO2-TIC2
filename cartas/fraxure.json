@@ -1,0 +1,16 @@
+{
+    "name": "Fraxure",
+    "type": "dragon",
+    "hp": 66,
+    "attacks": [
+        {
+            "name": "Buena Baza",
+            "damage": 24
+        },
+        {
+            "name": "Fuerza",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/fraxure.png"
+}

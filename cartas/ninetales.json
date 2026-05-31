@@ -1,0 +1,16 @@
+{
+    "name": "Ninetales",
+    "type": "fire",
+    "hp": 73,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Envidia Ardiente",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/ninetales.png"
+}

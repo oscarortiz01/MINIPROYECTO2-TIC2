@@ -1,0 +1,16 @@
+{
+    "name": "Roserade",
+    "type": "grass",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        },
+        {
+            "name": "Fitoimpulso",
+            "damage": 22
+        }
+    ],
+    "image_path": "assets/roserade.png"
+}

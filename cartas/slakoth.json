@@ -1,0 +1,16 @@
+{
+    "name": "Slakoth",
+    "type": "normal",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Falso Tortazo",
+            "damage": 16
+        },
+        {
+            "name": "Bofetón Lodo",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/slakoth.png"
+}

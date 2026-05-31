@@ -1,0 +1,16 @@
+{
+    "name": "Luvdisc",
+    "type": "water",
+    "hp": 43,
+    "attacks": [
+        {
+            "name": "Pistola Agua",
+            "damage": 16
+        },
+        {
+            "name": "Acua Jet",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/luvdisc.png"
+}

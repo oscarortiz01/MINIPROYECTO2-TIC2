@@ -1,0 +1,16 @@
+{
+    "name": "Bidoof",
+    "type": "normal",
+    "hp": 59,
+    "attacks": [
+        {
+            "name": "Fuerza Bruta",
+            "damage": 45
+        },
+        {
+            "name": "Cabezazo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/bidoof.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Charcadet",
+    "type": "fire",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Sofoco",
+            "damage": 45
+        },
+        {
+            "name": "Lanzallamas",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/charcadet.png"
+}

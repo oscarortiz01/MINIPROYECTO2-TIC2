@@ -1,0 +1,16 @@
+{
+    "name": "Grumpig",
+    "type": "psychic",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        },
+        {
+            "name": "Joya de Luz",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/grumpig.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Brambleghast",
+    "type": "grass",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        },
+        {
+            "name": "Semilladora",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/brambleghast.png"
+}

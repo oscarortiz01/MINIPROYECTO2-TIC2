@@ -1,0 +1,16 @@
+{
+    "name": "Litwick",
+    "type": "ghost",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Calcinación",
+            "damage": 24
+        },
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/litwick.png"
+}

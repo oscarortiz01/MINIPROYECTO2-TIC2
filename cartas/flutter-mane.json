@@ -1,0 +1,16 @@
+{
+    "name": "Flutter-mane",
+    "type": "ghost",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Hoja Mágica",
+            "damage": 24
+        },
+        {
+            "name": "Beso Drenaje",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/flutter-mane.png"
+}

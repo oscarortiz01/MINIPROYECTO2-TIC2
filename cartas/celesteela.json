@@ -1,0 +1,16 @@
+{
+    "name": "Celesteela",
+    "type": "steel",
+    "hp": 97,
+    "attacks": [
+        {
+            "name": "Canon",
+            "damage": 24
+        },
+        {
+            "name": "Autodestrucción",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/celesteela.png"
+}

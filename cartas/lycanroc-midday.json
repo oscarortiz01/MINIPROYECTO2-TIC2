@@ -1,0 +1,16 @@
+{
+    "name": "Lycanroc-midday",
+    "type": "rock",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Carantoña",
+            "damage": 36
+        },
+        {
+            "name": "Trailblaze",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/lycanroc-midday.png"
+}

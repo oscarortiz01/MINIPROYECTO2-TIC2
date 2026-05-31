@@ -1,0 +1,16 @@
+{
+    "name": "Darmanitan-standard",
+    "type": "fire",
+    "hp": 105,
+    "attacks": [
+        {
+            "name": "Demolición",
+            "damage": 30
+        },
+        {
+            "name": "Roca Afilada",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/darmanitan-standard.png"
+}

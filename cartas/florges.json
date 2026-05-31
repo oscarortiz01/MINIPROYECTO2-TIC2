@@ -1,0 +1,16 @@
+{
+    "name": "Florges",
+    "type": "fairy",
+    "hp": 78,
+    "attacks": [
+        {
+            "name": "Canto Encantador",
+            "damage": 32
+        },
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/florges.png"
+}

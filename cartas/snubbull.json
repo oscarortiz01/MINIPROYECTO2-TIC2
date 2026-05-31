@@ -1,0 +1,16 @@
+{
+    "name": "Snubbull",
+    "type": "fairy",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Triturar",
+            "damage": 32
+        },
+        {
+            "name": "Electrocañón",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/snubbull.png"
+}

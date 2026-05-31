@@ -1,0 +1,16 @@
+{
+    "name": "Perrserker",
+    "type": "steel",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Vendetta",
+            "damage": 20
+        },
+        {
+            "name": "Triturar",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/perrserker.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Machoke",
+    "type": "fighting",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        },
+        {
+            "name": "Puño Bala",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/machoke.png"
+}

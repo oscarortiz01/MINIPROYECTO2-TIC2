@@ -1,0 +1,16 @@
+{
+    "name": "Gourgeist-average",
+    "type": "ghost",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Golpe Rastrero",
+            "damage": 28
+        },
+        {
+            "name": "Nitrocarga",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/gourgeist-average.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Pineco",
+    "type": "bug",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Ronquido",
+            "damage": 20
+        },
+        {
+            "name": "Bucle Arena",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/pineco.png"
+}

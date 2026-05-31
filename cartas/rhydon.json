@@ -1,0 +1,16 @@
+{
+    "name": "Rhydon",
+    "type": "ground",
+    "hp": 105,
+    "attacks": [
+        {
+            "name": "Triturar",
+            "damage": 32
+        },
+        {
+            "name": "Ventisca",
+            "damage": 44
+        }
+    ],
+    "image_path": "assets/rhydon.png"
+}

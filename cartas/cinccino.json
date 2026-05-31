@@ -1,0 +1,16 @@
+{
+    "name": "Cinccino",
+    "type": "normal",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Cola Férrea",
+            "damage": 40
+        },
+        {
+            "name": "Bomba Germen",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/cinccino.png"
+}

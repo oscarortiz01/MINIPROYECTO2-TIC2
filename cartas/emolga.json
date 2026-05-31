@@ -1,0 +1,16 @@
+{
+    "name": "Emolga",
+    "type": "electric",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Desarme",
+            "damage": 26
+        },
+        {
+            "name": "Electrotela",
+            "damage": 22
+        }
+    ],
+    "image_path": "assets/emolga.png"
+}

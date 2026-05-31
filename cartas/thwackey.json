@@ -1,0 +1,16 @@
+{
+    "name": "Thwackey",
+    "type": "grass",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Machada",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/thwackey.png"
+}

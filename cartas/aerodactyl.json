@@ -1,0 +1,16 @@
+{
+    "name": "Aerodactyl",
+    "type": "rock",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Derribo",
+            "damage": 36
+        },
+        {
+            "name": "Rayo Meteórico",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/aerodactyl.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Feebas",
+    "type": "water",
+    "hp": 20,
+    "attacks": [
+        {
+            "name": "Canon",
+            "damage": 24
+        },
+        {
+            "name": "Cola Férrea",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/feebas.png"
+}

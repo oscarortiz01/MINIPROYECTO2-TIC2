@@ -1,0 +1,16 @@
+{
+    "name": "Prinplup",
+    "type": "water",
+    "hp": 64,
+    "attacks": [
+        {
+            "name": "Chilling Water",
+            "damage": 20
+        },
+        {
+            "name": "Pico Taladro",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/prinplup.png"
+}

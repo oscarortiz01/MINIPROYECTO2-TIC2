@@ -1,0 +1,16 @@
+{
+    "name": "Virizion",
+    "type": "grass",
+    "hp": 91,
+    "attacks": [
+        {
+            "name": "Fitoimpulso",
+            "damage": 22
+        },
+        {
+            "name": "Ronquido",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/virizion.png"
+}

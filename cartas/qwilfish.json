@@ -1,0 +1,16 @@
+{
+    "name": "Qwilfish",
+    "type": "water",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Picotazo Veneno",
+            "damage": 15
+        },
+        {
+            "name": "Derribo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/qwilfish.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Primeape",
+    "type": "fighting",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Megapatada",
+            "damage": 45
+        },
+        {
+            "name": "Lanzamugre",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/primeape.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Latios",
+    "type": "dragon",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Ala de Acero",
+            "damage": 28
+        },
+        {
+            "name": "Derribo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/latios.png"
+}

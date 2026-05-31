@@ -1,0 +1,16 @@
+{
+    "name": "Probopass",
+    "type": "rock",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Rodar",
+            "damage": 15
+        },
+        {
+            "name": "Ronquido",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/probopass.png"
+}

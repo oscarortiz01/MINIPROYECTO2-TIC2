@@ -1,0 +1,16 @@
+{
+    "name": "Sandslash",
+    "type": "ground",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Corte Furia",
+            "damage": 16
+        },
+        {
+            "name": "Disparo Lodo",
+            "damage": 22
+        }
+    ],
+    "image_path": "assets/sandslash.png"
+}

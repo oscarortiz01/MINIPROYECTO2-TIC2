@@ -1,0 +1,16 @@
+{
+    "name": "Nacli",
+    "type": "rock",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Pataleta",
+            "damage": 30
+        },
+        {
+            "name": "Imagen",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/nacli.png"
+}

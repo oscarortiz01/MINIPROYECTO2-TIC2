@@ -1,0 +1,16 @@
+{
+    "name": "Xerneas",
+    "type": "fairy",
+    "hp": 126,
+    "attacks": [
+        {
+            "name": "Vozarrón",
+            "damage": 36
+        },
+        {
+            "name": "Golpe Cuerpo",
+            "damage": 34
+        }
+    ],
+    "image_path": "assets/xerneas.png"
+}

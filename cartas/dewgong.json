@@ -1,0 +1,16 @@
+{
+    "name": "Dewgong",
+    "type": "water",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Golpe Cuerpo",
+            "damage": 34
+        },
+        {
+            "name": "Triple Axel",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/dewgong.png"
+}

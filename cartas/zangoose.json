@@ -1,0 +1,16 @@
+{
+    "name": "Zangoose",
+    "type": "normal",
+    "hp": 73,
+    "attacks": [
+        {
+            "name": "Puño Hielo",
+            "damage": 30
+        },
+        {
+            "name": "Rodar",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/zangoose.png"
+}

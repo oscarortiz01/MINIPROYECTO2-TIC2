@@ -1,0 +1,16 @@
+{
+    "name": "Raboot",
+    "type": "fire",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Ida y Vuelta",
+            "damage": 28
+        },
+        {
+            "name": "Lanzallamas",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/raboot.png"
+}

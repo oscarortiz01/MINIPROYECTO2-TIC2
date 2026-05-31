@@ -1,0 +1,16 @@
+{
+    "name": "Reuniclus",
+    "type": "psychic",
+    "hp": 110,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Cabezazo Zen",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/reuniclus.png"
+}

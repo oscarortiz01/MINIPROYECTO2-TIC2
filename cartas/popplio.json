@@ -1,0 +1,16 @@
+{
+    "name": "Popplio",
+    "type": "water",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Ice Spinner",
+            "damage": 32
+        },
+        {
+            "name": "Escaldar",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/popplio.png"
+}

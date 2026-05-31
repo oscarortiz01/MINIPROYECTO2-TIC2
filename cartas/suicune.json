@@ -1,0 +1,16 @@
+{
+    "name": "Suicune",
+    "type": "water",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Veloc. Extrema",
+            "damage": 32
+        },
+        {
+            "name": "Rayo Aurora",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/suicune.png"
+}

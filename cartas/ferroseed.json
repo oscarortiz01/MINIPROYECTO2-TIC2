@@ -1,0 +1,16 @@
+{
+    "name": "Ferroseed",
+    "type": "grass",
+    "hp": 44,
+    "attacks": [
+        {
+            "name": "Pin Misil",
+            "damage": 15
+        },
+        {
+            "name": "Desarme",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/ferroseed.png"
+}

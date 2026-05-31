@@ -1,0 +1,16 @@
+{
+    "name": "Ho-oh",
+    "type": "fire",
+    "hp": 106,
+    "attacks": [
+        {
+            "name": "Calcinación",
+            "damage": 24
+        },
+        {
+            "name": "Picoteo",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/ho-oh.png"
+}

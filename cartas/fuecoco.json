@@ -1,0 +1,16 @@
+{
+    "name": "Fuecoco",
+    "type": "fire",
+    "hp": 67,
+    "attacks": [
+        {
+            "name": "Bomba Germen",
+            "damage": 32
+        },
+        {
+            "name": "Sofoco",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/fuecoco.png"
+}

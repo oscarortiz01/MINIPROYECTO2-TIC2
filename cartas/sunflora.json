@@ -1,0 +1,16 @@
+{
+    "name": "Sunflora",
+    "type": "grass",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        },
+        {
+            "name": "Meteorobola",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/sunflora.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Gastly",
+    "type": "ghost",
+    "hp": 30,
+    "attacks": [
+        {
+            "name": "Gigadrenado",
+            "damage": 30
+        },
+        {
+            "name": "Puño Trueno",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/gastly.png"
+}

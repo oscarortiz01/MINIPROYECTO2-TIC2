@@ -1,0 +1,16 @@
+{
+    "name": "Galvantula",
+    "type": "bug",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Bote",
+            "damage": 34
+        },
+        {
+            "name": "Plancha",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/galvantula.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Happiny",
+    "type": "normal",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Derribo",
+            "damage": 36
+        },
+        {
+            "name": "Imagen",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/happiny.png"
+}

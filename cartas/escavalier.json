@@ -1,0 +1,16 @@
+{
+    "name": "Escavalier",
+    "type": "bug",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Golpe Roca",
+            "damage": 16
+        },
+        {
+            "name": "Corte",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/escavalier.png"
+}

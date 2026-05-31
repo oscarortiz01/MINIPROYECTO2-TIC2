@@ -1,0 +1,16 @@
+{
+    "name": "Coalossal",
+    "type": "rock",
+    "hp": 110,
+    "attacks": [
+        {
+            "name": "Autodestrucción",
+            "damage": 45
+        },
+        {
+            "name": "Giro Fuego",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/coalossal.png"
+}

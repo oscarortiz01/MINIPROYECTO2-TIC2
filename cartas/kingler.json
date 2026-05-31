@@ -1,0 +1,16 @@
+{
+    "name": "Kingler",
+    "type": "water",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        },
+        {
+            "name": "Pistola Agua",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/kingler.png"
+}

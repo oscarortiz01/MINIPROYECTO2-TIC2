@@ -1,0 +1,16 @@
+{
+    "name": "Pansage",
+    "type": "grass",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        },
+        {
+            "name": "Hoja Mágica",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/pansage.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Shroodle",
+    "type": "poison",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Golpe Rastrero",
+            "damage": 28
+        },
+        {
+            "name": "Bofetón Lodo",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/shroodle.png"
+}

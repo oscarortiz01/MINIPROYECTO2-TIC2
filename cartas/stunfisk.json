@@ -1,0 +1,16 @@
+{
+    "name": "Stunfisk",
+    "type": "ground",
+    "hp": 109,
+    "attacks": [
+        {
+            "name": "Avalancha",
+            "damage": 30
+        },
+        {
+            "name": "Desahogo",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/stunfisk.png"
+}

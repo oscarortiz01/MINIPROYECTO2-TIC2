@@ -1,0 +1,16 @@
+{
+    "name": "Chimecho",
+    "type": "psychic",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Eco Voz",
+            "damage": 16
+        },
+        {
+            "name": "Comesueños",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/chimecho.png"
+}

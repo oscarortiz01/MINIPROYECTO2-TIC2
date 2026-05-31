@@ -1,0 +1,16 @@
+{
+    "name": "Lunatone",
+    "type": "rock",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Rodar",
+            "damage": 15
+        },
+        {
+            "name": "Cabezazo Zen",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/lunatone.png"
+}

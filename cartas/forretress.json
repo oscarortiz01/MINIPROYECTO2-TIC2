@@ -1,0 +1,16 @@
+{
+    "name": "Forretress",
+    "type": "bug",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        },
+        {
+            "name": "Rodar",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/forretress.png"
+}

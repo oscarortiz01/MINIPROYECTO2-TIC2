@@ -1,0 +1,16 @@
+{
+    "name": "Dugtrio",
+    "type": "ground",
+    "hp": 35,
+    "attacks": [
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        },
+        {
+            "name": "Bucle Arena",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/dugtrio.png"
+}

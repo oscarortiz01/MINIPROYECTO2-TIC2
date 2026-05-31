@@ -1,0 +1,16 @@
+{
+    "name": "Sigilyph",
+    "type": "psychic",
+    "hp": 72,
+    "attacks": [
+        {
+            "name": "Antiaéreo",
+            "damage": 20
+        },
+        {
+            "name": "Cabezazo Zen",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/sigilyph.png"
+}

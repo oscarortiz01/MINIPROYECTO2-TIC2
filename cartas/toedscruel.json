@@ -1,0 +1,16 @@
+{
+    "name": "Toedscruel",
+    "type": "ground",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Trailblaze",
+            "damage": 20
+        },
+        {
+            "name": "Foco Resplandor",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/toedscruel.png"
+}

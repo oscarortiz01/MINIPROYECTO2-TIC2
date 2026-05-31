@@ -1,0 +1,16 @@
+{
+    "name": "Octillery",
+    "type": "water",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Hidroariete",
+            "damage": 34
+        },
+        {
+            "name": "Salmuera",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/octillery.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Mimikyu-disguised",
+    "type": "ghost",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Mazazo",
+            "damage": 45
+        },
+        {
+            "name": "Derribo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/mimikyu-disguised.png"
+}

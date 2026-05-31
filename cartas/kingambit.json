@@ -1,0 +1,16 @@
+{
+    "name": "Kingambit",
+    "type": "dark",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Desahogo",
+            "damage": 30
+        },
+        {
+            "name": "Arañazo",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/kingambit.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Eevee",
+    "type": "normal",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Cabezazo",
+            "damage": 45
+        },
+        {
+            "name": "Furia",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/eevee.png"
+}

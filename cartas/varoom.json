@@ -1,0 +1,16 @@
+{
+    "name": "Varoom",
+    "type": "steel",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Cabeza de Hierro",
+            "damage": 32
+        },
+        {
+            "name": "Ladrón",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/varoom.png"
+}

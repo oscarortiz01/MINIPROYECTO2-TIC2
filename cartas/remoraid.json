@@ -1,0 +1,16 @@
+{
+    "name": "Remoraid",
+    "type": "water",
+    "hp": 35,
+    "attacks": [
+        {
+            "name": "Surf",
+            "damage": 36
+        },
+        {
+            "name": "Rayo Burbuja",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/remoraid.png"
+}

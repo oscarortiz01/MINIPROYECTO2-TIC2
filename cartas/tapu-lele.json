@@ -1,0 +1,16 @@
+{
+    "name": "Tapu-lele",
+    "type": "psychic",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Energibola",
+            "damage": 36
+        },
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/tapu-lele.png"
+}

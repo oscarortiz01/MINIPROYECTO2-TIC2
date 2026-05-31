@@ -1,0 +1,16 @@
+{
+    "name": "Kricketune",
+    "type": "bug",
+    "hp": 77,
+    "attacks": [
+        {
+            "name": "Gigadrenado",
+            "damage": 30
+        },
+        {
+            "name": "Desarme",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/kricketune.png"
+}

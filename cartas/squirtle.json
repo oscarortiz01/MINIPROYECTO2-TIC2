@@ -1,0 +1,16 @@
+{
+    "name": "Squirtle",
+    "type": "water",
+    "hp": 44,
+    "attacks": [
+        {
+            "name": "Ventisca",
+            "damage": 44
+        },
+        {
+            "name": "Hidroariete",
+            "damage": 34
+        }
+    ],
+    "image_path": "assets/squirtle.png"
+}

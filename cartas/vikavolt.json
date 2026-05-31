@@ -1,0 +1,16 @@
+{
+    "name": "Vikavolt",
+    "type": "bug",
+    "hp": 77,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Plancha Voltaica",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/vikavolt.png"
+}

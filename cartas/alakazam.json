@@ -1,0 +1,16 @@
+{
+    "name": "Alakazam",
+    "type": "psychic",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Brillo Mágico",
+            "damage": 32
+        },
+        {
+            "name": "Premonición",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/alakazam.png"
+}

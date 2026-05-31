@@ -1,0 +1,16 @@
+{
+    "name": "Scizor",
+    "type": "bug",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Zumbido",
+            "damage": 36
+        },
+        {
+            "name": "Golpe Cabeza",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/scizor.png"
+}

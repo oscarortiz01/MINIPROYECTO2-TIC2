@@ -1,0 +1,16 @@
+{
+    "name": "Ting-lu",
+    "type": "dark",
+    "hp": 155,
+    "attacks": [
+        {
+            "name": "Bofetón Lodo",
+            "damage": 15
+        },
+        {
+            "name": "Disparo Lodo",
+            "damage": 22
+        }
+    ],
+    "image_path": "assets/ting-lu.png"
+}

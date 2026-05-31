@@ -1,0 +1,16 @@
+{
+    "name": "Carbink",
+    "type": "rock",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Pulso de Campo",
+            "damage": 20
+        },
+        {
+            "name": "Rayo Meteórico",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/carbink.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Throh",
+    "type": "fighting",
+    "hp": 120,
+    "attacks": [
+        {
+            "name": "Terratemblor",
+            "damage": 24
+        },
+        {
+            "name": "Puya Nociva",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/throh.png"
+}

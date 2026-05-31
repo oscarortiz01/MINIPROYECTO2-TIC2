@@ -1,0 +1,16 @@
+{
+    "name": "Poliwhirl",
+    "type": "water",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Hidrobomba",
+            "damage": 44
+        },
+        {
+            "name": "Rayo Hielo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/poliwhirl.png"
+}

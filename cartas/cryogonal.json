@@ -1,0 +1,16 @@
+{
+    "name": "Cryogonal",
+    "type": "ice",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Cuchillada",
+            "damage": 28
+        },
+        {
+            "name": "Canto Helado",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/cryogonal.png"
+}

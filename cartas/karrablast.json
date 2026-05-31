@@ -1,0 +1,16 @@
+{
+    "name": "Karrablast",
+    "type": "bug",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Picadura",
+            "damage": 24
+        },
+        {
+            "name": "Bomba Ácida",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/karrablast.png"
+}

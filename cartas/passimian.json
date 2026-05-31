@@ -1,0 +1,16 @@
+{
+    "name": "Passimian",
+    "type": "fighting",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Ataque Rápido",
+            "damage": 16
+        },
+        {
+            "name": "Cola Férrea",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/passimian.png"
+}

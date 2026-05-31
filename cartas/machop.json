@@ -1,0 +1,16 @@
+{
+    "name": "Machop",
+    "type": "fighting",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Bofetón Lodo",
+            "damage": 15
+        },
+        {
+            "name": "Antiaéreo",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/machop.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Brute-bonnet",
+    "type": "grass",
+    "hp": 111,
+    "attacks": [
+        {
+            "name": "Tierra Viva",
+            "damage": 36
+        },
+        {
+            "name": "Gigadrenado",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/brute-bonnet.png"
+}

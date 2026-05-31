@@ -1,0 +1,16 @@
+{
+    "name": "Tyrunt",
+    "type": "rock",
+    "hp": 58,
+    "attacks": [
+        {
+            "name": "Vozarrón",
+            "damage": 36
+        },
+        {
+            "name": "Poder Pasado",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/tyrunt.png"
+}

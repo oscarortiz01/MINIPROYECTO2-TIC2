@@ -1,0 +1,16 @@
+{
+    "name": "Darumaka",
+    "type": "fire",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Llamarada",
+            "damage": 44
+        },
+        {
+            "name": "Mordisco",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/darumaka.png"
+}

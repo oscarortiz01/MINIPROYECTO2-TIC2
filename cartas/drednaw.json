@@ -1,0 +1,16 @@
+{
+    "name": "Drednaw",
+    "type": "water",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Mordisco",
+            "damage": 24
+        },
+        {
+            "name": "Imagen",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/drednaw.png"
+}

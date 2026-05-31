@@ -1,0 +1,16 @@
+{
+    "name": "Nosepass",
+    "type": "rock",
+    "hp": 30,
+    "attacks": [
+        {
+            "name": "Derribo",
+            "damage": 36
+        },
+        {
+            "name": "Autodestrucción",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/nosepass.png"
+}

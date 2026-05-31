@@ -1,0 +1,16 @@
+{
+    "name": "Klawf",
+    "type": "rock",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Garra Metal",
+            "damage": 20
+        },
+        {
+            "name": "Bofetón Lodo",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/klawf.png"
+}

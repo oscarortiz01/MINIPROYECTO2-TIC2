@@ -1,0 +1,16 @@
+{
+    "name": "Carnivine",
+    "type": "grass",
+    "hp": 74,
+    "attacks": [
+        {
+            "name": "Hoja Afilada",
+            "damage": 22
+        },
+        {
+            "name": "Bomba Germen",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/carnivine.png"
+}

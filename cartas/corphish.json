@@ -1,0 +1,16 @@
+{
+    "name": "Corphish",
+    "type": "water",
+    "hp": 43,
+    "attacks": [
+        {
+            "name": "Rayo Burbuja",
+            "damage": 26
+        },
+        {
+            "name": "Avalancha",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/corphish.png"
+}

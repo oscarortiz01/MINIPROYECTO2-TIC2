@@ -1,0 +1,16 @@
+{
+    "name": "Wishiwashi-solo",
+    "type": "water",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Hidrobomba",
+            "damage": 44
+        },
+        {
+            "name": "Terratemblor",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/wishiwashi-solo.png"
+}

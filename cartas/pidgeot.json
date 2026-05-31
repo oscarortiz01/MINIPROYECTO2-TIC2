@@ -1,0 +1,16 @@
+{
+    "name": "Pidgeot",
+    "type": "normal",
+    "hp": 83,
+    "attacks": [
+        {
+            "name": "Golpe Aéreo",
+            "damage": 24
+        },
+        {
+            "name": "Golpe Cabeza",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/pidgeot.png"
+}

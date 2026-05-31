@@ -1,0 +1,16 @@
+{
+    "name": "Swampert",
+    "type": "water",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        },
+        {
+            "name": "Antiaéreo",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/swampert.png"
+}

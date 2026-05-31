@@ -1,0 +1,16 @@
+{
+    "name": "Cursola",
+    "type": "ghost",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Gigadrenado",
+            "damage": 30
+        },
+        {
+            "name": "Hidrobomba",
+            "damage": 44
+        }
+    ],
+    "image_path": "assets/cursola.png"
+}

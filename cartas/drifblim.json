@@ -1,0 +1,16 @@
+{
+    "name": "Drifblim",
+    "type": "ghost",
+    "hp": 150,
+    "attacks": [
+        {
+            "name": "Acróbata",
+            "damage": 22
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/drifblim.png"
+}

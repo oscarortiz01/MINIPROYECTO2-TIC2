@@ -1,0 +1,16 @@
+{
+    "name": "Fletchling",
+    "type": "normal",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Pájaro Osado",
+            "damage": 45
+        },
+        {
+            "name": "Derribo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/fletchling.png"
+}

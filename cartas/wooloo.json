@@ -1,0 +1,16 @@
+{
+    "name": "Wooloo",
+    "type": "normal",
+    "hp": 42,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Derribo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/wooloo.png"
+}

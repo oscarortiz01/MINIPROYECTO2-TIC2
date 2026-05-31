@@ -1,0 +1,16 @@
+{
+    "name": "Exeggcute",
+    "type": "grass",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Bomba Lodo",
+            "damage": 36
+        },
+        {
+            "name": "Paranormal",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/exeggcute.png"
+}

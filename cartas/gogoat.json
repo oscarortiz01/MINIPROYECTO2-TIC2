@@ -1,0 +1,16 @@
+{
+    "name": "Gogoat",
+    "type": "grass",
+    "hp": 123,
+    "attacks": [
+        {
+            "name": "Surf",
+            "damage": 36
+        },
+        {
+            "name": "Represalia",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/gogoat.png"
+}

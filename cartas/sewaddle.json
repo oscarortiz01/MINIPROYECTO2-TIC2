@@ -1,0 +1,16 @@
+{
+    "name": "Sewaddle",
+    "type": "bug",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Hoja Afilada",
+            "damage": 22
+        },
+        {
+            "name": "Comesueños",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/sewaddle.png"
+}

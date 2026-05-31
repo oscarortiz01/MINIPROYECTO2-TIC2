@@ -1,0 +1,16 @@
+{
+    "name": "Marshadow",
+    "type": "fighting",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Puño Drenaje",
+            "damage": 30
+        },
+        {
+            "name": "Palmeo",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/marshadow.png"
+}

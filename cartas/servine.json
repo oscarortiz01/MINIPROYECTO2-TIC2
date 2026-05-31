@@ -1,0 +1,16 @@
+{
+    "name": "Servine",
+    "type": "grass",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Voto Planta",
+            "damage": 32
+        },
+        {
+            "name": "Hoja Aguda",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/servine.png"
+}

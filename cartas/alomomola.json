@@ -1,0 +1,16 @@
+{
+    "name": "Alomomola",
+    "type": "water",
+    "hp": 165,
+    "attacks": [
+        {
+            "name": "Golpe Cuerpo",
+            "damage": 34
+        },
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/alomomola.png"
+}

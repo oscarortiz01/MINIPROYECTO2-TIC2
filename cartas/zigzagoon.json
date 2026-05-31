@@ -1,0 +1,16 @@
+{
+    "name": "Zigzagoon",
+    "type": "normal",
+    "hp": 38,
+    "attacks": [
+        {
+            "name": "Rayo Hielo",
+            "damage": 36
+        },
+        {
+            "name": "Rayo Carga",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/zigzagoon.png"
+}

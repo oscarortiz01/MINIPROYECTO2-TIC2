@@ -1,0 +1,16 @@
+{
+    "name": "Floragato",
+    "type": "grass",
+    "hp": 61,
+    "attacks": [
+        {
+            "name": "Rapidez",
+            "damage": 24
+        },
+        {
+            "name": "Puntapié",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/floragato.png"
+}

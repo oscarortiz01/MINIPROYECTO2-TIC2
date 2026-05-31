@@ -1,0 +1,16 @@
+{
+    "name": "Dustox",
+    "type": "bug",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Picotazo Veneno",
+            "damage": 15
+        },
+        {
+            "name": "Rapidez",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/dustox.png"
+}

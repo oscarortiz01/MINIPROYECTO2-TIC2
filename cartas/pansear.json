@@ -1,0 +1,16 @@
+{
+    "name": "Pansear",
+    "type": "fire",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Lanzamugre",
+            "damage": 45
+        },
+        {
+            "name": "Ronquido",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/pansear.png"
+}

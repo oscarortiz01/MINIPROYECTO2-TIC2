@@ -1,0 +1,16 @@
+{
+    "name": "Beedrill",
+    "type": "bug",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Doble Ataque",
+            "damage": 15
+        },
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/beedrill.png"
+}

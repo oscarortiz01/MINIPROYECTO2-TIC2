@@ -1,0 +1,16 @@
+{
+    "name": "Jolteon",
+    "type": "electric",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Voltiocambio",
+            "damage": 28
+        },
+        {
+            "name": "Voltio Cruel",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/jolteon.png"
+}

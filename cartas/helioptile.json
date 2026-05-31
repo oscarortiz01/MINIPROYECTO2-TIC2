@@ -1,0 +1,16 @@
+{
+    "name": "Helioptile",
+    "type": "electric",
+    "hp": 44,
+    "attacks": [
+        {
+            "name": "Voltio Cruel",
+            "damage": 36
+        },
+        {
+            "name": "Surf",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/helioptile.png"
+}

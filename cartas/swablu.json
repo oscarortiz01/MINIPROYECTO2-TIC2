@@ -1,0 +1,16 @@
+{
+    "name": "Swablu",
+    "type": "normal",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Viento Aciago",
+            "damage": 24
+        },
+        {
+            "name": "Golpe Aéreo",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/swablu.png"
+}

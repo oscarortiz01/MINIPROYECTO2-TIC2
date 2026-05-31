@@ -1,0 +1,16 @@
+{
+    "name": "Avalugg",
+    "type": "ice",
+    "hp": 95,
+    "attacks": [
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        },
+        {
+            "name": "Mordisco",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/avalugg.png"
+}

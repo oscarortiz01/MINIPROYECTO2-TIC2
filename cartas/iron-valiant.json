@@ -1,0 +1,16 @@
+{
+    "name": "Iron-valiant",
+    "type": "fairy",
+    "hp": 74,
+    "attacks": [
+        {
+            "name": "Vozarrón",
+            "damage": 36
+        },
+        {
+            "name": "Psíquico",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/iron-valiant.png"
+}

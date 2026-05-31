@@ -1,0 +1,16 @@
+{
+    "name": "Larvitar",
+    "type": "rock",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Pedrada",
+            "damage": 15
+        },
+        {
+            "name": "Golpe Cuerpo",
+            "damage": 34
+        }
+    ],
+    "image_path": "assets/larvitar.png"
+}

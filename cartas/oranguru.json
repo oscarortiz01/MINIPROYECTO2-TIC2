@@ -1,0 +1,16 @@
+{
+    "name": "Oranguru",
+    "type": "normal",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Cabezazo Zen",
+            "damage": 32
+        },
+        {
+            "name": "Trueno",
+            "damage": 44
+        }
+    ],
+    "image_path": "assets/oranguru.png"
+}

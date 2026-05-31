@@ -1,0 +1,16 @@
+{
+    "name": "Swoobat",
+    "type": "psychic",
+    "hp": 67,
+    "attacks": [
+        {
+            "name": "Ladrón",
+            "damage": 24
+        },
+        {
+            "name": "Alboroto",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/swoobat.png"
+}

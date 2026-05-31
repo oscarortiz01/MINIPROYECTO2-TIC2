@@ -1,0 +1,16 @@
+{
+    "name": "Finneon",
+    "type": "water",
+    "hp": 49,
+    "attacks": [
+        {
+            "name": "Doble Rayo",
+            "damage": 30
+        },
+        {
+            "name": "Acróbata",
+            "damage": 22
+        }
+    ],
+    "image_path": "assets/finneon.png"
+}

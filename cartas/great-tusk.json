@@ -1,0 +1,16 @@
+{
+    "name": "Great-tusk",
+    "type": "ground",
+    "hp": 115,
+    "attacks": [
+        {
+            "name": "Derribo",
+            "damage": 36
+        },
+        {
+            "name": "Avalancha",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/great-tusk.png"
+}

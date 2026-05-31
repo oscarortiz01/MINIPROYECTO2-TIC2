@@ -1,0 +1,16 @@
+{
+    "name": "Stakataka",
+    "type": "rock",
+    "hp": 61,
+    "attacks": [
+        {
+            "name": "Pisotón",
+            "damage": 26
+        },
+        {
+            "name": "Antiaéreo",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/stakataka.png"
+}

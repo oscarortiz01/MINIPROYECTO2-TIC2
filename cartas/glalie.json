@@ -1,0 +1,16 @@
+{
+    "name": "Glalie",
+    "type": "ice",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Doble Rayo",
+            "damage": 30
+        },
+        {
+            "name": "Colmillo Hielo",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/glalie.png"
+}

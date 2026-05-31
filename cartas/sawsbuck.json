@@ -1,0 +1,16 @@
+{
+    "name": "Sawsbuck",
+    "type": "normal",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Carantoña",
+            "damage": 36
+        },
+        {
+            "name": "Excavar",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/sawsbuck.png"
+}

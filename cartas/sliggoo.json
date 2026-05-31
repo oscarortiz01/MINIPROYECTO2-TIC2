@@ -1,0 +1,16 @@
+{
+    "name": "Sliggoo",
+    "type": "dragon",
+    "hp": 68,
+    "attacks": [
+        {
+            "name": "Avalancha",
+            "damage": 30
+        },
+        {
+            "name": "Cometa Draco",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/sliggoo.png"
+}

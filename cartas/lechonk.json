@@ -1,0 +1,16 @@
+{
+    "name": "Lechonk",
+    "type": "normal",
+    "hp": 54,
+    "attacks": [
+        {
+            "name": "Trailblaze",
+            "damage": 20
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/lechonk.png"
+}

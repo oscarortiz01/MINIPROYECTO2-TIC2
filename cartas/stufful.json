@@ -1,0 +1,16 @@
+{
+    "name": "Stufful",
+    "type": "normal",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Placaje",
+            "damage": 16
+        },
+        {
+            "name": "Golpe Bis",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/stufful.png"
+}

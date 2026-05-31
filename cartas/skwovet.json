@@ -1,0 +1,16 @@
+{
+    "name": "Skwovet",
+    "type": "normal",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Disparo Lodo",
+            "damage": 22
+        },
+        {
+            "name": "Ladrón",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/skwovet.png"
+}

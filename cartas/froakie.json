@@ -1,0 +1,16 @@
+{
+    "name": "Froakie",
+    "type": "water",
+    "hp": 41,
+    "attacks": [
+        {
+            "name": "Pistola Agua",
+            "damage": 16
+        },
+        {
+            "name": "Ronquido",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/froakie.png"
+}

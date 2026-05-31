@@ -1,0 +1,16 @@
+{
+    "name": "Falinks",
+    "type": "fighting",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        },
+        {
+            "name": "Ronquido",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/falinks.png"
+}

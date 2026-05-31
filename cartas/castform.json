@@ -1,0 +1,16 @@
+{
+    "name": "Castform",
+    "type": "normal",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Infortunio",
+            "damage": 26
+        },
+        {
+            "name": "Premonición",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/castform.png"
+}

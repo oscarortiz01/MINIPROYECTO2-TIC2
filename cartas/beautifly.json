@@ -1,0 +1,16 @@
+{
+    "name": "Beautifly",
+    "type": "bug",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Electrotela",
+            "damage": 22
+        },
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/beautifly.png"
+}

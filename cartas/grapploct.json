@@ -1,0 +1,16 @@
+{
+    "name": "Grapploct",
+    "type": "fighting",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Golpe Roca",
+            "damage": 16
+        },
+        {
+            "name": "Ronquido",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/grapploct.png"
+}

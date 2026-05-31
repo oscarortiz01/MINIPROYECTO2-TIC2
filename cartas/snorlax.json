@@ -1,0 +1,16 @@
+{
+    "name": "Snorlax",
+    "type": "normal",
+    "hp": 160,
+    "attacks": [
+        {
+            "name": "Cabezazo Zen",
+            "damage": 32
+        },
+        {
+            "name": "Rayo Hielo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/snorlax.png"
+}

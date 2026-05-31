@@ -1,0 +1,16 @@
+{
+    "name": "Bouffalant",
+    "type": "normal",
+    "hp": 95,
+    "attacks": [
+        {
+            "name": "Golpe Roca",
+            "damage": 16
+        },
+        {
+            "name": "Pataleta",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/bouffalant.png"
+}

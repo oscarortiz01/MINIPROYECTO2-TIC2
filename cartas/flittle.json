@@ -1,0 +1,16 @@
+{
+    "name": "Flittle",
+    "type": "psychic",
+    "hp": 30,
+    "attacks": [
+        {
+            "name": "Juego Sucio",
+            "damage": 38
+        },
+        {
+            "name": "Derribo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/flittle.png"
+}

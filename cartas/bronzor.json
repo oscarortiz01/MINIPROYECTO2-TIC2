@@ -1,0 +1,16 @@
+{
+    "name": "Bronzor",
+    "type": "steel",
+    "hp": 57,
+    "attacks": [
+        {
+            "name": "Terremoto",
+            "damage": 40
+        },
+        {
+            "name": "Avalancha",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/bronzor.png"
+}

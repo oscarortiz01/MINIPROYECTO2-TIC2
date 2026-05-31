@@ -1,0 +1,16 @@
+{
+    "name": "Steelix",
+    "type": "steel",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Pulso Umbrío",
+            "damage": 32
+        },
+        {
+            "name": "Tumba Rocas",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/steelix.png"
+}

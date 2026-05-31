@@ -1,0 +1,16 @@
+{
+    "name": "Hitmonchan",
+    "type": "fighting",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        },
+        {
+            "name": "Alboroto",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/hitmonchan.png"
+}

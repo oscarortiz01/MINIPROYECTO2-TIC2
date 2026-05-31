@@ -1,0 +1,16 @@
+{
+    "name": "Gossifleur",
+    "type": "grass",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Energibola",
+            "damage": 36
+        },
+        {
+            "name": "Giro Rápido",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/gossifleur.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Cetoddle",
+    "type": "ice",
+    "hp": 108,
+    "attacks": [
+        {
+            "name": "Canto Helado",
+            "damage": 16
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/cetoddle.png"
+}

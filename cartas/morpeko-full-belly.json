@@ -1,0 +1,16 @@
+{
+    "name": "Morpeko-full-belly",
+    "type": "electric",
+    "hp": 58,
+    "attacks": [
+        {
+            "name": "Pulso Umbrío",
+            "damage": 32
+        },
+        {
+            "name": "Sorpresa",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/morpeko-full-belly.png"
+}

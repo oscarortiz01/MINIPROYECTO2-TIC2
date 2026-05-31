@@ -1,0 +1,16 @@
+{
+    "name": "Relicanth",
+    "type": "water",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Surf",
+            "damage": 36
+        },
+        {
+            "name": "Golpe Roca",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/relicanth.png"
+}

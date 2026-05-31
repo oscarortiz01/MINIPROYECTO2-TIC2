@@ -1,0 +1,16 @@
+{
+    "name": "Boltund",
+    "type": "electric",
+    "hp": 69,
+    "attacks": [
+        {
+            "name": "Alboroto",
+            "damage": 36
+        },
+        {
+            "name": "Excavar",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/boltund.png"
+}

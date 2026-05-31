@@ -1,0 +1,16 @@
+{
+    "name": "Sirfetchd",
+    "type": "fighting",
+    "hp": 62,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Giro Vil",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/sirfetchd.png"
+}

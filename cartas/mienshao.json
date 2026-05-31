@@ -1,0 +1,16 @@
+{
+    "name": "Mienshao",
+    "type": "fighting",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Canon",
+            "damage": 24
+        },
+        {
+            "name": "Esfera Aural",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/mienshao.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Scovillain",
+    "type": "grass",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Pataleta",
+            "damage": 30
+        },
+        {
+            "name": "Hoja Mágica",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/scovillain.png"
+}

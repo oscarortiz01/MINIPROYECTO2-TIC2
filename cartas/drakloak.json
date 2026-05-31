@@ -1,0 +1,16 @@
+{
+    "name": "Drakloak",
+    "type": "dragon",
+    "hp": 68,
+    "attacks": [
+        {
+            "name": "Rapidez",
+            "damage": 24
+        },
+        {
+            "name": "Bola Sombra",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/drakloak.png"
+}

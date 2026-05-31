@@ -1,0 +1,16 @@
+{
+    "name": "Gallade",
+    "type": "psychic",
+    "hp": 68,
+    "attacks": [
+        {
+            "name": "Ronquido",
+            "damage": 20
+        },
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/gallade.png"
+}

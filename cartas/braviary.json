@@ -1,0 +1,16 @@
+{
+    "name": "Braviary",
+    "type": "normal",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Garra Brutal",
+            "damage": 30
+        },
+        {
+            "name": "Ataque Ala",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/braviary.png"
+}

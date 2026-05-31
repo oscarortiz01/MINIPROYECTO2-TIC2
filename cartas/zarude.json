@@ -1,0 +1,16 @@
+{
+    "name": "Zarude",
+    "type": "dark",
+    "hp": 105,
+    "attacks": [
+        {
+            "name": "Puño Certero",
+            "damage": 45
+        },
+        {
+            "name": "Puntapié",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/zarude.png"
+}

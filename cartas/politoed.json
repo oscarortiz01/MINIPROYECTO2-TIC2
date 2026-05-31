@@ -1,0 +1,16 @@
+{
+    "name": "Politoed",
+    "type": "water",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Ventisca",
+            "damage": 44
+        },
+        {
+            "name": "Golpe Roca",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/politoed.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Cramorant",
+    "type": "flying",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        },
+        {
+            "name": "Viento Hielo",
+            "damage": 22
+        }
+    ],
+    "image_path": "assets/cramorant.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Glastrier",
+    "type": "ice",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Desahogo",
+            "damage": 30
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/glastrier.png"
+}

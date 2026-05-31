@@ -1,0 +1,16 @@
+{
+    "name": "Pawmo",
+    "type": "electric",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Voltiocambio",
+            "damage": 28
+        },
+        {
+            "name": "Trueno",
+            "damage": 44
+        }
+    ],
+    "image_path": "assets/pawmo.png"
+}

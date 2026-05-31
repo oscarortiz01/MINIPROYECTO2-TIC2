@@ -1,0 +1,16 @@
+{
+    "name": "Shieldon",
+    "type": "rock",
+    "hp": 30,
+    "attacks": [
+        {
+            "name": "Cabeza de Hierro",
+            "damage": 32
+        },
+        {
+            "name": "Placaje",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/shieldon.png"
+}

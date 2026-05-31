@@ -1,0 +1,16 @@
+{
+    "name": "Gulpin",
+    "type": "poison",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Onda Voltio",
+            "damage": 24
+        },
+        {
+            "name": "Bola Sombra",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/gulpin.png"
+}

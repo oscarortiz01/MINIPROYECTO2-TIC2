@@ -1,0 +1,16 @@
+{
+    "name": "Mimikyu",
+    "type": "ghost",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Carantoña",
+            "damage": 45
+        },
+        {
+            "name": "Garra Umbría",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/mimikyu.jpg"
+}

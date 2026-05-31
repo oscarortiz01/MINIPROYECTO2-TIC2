@@ -1,0 +1,16 @@
+{
+    "name": "Vibrava",
+    "type": "ground",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        },
+        {
+            "name": "Finta",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/vibrava.png"
+}

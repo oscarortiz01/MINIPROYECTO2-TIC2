@@ -1,0 +1,16 @@
+{
+    "name": "Clobbopus",
+    "type": "fighting",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Disparo Lodo",
+            "damage": 22
+        },
+        {
+            "name": "Puño Hielo",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/clobbopus.png"
+}

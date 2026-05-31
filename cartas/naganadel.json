@@ -1,0 +1,16 @@
+{
+    "name": "Naganadel",
+    "type": "poison",
+    "hp": 73,
+    "attacks": [
+        {
+            "name": "Ataque Aéreo",
+            "damage": 45
+        },
+        {
+            "name": "Onda Ígnea",
+            "damage": 38
+        }
+    ],
+    "image_path": "assets/naganadel.png"
+}

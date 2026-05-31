@@ -1,0 +1,16 @@
+{
+    "name": "Indeedee-male",
+    "type": "psychic",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        },
+        {
+            "name": "Imagen",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/indeedee-male.png"
+}

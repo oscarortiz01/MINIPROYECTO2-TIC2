@@ -1,0 +1,16 @@
+{
+    "name": "Woobat",
+    "type": "psychic",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Psicocorte",
+            "damage": 28
+        },
+        {
+            "name": "Ala Bis",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/woobat.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Pawmot",
+    "type": "electric",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Chispazo",
+            "damage": 32
+        },
+        {
+            "name": "A Bocajarro",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/pawmot.png"
+}

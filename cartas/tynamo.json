@@ -1,0 +1,16 @@
+{
+    "name": "Tynamo",
+    "type": "electric",
+    "hp": 35,
+    "attacks": [
+        {
+            "name": "Desarme",
+            "damage": 26
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/tynamo.png"
+}

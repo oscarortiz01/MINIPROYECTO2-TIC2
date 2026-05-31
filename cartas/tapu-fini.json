@@ -1,0 +1,16 @@
+{
+    "name": "Tapu-fini",
+    "type": "water",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Canon",
+            "damage": 24
+        },
+        {
+            "name": "Puño Hielo",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/tapu-fini.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Hakamo-o",
+    "type": "dragon",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Alboroto",
+            "damage": 36
+        },
+        {
+            "name": "Derribo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/hakamo-o.png"
+}

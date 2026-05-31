@@ -1,0 +1,16 @@
+{
+    "name": "Amaura",
+    "type": "rock",
+    "hp": 77,
+    "attacks": [
+        {
+            "name": "Avalancha",
+            "damage": 30
+        },
+        {
+            "name": "Nieve Polvo",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/amaura.png"
+}

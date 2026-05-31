@@ -1,0 +1,16 @@
+{
+    "name": "Komala",
+    "type": "normal",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Lanzamugre",
+            "damage": 45
+        },
+        {
+            "name": "Terratemblor",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/komala.png"
+}

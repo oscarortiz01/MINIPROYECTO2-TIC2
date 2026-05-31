@@ -1,0 +1,16 @@
+{
+    "name": "Emboar",
+    "type": "fire",
+    "hp": 110,
+    "attacks": [
+        {
+            "name": "Ascuas",
+            "damage": 16
+        },
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/emboar.png"
+}

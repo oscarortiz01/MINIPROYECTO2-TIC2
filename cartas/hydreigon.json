@@ -1,0 +1,16 @@
+{
+    "name": "Hydreigon",
+    "type": "dark",
+    "hp": 92,
+    "attacks": [
+        {
+            "name": "Rayo Carga",
+            "damage": 20
+        },
+        {
+            "name": "Pataleta",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/hydreigon.png"
+}

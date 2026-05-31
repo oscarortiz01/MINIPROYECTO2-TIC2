@@ -1,0 +1,16 @@
+{
+    "name": "Magmar",
+    "type": "fire",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Ultrapuño",
+            "damage": 16
+        },
+        {
+            "name": "Furia",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/magmar.png"
+}

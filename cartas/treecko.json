@@ -1,0 +1,16 @@
+{
+    "name": "Treecko",
+    "type": "grass",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        },
+        {
+            "name": "Ataque Rápido",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/treecko.png"
+}

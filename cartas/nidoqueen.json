@@ -1,0 +1,16 @@
+{
+    "name": "Nidoqueen",
+    "type": "poison",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Taladradora",
+            "damage": 32
+        },
+        {
+            "name": "Enfado",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/nidoqueen.png"
+}

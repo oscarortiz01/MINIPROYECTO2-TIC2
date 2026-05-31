@@ -1,0 +1,16 @@
+{
+    "name": "Type-null",
+    "type": "normal",
+    "hp": 95,
+    "attacks": [
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        },
+        {
+            "name": "Imagen",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/type-null.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Regigigas",
+    "type": "normal",
+    "hp": 110,
+    "attacks": [
+        {
+            "name": "Vendetta",
+            "damage": 20
+        },
+        {
+            "name": "Roca Afilada",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/regigigas.png"
+}

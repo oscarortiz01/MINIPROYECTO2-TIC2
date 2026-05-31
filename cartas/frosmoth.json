@@ -1,0 +1,16 @@
+{
+    "name": "Frosmoth",
+    "type": "ice",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Viento Hielo",
+            "damage": 22
+        },
+        {
+            "name": "Ronquido",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/frosmoth.png"
+}

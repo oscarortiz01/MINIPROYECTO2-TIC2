@@ -1,0 +1,16 @@
+{
+    "name": "Charizard",
+    "type": "fire",
+    "hp": 78,
+    "attacks": [
+        {
+            "name": "Excavar",
+            "damage": 32
+        },
+        {
+            "name": "Vuelo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/charizard.png"
+}

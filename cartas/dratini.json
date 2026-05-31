@@ -1,0 +1,16 @@
+{
+    "name": "Dratini",
+    "type": "dragon",
+    "hp": 41,
+    "attacks": [
+        {
+            "name": "Surf",
+            "damage": 36
+        },
+        {
+            "name": "Constricción",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/dratini.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Toxel",
+    "type": "electric",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Eructo",
+            "damage": 45
+        },
+        {
+            "name": "Puño Incremento",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/toxel.png"
+}

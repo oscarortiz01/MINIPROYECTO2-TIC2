@@ -1,0 +1,16 @@
+{
+    "name": "Dreepy",
+    "type": "dragon",
+    "hp": 28,
+    "attacks": [
+        {
+            "name": "Impresionar",
+            "damage": 15
+        },
+        {
+            "name": "Mordisco",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/dreepy.png"
+}

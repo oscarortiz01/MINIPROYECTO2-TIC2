@@ -1,0 +1,16 @@
+{
+    "name": "Slowbro",
+    "type": "water",
+    "hp": 95,
+    "attacks": [
+        {
+            "name": "Hidroariete",
+            "damage": 34
+        },
+        {
+            "name": "Disparo Lodo",
+            "damage": 22
+        }
+    ],
+    "image_path": "assets/slowbro.png"
+}

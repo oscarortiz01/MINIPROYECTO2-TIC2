@@ -1,0 +1,16 @@
+{
+    "name": "Runerigus",
+    "type": "ground",
+    "hp": 58,
+    "attacks": [
+        {
+            "name": "Ladrón",
+            "damage": 24
+        },
+        {
+            "name": "Terremoto",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/runerigus.png"
+}

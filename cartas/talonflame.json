@@ -1,0 +1,16 @@
+{
+    "name": "Talonflame",
+    "type": "fire",
+    "hp": 78,
+    "attacks": [
+        {
+            "name": "Derribo",
+            "damage": 36
+        },
+        {
+            "name": "Ala Bis",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/talonflame.png"
+}

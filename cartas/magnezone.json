@@ -1,0 +1,16 @@
+{
+    "name": "Magnezone",
+    "type": "electric",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Plancha Corporal",
+            "damage": 32
+        },
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/magnezone.png"
+}

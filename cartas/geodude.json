@@ -1,0 +1,16 @@
+{
+    "name": "Geodude",
+    "type": "rock",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Golpe Cabeza",
+            "damage": 28
+        },
+        {
+            "name": "Poder Pasado",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/geodude.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Rampardos",
+    "type": "rock",
+    "hp": 97,
+    "attacks": [
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        },
+        {
+            "name": "Canon",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/rampardos.png"
+}

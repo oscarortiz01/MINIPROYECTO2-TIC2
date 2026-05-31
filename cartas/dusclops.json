@@ -1,0 +1,16 @@
+{
+    "name": "Dusclops",
+    "type": "ghost",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Persecución",
+            "damage": 16
+        },
+        {
+            "name": "Golpe Cabeza",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/dusclops.png"
+}

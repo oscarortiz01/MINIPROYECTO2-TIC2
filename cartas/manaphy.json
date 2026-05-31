@@ -1,0 +1,16 @@
+{
+    "name": "Manaphy",
+    "type": "water",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Bote",
+            "damage": 34
+        },
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/manaphy.png"
+}

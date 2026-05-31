@@ -1,0 +1,16 @@
+{
+    "name": "Sentret",
+    "type": "normal",
+    "hp": 35,
+    "attacks": [
+        {
+            "name": "Onda Voltio",
+            "damage": 24
+        },
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/sentret.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Kangaskhan",
+    "type": "normal",
+    "hp": 105,
+    "attacks": [
+        {
+            "name": "Ladrón",
+            "damage": 24
+        },
+        {
+            "name": "Surf",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/kangaskhan.png"
+}

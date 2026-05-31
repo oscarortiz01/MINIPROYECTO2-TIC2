@@ -1,0 +1,16 @@
+{
+    "name": "Dewott",
+    "type": "water",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Placaje",
+            "damage": 16
+        },
+        {
+            "name": "Voto Agua",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/dewott.png"
+}

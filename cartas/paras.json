@@ -1,0 +1,16 @@
+{
+    "name": "Paras",
+    "type": "bug",
+    "hp": 35,
+    "attacks": [
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        },
+        {
+            "name": "Garra Metal",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/paras.png"
+}

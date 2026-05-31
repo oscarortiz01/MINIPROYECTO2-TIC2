@@ -1,0 +1,16 @@
+{
+    "name": "Zoroark",
+    "type": "dark",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Golpe Cuerpo",
+            "damage": 34
+        },
+        {
+            "name": "Demolición",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/zoroark.png"
+}

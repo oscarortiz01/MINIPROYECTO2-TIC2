@@ -1,0 +1,16 @@
+{
+    "name": "Staraptor",
+    "type": "normal",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Bofetón Lodo",
+            "damage": 15
+        },
+        {
+            "name": "Tajo Aéreo",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/staraptor.png"
+}

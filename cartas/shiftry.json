@@ -1,0 +1,16 @@
+{
+    "name": "Shiftry",
+    "type": "grass",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Ronquido",
+            "damage": 20
+        },
+        {
+            "name": "Tajo Umbrío",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/shiftry.png"
+}

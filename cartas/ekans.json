@@ -1,0 +1,16 @@
+{
+    "name": "Ekans",
+    "type": "poison",
+    "hp": 35,
+    "attacks": [
+        {
+            "name": "Desarme",
+            "damage": 26
+        },
+        {
+            "name": "Gigadrenado",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/ekans.png"
+}

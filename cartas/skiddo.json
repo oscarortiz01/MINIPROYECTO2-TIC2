@@ -1,0 +1,16 @@
+{
+    "name": "Skiddo",
+    "type": "grass",
+    "hp": 66,
+    "attacks": [
+        {
+            "name": "Derribo",
+            "damage": 36
+        },
+        {
+            "name": "Demolición",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/skiddo.png"
+}

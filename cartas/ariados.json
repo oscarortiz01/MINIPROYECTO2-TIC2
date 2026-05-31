@@ -1,0 +1,16 @@
+{
+    "name": "Ariados",
+    "type": "bug",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        },
+        {
+            "name": "Golpes Furia",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/ariados.png"
+}

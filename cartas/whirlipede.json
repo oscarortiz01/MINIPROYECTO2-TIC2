@@ -1,0 +1,16 @@
+{
+    "name": "Whirlipede",
+    "type": "bug",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        },
+        {
+            "name": "Persecución",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/whirlipede.png"
+}

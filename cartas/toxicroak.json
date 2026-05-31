@@ -1,0 +1,16 @@
+{
+    "name": "Toxicroak",
+    "type": "poison",
+    "hp": 83,
+    "attacks": [
+        {
+            "name": "Bomba Lodo",
+            "damage": 36
+        },
+        {
+            "name": "Canon",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/toxicroak.png"
+}

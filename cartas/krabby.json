@@ -1,0 +1,16 @@
+{
+    "name": "Krabby",
+    "type": "water",
+    "hp": 30,
+    "attacks": [
+        {
+            "name": "Derribo",
+            "damage": 36
+        },
+        {
+            "name": "Excavar",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/krabby.png"
+}

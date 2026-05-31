@@ -1,0 +1,16 @@
+{
+    "name": "Venomoth",
+    "type": "bug",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Viento Aciago",
+            "damage": 24
+        },
+        {
+            "name": "Bomba Ácida",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/venomoth.png"
+}

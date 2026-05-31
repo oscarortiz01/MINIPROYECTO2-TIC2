@@ -1,0 +1,16 @@
+{
+    "name": "Linoone",
+    "type": "normal",
+    "hp": 78,
+    "attacks": [
+        {
+            "name": "Ventisca",
+            "damage": 44
+        },
+        {
+            "name": "Hidropulso",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/linoone.png"
+}

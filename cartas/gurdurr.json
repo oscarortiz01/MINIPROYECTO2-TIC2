@@ -1,0 +1,16 @@
+{
+    "name": "Gurdurr",
+    "type": "fighting",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Demolición",
+            "damage": 30
+        },
+        {
+            "name": "Megapuño",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/gurdurr.png"
+}

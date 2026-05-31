@@ -1,0 +1,16 @@
+{
+    "name": "Cutiefly",
+    "type": "bug",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Hoja Mágica",
+            "damage": 24
+        },
+        {
+            "name": "Canon",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/cutiefly.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Lileep",
+    "type": "rock",
+    "hp": 66,
+    "attacks": [
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        },
+        {
+            "name": "Canon",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/lileep.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Slither-wing",
+    "type": "bug",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Plancha Corporal",
+            "damage": 32
+        },
+        {
+            "name": "Plancha",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/slither-wing.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Rolycoly",
+    "type": "rock",
+    "hp": 30,
+    "attacks": [
+        {
+            "name": "Rayo Meteórico",
+            "damage": 45
+        },
+        {
+            "name": "Canon",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/rolycoly.png"
+}

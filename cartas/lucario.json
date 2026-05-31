@@ -1,0 +1,16 @@
+{
+    "name": "Lucario",
+    "type": "fighting",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Metaláser",
+            "damage": 45
+        },
+        {
+            "name": "Patada Ígnea",
+            "damage": 34
+        }
+    ],
+    "image_path": "assets/lucario.png"
+}

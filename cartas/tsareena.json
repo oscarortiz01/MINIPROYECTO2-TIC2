@@ -1,0 +1,16 @@
+{
+    "name": "Tsareena",
+    "type": "grass",
+    "hp": 72,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Bote",
+            "damage": 34
+        }
+    ],
+    "image_path": "assets/tsareena.png"
+}

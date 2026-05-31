@@ -1,0 +1,16 @@
+{
+    "name": "Grookey",
+    "type": "grass",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Cuchilla Solar",
+            "damage": 45
+        },
+        {
+            "name": "Fuerza",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/grookey.png"
+}

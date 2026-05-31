@@ -1,0 +1,16 @@
+{
+    "name": "Eldegoss",
+    "type": "grass",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Hoja Afilada",
+            "damage": 22
+        },
+        {
+            "name": "Ciclón de Hojas",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/eldegoss.png"
+}

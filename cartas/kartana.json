@@ -1,0 +1,16 @@
+{
+    "name": "Kartana",
+    "type": "grass",
+    "hp": 59,
+    "attacks": [
+        {
+            "name": "Cuerno Certero",
+            "damage": 28
+        },
+        {
+            "name": "Metaláser",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/kartana.png"
+}

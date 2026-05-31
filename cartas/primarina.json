@@ -1,0 +1,16 @@
+{
+    "name": "Primarina",
+    "type": "water",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Escaldar",
+            "damage": 32
+        },
+        {
+            "name": "Psicorruido",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/primarina.png"
+}

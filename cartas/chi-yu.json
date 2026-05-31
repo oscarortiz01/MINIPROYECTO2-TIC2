@@ -1,0 +1,16 @@
+{
+    "name": "Chi-yu",
+    "type": "dark",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Infortunio",
+            "damage": 26
+        },
+        {
+            "name": "Imagen",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/chi-yu.png"
+}

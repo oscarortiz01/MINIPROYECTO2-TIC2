@@ -1,0 +1,16 @@
+{
+    "name": "Skrelp",
+    "type": "poison",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Pistola Agua",
+            "damage": 16
+        },
+        {
+            "name": "Torbellino",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/skrelp.png"
+}

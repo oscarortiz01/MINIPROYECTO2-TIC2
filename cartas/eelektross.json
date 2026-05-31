@@ -1,0 +1,16 @@
+{
+    "name": "Eelektross",
+    "type": "electric",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Desarme",
+            "damage": 26
+        },
+        {
+            "name": "Avalancha",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/eelektross.png"
+}

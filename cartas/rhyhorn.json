@@ -1,0 +1,16 @@
+{
+    "name": "Rhyhorn",
+    "type": "ground",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Vendetta",
+            "damage": 20
+        },
+        {
+            "name": "Ventisca",
+            "damage": 44
+        }
+    ],
+    "image_path": "assets/rhyhorn.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Froslass",
+    "type": "ice",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Nieve Polvo",
+            "damage": 16
+        },
+        {
+            "name": "Mordisco",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/froslass.png"
+}

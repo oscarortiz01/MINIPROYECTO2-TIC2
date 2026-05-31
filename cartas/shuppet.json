@@ -1,0 +1,16 @@
+{
+    "name": "Shuppet",
+    "type": "ghost",
+    "hp": 44,
+    "attacks": [
+        {
+            "name": "Juego Sucio",
+            "damage": 38
+        },
+        {
+            "name": "Psicorrayo",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/shuppet.png"
+}

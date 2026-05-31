@@ -1,0 +1,16 @@
+{
+    "name": "Marowak",
+    "type": "ground",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Cola Férrea",
+            "damage": 40
+        },
+        {
+            "name": "Canon",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/marowak.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Gastrodon",
+    "type": "water",
+    "hp": 111,
+    "attacks": [
+        {
+            "name": "Bomba Lodo",
+            "damage": 36
+        },
+        {
+            "name": "Rayo Hielo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/gastrodon.png"
+}

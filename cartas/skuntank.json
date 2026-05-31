@@ -1,0 +1,16 @@
+{
+    "name": "Skuntank",
+    "type": "poison",
+    "hp": 103,
+    "attacks": [
+        {
+            "name": "Derribo",
+            "damage": 36
+        },
+        {
+            "name": "Eructo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/skuntank.png"
+}

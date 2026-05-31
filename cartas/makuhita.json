@@ -1,0 +1,16 @@
+{
+    "name": "Makuhita",
+    "type": "fighting",
+    "hp": 72,
+    "attacks": [
+        {
+            "name": "Ronquido",
+            "damage": 20
+        },
+        {
+            "name": "Tiro Vital",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/makuhita.png"
+}

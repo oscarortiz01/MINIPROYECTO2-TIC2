@@ -1,0 +1,16 @@
+{
+    "name": "Zeraora",
+    "type": "electric",
+    "hp": 88,
+    "attacks": [
+        {
+            "name": "Giro Vil",
+            "damage": 24
+        },
+        {
+            "name": "Sorpresa",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/zeraora.png"
+}

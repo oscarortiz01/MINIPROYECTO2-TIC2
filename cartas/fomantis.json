@@ -1,0 +1,16 @@
+{
+    "name": "Fomantis",
+    "type": "grass",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Falso Tortazo",
+            "damage": 16
+        },
+        {
+            "name": "Hoja Mágica",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/fomantis.png"
+}

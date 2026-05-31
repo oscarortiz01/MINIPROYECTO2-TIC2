@@ -1,0 +1,16 @@
+{
+    "name": "Wingull",
+    "type": "water",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        },
+        {
+            "name": "Ladrón",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/wingull.png"
+}

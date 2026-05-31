@@ -1,0 +1,16 @@
+{
+    "name": "Crawdaunt",
+    "type": "water",
+    "hp": 63,
+    "attacks": [
+        {
+            "name": "Cuchillada",
+            "damage": 28
+        },
+        {
+            "name": "Garra Metal",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/crawdaunt.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Arbok",
+    "type": "poison",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Ronquido",
+            "damage": 20
+        },
+        {
+            "name": "Lanzamugre",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/arbok.png"
+}

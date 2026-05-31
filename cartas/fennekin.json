@@ -1,0 +1,16 @@
+{
+    "name": "Fennekin",
+    "type": "fire",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Antojo",
+            "damage": 24
+        },
+        {
+            "name": "Giro Fuego",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/fennekin.png"
+}

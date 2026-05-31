@@ -1,0 +1,16 @@
+{
+    "name": "Totodile",
+    "type": "water",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Canon",
+            "damage": 24
+        },
+        {
+            "name": "Ronquido",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/totodile.png"
+}

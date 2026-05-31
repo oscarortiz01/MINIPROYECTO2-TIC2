@@ -1,0 +1,16 @@
+{
+    "name": "Corviknight",
+    "type": "flying",
+    "hp": 98,
+    "attacks": [
+        {
+            "name": "Golpe Aéreo",
+            "damage": 24
+        },
+        {
+            "name": "Vendaval",
+            "damage": 44
+        }
+    ],
+    "image_path": "assets/corviknight.png"
+}

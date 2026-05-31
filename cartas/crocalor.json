@@ -1,0 +1,16 @@
+{
+    "name": "Crocalor",
+    "type": "fire",
+    "hp": 81,
+    "attacks": [
+        {
+            "name": "Colmillo Rayo",
+            "damage": 26
+        },
+        {
+            "name": "Canon",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/crocalor.png"
+}

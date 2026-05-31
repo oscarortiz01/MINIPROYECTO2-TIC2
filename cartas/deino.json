@@ -1,0 +1,16 @@
+{
+    "name": "Deino",
+    "type": "dark",
+    "hp": 52,
+    "attacks": [
+        {
+            "name": "Onda Voltio",
+            "damage": 24
+        },
+        {
+            "name": "Golpe Roca",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/deino.png"
+}

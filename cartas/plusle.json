@@ -1,0 +1,16 @@
+{
+    "name": "Plusle",
+    "type": "electric",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Rayo",
+            "damage": 36
+        },
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/plusle.png"
+}

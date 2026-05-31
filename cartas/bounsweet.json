@@ -1,0 +1,16 @@
+{
+    "name": "Bounsweet",
+    "type": "grass",
+    "hp": 42,
+    "attacks": [
+        {
+            "name": "Amago",
+            "damage": 15
+        },
+        {
+            "name": "Gigadrenado",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/bounsweet.png"
+}

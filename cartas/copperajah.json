@@ -1,0 +1,16 @@
+{
+    "name": "Copperajah",
+    "type": "steel",
+    "hp": 122,
+    "attacks": [
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        },
+        {
+            "name": "Enfado",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/copperajah.png"
+}

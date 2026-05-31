@@ -1,0 +1,16 @@
+{
+    "name": "Toucannon",
+    "type": "normal",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Pico Taladro",
+            "damage": 32
+        },
+        {
+            "name": "Ataque Furia",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/toucannon.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Deoxys-normal",
+    "type": "psychic",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Giro Vil",
+            "damage": 24
+        },
+        {
+            "name": "Poder Reserva",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/deoxys-normal.png"
+}

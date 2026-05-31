@@ -1,0 +1,16 @@
+{
+    "name": "Togepi",
+    "type": "fairy",
+    "hp": 35,
+    "attacks": [
+        {
+            "name": "Golpe Aéreo",
+            "damage": 24
+        },
+        {
+            "name": "Poder Pasado",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/togepi.png"
+}

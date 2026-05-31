@@ -1,0 +1,16 @@
+{
+    "name": "Sinistea",
+    "type": "ghost",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Canon",
+            "damage": 24
+        },
+        {
+            "name": "Bola Sombra",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/sinistea.png"
+}

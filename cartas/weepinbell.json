@@ -1,0 +1,16 @@
+{
+    "name": "Weepinbell",
+    "type": "grass",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Hoja Afilada",
+            "damage": 22
+        },
+        {
+            "name": "Lluevehojas",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/weepinbell.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Natu",
+    "type": "psychic",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Picoteo",
+            "damage": 24
+        },
+        {
+            "name": "Comesueños",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/natu.png"
+}

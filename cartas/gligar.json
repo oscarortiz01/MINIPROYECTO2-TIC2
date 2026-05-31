@@ -1,0 +1,16 @@
+{
+    "name": "Gligar",
+    "type": "ground",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Bomba Fango",
+            "damage": 26
+        },
+        {
+            "name": "Desarme",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/gligar.png"
+}

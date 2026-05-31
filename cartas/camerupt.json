@@ -1,0 +1,16 @@
+{
+    "name": "Camerupt",
+    "type": "fire",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Llamarada",
+            "damage": 44
+        },
+        {
+            "name": "Rueda Fuego",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/camerupt.png"
+}

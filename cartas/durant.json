@@ -1,0 +1,16 @@
+{
+    "name": "Durant",
+    "type": "bug",
+    "hp": 58,
+    "attacks": [
+        {
+            "name": "Avalancha",
+            "damage": 30
+        },
+        {
+            "name": "Treparrocas",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/durant.png"
+}

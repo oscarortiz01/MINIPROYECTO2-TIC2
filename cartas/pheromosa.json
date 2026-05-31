@@ -1,0 +1,16 @@
+{
+    "name": "Pheromosa",
+    "type": "bug",
+    "hp": 71,
+    "attacks": [
+        {
+            "name": "Falso Tortazo",
+            "damage": 16
+        },
+        {
+            "name": "Doble Rayo",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/pheromosa.png"
+}

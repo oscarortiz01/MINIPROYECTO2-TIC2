@@ -1,0 +1,16 @@
+{
+    "name": "Skiploom",
+    "type": "grass",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Bomba Germen",
+            "damage": 32
+        },
+        {
+            "name": "Ida y Vuelta",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/skiploom.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Duskull",
+    "type": "ghost",
+    "hp": 20,
+    "attacks": [
+        {
+            "name": "Bola Sombra",
+            "damage": 32
+        },
+        {
+            "name": "Rayo Carga",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/duskull.png"
+}

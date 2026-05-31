@@ -1,0 +1,16 @@
+{
+    "name": "Clawitzer",
+    "type": "water",
+    "hp": 71,
+    "attacks": [
+        {
+            "name": "Cascada",
+            "damage": 32
+        },
+        {
+            "name": "Ladrón",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/clawitzer.png"
+}

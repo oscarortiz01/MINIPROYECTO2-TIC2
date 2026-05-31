@@ -1,0 +1,16 @@
+{
+    "name": "Cacnea",
+    "type": "grass",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Excavar",
+            "damage": 32
+        },
+        {
+            "name": "Puño Incremento",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/cacnea.png"
+}

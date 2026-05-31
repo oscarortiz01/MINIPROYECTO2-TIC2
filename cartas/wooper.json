@@ -1,0 +1,16 @@
+{
+    "name": "Wooper",
+    "type": "water",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Puño Hielo",
+            "damage": 30
+        },
+        {
+            "name": "Bomba Fango",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/wooper.png"
+}

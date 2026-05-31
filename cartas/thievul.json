@@ -1,0 +1,16 @@
+{
+    "name": "Thievul",
+    "type": "dark",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Canon",
+            "damage": 24
+        },
+        {
+            "name": "Triturar",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/thievul.png"
+}

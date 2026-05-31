@@ -1,0 +1,16 @@
+{
+    "name": "Tinkatuff",
+    "type": "fairy",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Golpe Roca",
+            "damage": 16
+        },
+        {
+            "name": "Antojo",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/tinkatuff.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Porygon2",
+    "type": "normal",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Onda Voltio",
+            "damage": 24
+        },
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/porygon2.png"
+}

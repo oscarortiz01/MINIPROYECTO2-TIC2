@@ -1,0 +1,16 @@
+{
+    "name": "Mudkip",
+    "type": "water",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Ronquido",
+            "damage": 20
+        },
+        {
+            "name": "Buceo",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/mudkip.png"
+}

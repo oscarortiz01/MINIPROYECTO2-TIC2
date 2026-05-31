@@ -1,0 +1,16 @@
+{
+    "name": "Nihilego",
+    "type": "rock",
+    "hp": 109,
+    "attacks": [
+        {
+            "name": "Brillo Mágico",
+            "damage": 32
+        },
+        {
+            "name": "Constricción",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/nihilego.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Pignite",
+    "type": "fire",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Golpe Bajo",
+            "damage": 28
+        },
+        {
+            "name": "Excavar",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/pignite.png"
+}

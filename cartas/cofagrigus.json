@@ -1,0 +1,16 @@
+{
+    "name": "Cofagrigus",
+    "type": "ghost",
+    "hp": 58,
+    "attacks": [
+        {
+            "name": "Pulso Umbrío",
+            "damage": 32
+        },
+        {
+            "name": "Ronquido",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/cofagrigus.png"
+}

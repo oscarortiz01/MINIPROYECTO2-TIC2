@@ -1,0 +1,16 @@
+{
+    "name": "Blastoise",
+    "type": "water",
+    "hp": 79,
+    "attacks": [
+        {
+            "name": "Rayo Burbuja",
+            "damage": 26
+        },
+        {
+            "name": "Terratemblor",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/blastoise.png"
+}

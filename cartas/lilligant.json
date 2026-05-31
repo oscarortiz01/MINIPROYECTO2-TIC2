@@ -1,0 +1,16 @@
+{
+    "name": "Lilligant",
+    "type": "grass",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Hoja Aguda",
+            "damage": 36
+        },
+        {
+            "name": "Absorber",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/lilligant.png"
+}

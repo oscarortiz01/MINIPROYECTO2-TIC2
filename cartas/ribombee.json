@@ -1,0 +1,16 @@
+{
+    "name": "Ribombee",
+    "type": "bug",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Ronquido",
+            "damage": 20
+        },
+        {
+            "name": "Ala Bis",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/ribombee.png"
+}

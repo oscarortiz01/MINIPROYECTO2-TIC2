@@ -1,0 +1,16 @@
+{
+    "name": "Rotom",
+    "type": "electric",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Juego Sucio",
+            "damage": 38
+        },
+        {
+            "name": "Alboroto",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/rotom.png"
+}

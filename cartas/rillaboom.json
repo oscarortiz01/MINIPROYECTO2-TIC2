@@ -1,0 +1,16 @@
+{
+    "name": "Rillaboom",
+    "type": "grass",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Ida y Vuelta",
+            "damage": 28
+        },
+        {
+            "name": "Fuerza Equina",
+            "damage": 38
+        }
+    ],
+    "image_path": "assets/rillaboom.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Surskit",
+    "type": "bug",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Acua Jet",
+            "damage": 16
+        },
+        {
+            "name": "Hidropulso",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/surskit.png"
+}

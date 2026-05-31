@@ -1,0 +1,16 @@
+{
+    "name": "Tyrogue",
+    "type": "fighting",
+    "hp": 35,
+    "attacks": [
+        {
+            "name": "Megapuño",
+            "damage": 32
+        },
+        {
+            "name": "Puño Bala",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/tyrogue.png"
+}

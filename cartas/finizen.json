@@ -1,0 +1,16 @@
+{
+    "name": "Finizen",
+    "type": "water",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Bote",
+            "damage": 34
+        },
+        {
+            "name": "Voz Cautivadora",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/finizen.png"
+}

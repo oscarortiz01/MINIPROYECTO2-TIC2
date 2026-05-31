@@ -1,0 +1,16 @@
+{
+    "name": "Lapras",
+    "type": "water",
+    "hp": 130,
+    "attacks": [
+        {
+            "name": "Canto Encantador",
+            "damage": 32
+        },
+        {
+            "name": "Pistola Agua",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/lapras.png"
+}

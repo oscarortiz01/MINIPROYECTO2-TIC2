@@ -1,0 +1,16 @@
+{
+    "name": "Bastiodon",
+    "type": "rock",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        },
+        {
+            "name": "Pataleta",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/bastiodon.png"
+}

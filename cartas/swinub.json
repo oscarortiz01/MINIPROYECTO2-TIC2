@@ -1,0 +1,16 @@
+{
+    "name": "Swinub",
+    "type": "ice",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Roca Afilada",
+            "damage": 40
+        },
+        {
+            "name": "Imagen",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/swinub.png"
+}

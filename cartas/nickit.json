@@ -1,0 +1,16 @@
+{
+    "name": "Nickit",
+    "type": "dark",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Alarido",
+            "damage": 22
+        },
+        {
+            "name": "Golpe Bajo",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/nickit.png"
+}

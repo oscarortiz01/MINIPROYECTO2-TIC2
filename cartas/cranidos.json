@@ -1,0 +1,16 @@
+{
+    "name": "Cranidos",
+    "type": "rock",
+    "hp": 67,
+    "attacks": [
+        {
+            "name": "Avalancha",
+            "damage": 30
+        },
+        {
+            "name": "Bofetón Lodo",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/cranidos.png"
+}

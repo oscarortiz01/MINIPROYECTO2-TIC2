@@ -1,0 +1,16 @@
+{
+    "name": "Scream-tail",
+    "type": "fairy",
+    "hp": 115,
+    "attacks": [
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        },
+        {
+            "name": "Estruendo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/scream-tail.png"
+}

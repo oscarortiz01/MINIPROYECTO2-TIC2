@@ -1,0 +1,16 @@
+{
+    "name": "Minun",
+    "type": "electric",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Onda Voltio",
+            "damage": 24
+        },
+        {
+            "name": "Carantoña",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/minun.png"
+}

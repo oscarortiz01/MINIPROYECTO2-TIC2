@@ -1,0 +1,16 @@
+{
+    "name": "Omastar",
+    "type": "rock",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Tumba Rocas",
+            "damage": 24
+        },
+        {
+            "name": "Poder Pasado",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/omastar.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Nidorina",
+    "type": "poison",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Golpe Aéreo",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/nidorina.png"
+}

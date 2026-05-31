@@ -1,0 +1,16 @@
+{
+    "name": "Oshawott",
+    "type": "water",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Hidropulso",
+            "damage": 24
+        },
+        {
+            "name": "Desquite",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/oshawott.png"
+}

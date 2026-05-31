@@ -1,0 +1,16 @@
+{
+    "name": "Phantump",
+    "type": "ghost",
+    "hp": 43,
+    "attacks": [
+        {
+            "name": "Puya Nociva",
+            "damage": 32
+        },
+        {
+            "name": "Avalancha",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/phantump.png"
+}

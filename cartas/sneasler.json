@@ -1,0 +1,16 @@
+{
+    "name": "Sneasler",
+    "type": "fighting",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Puño Certero",
+            "damage": 45
+        },
+        {
+            "name": "Bomba Lodo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/sneasler.png"
+}

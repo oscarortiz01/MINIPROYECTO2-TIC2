@@ -1,0 +1,16 @@
+{
+    "name": "Typhlosion",
+    "type": "fire",
+    "hp": 78,
+    "attacks": [
+        {
+            "name": "Humareda",
+            "damage": 32
+        },
+        {
+            "name": "Demolición",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/typhlosion.png"
+}

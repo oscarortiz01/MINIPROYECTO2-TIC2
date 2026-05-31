@@ -1,0 +1,16 @@
+{
+    "name": "Murkrow",
+    "type": "dark",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Finta",
+            "damage": 24
+        },
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/murkrow.png"
+}

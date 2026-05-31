@@ -1,0 +1,16 @@
+{
+    "name": "Gigalith",
+    "type": "rock",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Cabeza de Hierro",
+            "damage": 32
+        },
+        {
+            "name": "Placaje",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/gigalith.png"
+}

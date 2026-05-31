@@ -1,0 +1,16 @@
+{
+    "name": "Urshifu-single-strike",
+    "type": "fighting",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Triturar",
+            "damage": 32
+        },
+        {
+            "name": "Fuerza Bruta",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/urshifu-single-strike.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Anorith",
+    "type": "rock",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        },
+        {
+            "name": "Corte Furia",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/anorith.png"
+}

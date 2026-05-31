@@ -1,0 +1,16 @@
+{
+    "name": "Centiskorch",
+    "type": "fire",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Envite Ígneo",
+            "damage": 45
+        },
+        {
+            "name": "Llama Final",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/centiskorch.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Mismagius",
+    "type": "ghost",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        },
+        {
+            "name": "Beso Drenaje",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/mismagius.png"
+}

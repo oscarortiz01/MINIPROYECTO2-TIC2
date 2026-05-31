@@ -1,0 +1,16 @@
+{
+    "name": "Applin",
+    "type": "grass",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Golpe Bajo",
+            "damage": 28
+        },
+        {
+            "name": "Cometa Draco",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/applin.png"
+}

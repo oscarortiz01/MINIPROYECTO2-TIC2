@@ -1,0 +1,16 @@
+{
+    "name": "Starly",
+    "type": "normal",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Ataque Furia",
+            "damage": 15
+        },
+        {
+            "name": "Derribo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/starly.png"
+}

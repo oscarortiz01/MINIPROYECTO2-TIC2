@@ -1,0 +1,16 @@
+{
+    "name": "Omanyte",
+    "type": "rock",
+    "hp": 35,
+    "attacks": [
+        {
+            "name": "Rayo Meteórico",
+            "damage": 45
+        },
+        {
+            "name": "Surf",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/omanyte.png"
+}

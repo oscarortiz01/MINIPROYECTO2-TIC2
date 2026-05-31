@@ -1,0 +1,16 @@
+{
+    "name": "Quaxwell",
+    "type": "water",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Destructor",
+            "damage": 16
+        },
+        {
+            "name": "Hidroariete",
+            "damage": 34
+        }
+    ],
+    "image_path": "assets/quaxwell.png"
+}

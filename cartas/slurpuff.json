@@ -1,0 +1,16 @@
+{
+    "name": "Slurpuff",
+    "type": "fairy",
+    "hp": 82,
+    "attacks": [
+        {
+            "name": "Beso Drenaje",
+            "damage": 20
+        },
+        {
+            "name": "Rayo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/slurpuff.png"
+}

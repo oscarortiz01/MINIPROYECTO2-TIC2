@@ -1,0 +1,16 @@
+{
+    "name": "Iron-crown",
+    "type": "steel",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        },
+        {
+            "name": "Garra Metal",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/iron-crown.png"
+}

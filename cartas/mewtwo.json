@@ -1,0 +1,16 @@
+{
+    "name": "Mewtwo",
+    "type": "psychic",
+    "hp": 106,
+    "attacks": [
+        {
+            "name": "Desahogo",
+            "damage": 30
+        },
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/mewtwo.png"
+}

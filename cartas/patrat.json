@@ -1,0 +1,16 @@
+{
+    "name": "Patrat",
+    "type": "normal",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Desquite",
+            "damage": 24
+        },
+        {
+            "name": "Última Baza",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/patrat.png"
+}

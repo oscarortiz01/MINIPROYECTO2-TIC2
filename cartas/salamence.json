@@ -1,0 +1,16 @@
+{
+    "name": "Salamence",
+    "type": "dragon",
+    "hp": 95,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Vendaval",
+            "damage": 44
+        }
+    ],
+    "image_path": "assets/salamence.png"
+}

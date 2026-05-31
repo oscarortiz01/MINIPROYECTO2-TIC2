@@ -1,0 +1,16 @@
+{
+    "name": "Skorupi",
+    "type": "poison",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Golpe Cabeza",
+            "damage": 28
+        },
+        {
+            "name": "Triturar",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/skorupi.png"
+}

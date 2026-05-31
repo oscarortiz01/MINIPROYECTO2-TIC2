@@ -1,0 +1,16 @@
+{
+    "name": "Golurk",
+    "type": "ground",
+    "hp": 89,
+    "attacks": [
+        {
+            "name": "Cabezazo Zen",
+            "damage": 32
+        },
+        {
+            "name": "Roca Afilada",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/golurk.png"
+}

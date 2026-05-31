@@ -1,0 +1,16 @@
+{
+    "name": "Furfrou",
+    "type": "normal",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Rayo Carga",
+            "damage": 20
+        },
+        {
+            "name": "Última Baza",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/furfrou.png"
+}

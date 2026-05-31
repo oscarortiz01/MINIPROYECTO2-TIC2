@@ -1,0 +1,16 @@
+{
+    "name": "Yanmega",
+    "type": "bug",
+    "hp": 86,
+    "attacks": [
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        },
+        {
+            "name": "Derribo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/yanmega.png"
+}

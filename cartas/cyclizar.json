@@ -1,0 +1,16 @@
+{
+    "name": "Cyclizar",
+    "type": "dragon",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Golpe Aéreo",
+            "damage": 24
+        },
+        {
+            "name": "Vasto Impacto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/cyclizar.png"
+}

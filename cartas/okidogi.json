@@ -1,0 +1,16 @@
+{
+    "name": "Okidogi",
+    "type": "poison",
+    "hp": 88,
+    "attacks": [
+        {
+            "name": "Garra Umbría",
+            "damage": 28
+        },
+        {
+            "name": "Puño Fuego",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/okidogi.png"
+}

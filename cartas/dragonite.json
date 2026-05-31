@@ -1,0 +1,16 @@
+{
+    "name": "Dragonite",
+    "type": "dragon",
+    "hp": 91,
+    "attacks": [
+        {
+            "name": "Electrocañón",
+            "damage": 45
+        },
+        {
+            "name": "Cometa Draco",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/dragonite.png"
+}

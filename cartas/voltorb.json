@@ -1,0 +1,16 @@
+{
+    "name": "Voltorb",
+    "type": "electric",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Impactrueno",
+            "damage": 16
+        },
+        {
+            "name": "Chispazo",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/voltorb.png"
+}

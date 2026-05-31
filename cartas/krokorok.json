@@ -1,0 +1,16 @@
+{
+    "name": "Krokorok",
+    "type": "ground",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Golpe",
+            "damage": 45
+        },
+        {
+            "name": "Roca Afilada",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/krokorok.png"
+}

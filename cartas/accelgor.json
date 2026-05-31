@@ -1,0 +1,16 @@
+{
+    "name": "Accelgor",
+    "type": "bug",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        },
+        {
+            "name": "Canon",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/accelgor.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Scraggy",
+    "type": "dark",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Trailblaze",
+            "damage": 20
+        },
+        {
+            "name": "Ladrón",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/scraggy.png"
+}

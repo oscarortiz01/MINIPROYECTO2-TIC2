@@ -1,0 +1,16 @@
+{
+    "name": "Metagross",
+    "type": "steel",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Terremoto",
+            "damage": 40
+        },
+        {
+            "name": "Premonición",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/metagross.png"
+}

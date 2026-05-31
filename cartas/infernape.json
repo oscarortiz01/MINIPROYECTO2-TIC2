@@ -1,0 +1,16 @@
+{
+    "name": "Infernape",
+    "type": "fire",
+    "hp": 76,
+    "attacks": [
+        {
+            "name": "Rayo Solar",
+            "damage": 45
+        },
+        {
+            "name": "Demolición",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/infernape.png"
+}

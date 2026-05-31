@@ -1,0 +1,16 @@
+{
+    "name": "Heracross",
+    "type": "bug",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Golpe Aéreo",
+            "damage": 24
+        },
+        {
+            "name": "Cuerno Certero",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/heracross.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Quilladin",
+    "type": "grass",
+    "hp": 61,
+    "attacks": [
+        {
+            "name": "Demolición",
+            "damage": 30
+        },
+        {
+            "name": "Trailblaze",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/quilladin.png"
+}

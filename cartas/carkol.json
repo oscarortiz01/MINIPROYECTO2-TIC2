@@ -1,0 +1,16 @@
+{
+    "name": "Carkol",
+    "type": "rock",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Avalancha",
+            "damage": 30
+        },
+        {
+            "name": "Giro Rápido",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/carkol.png"
+}

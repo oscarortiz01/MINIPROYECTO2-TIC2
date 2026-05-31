@@ -1,0 +1,16 @@
+{
+    "name": "Archen",
+    "type": "rock",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Avalancha",
+            "damage": 30
+        },
+        {
+            "name": "Ala de Acero",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/archen.png"
+}

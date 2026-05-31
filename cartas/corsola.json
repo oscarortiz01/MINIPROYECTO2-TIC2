@@ -1,0 +1,16 @@
+{
+    "name": "Corsola",
+    "type": "water",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Fuerza",
+            "damage": 32
+        },
+        {
+            "name": "Joya de Luz",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/corsola.png"
+}

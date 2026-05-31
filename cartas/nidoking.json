@@ -1,0 +1,16 @@
+{
+    "name": "Nidoking",
+    "type": "poison",
+    "hp": 81,
+    "attacks": [
+        {
+            "name": "Puya Nociva",
+            "damage": 32
+        },
+        {
+            "name": "Corte",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/nidoking.png"
+}

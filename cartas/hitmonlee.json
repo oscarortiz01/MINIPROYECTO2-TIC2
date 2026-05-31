@@ -1,0 +1,16 @@
+{
+    "name": "Hitmonlee",
+    "type": "fighting",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Golpe Cuerpo",
+            "damage": 34
+        },
+        {
+            "name": "A Bocajarro",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/hitmonlee.png"
+}

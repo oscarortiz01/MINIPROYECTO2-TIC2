@@ -1,0 +1,16 @@
+{
+    "name": "Vileplume",
+    "type": "grass",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Hoja Mágica",
+            "damage": 24
+        },
+        {
+            "name": "Acoso",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/vileplume.png"
+}

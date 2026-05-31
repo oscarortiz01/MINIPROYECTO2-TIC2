@@ -1,0 +1,16 @@
+{
+    "name": "Smoochum",
+    "type": "ice",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Hidropulso",
+            "damage": 24
+        },
+        {
+            "name": "Psicocarga",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/smoochum.png"
+}

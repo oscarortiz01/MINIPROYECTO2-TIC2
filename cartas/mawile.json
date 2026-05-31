@@ -1,0 +1,16 @@
+{
+    "name": "Mawile",
+    "type": "steel",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Bola Sombra",
+            "damage": 32
+        },
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/mawile.png"
+}

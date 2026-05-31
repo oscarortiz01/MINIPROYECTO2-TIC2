@@ -1,0 +1,16 @@
+{
+    "name": "Hawlucha",
+    "type": "fighting",
+    "hp": 78,
+    "attacks": [
+        {
+            "name": "Cabeza de Hierro",
+            "damage": 32
+        },
+        {
+            "name": "Golpe Bis",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/hawlucha.png"
+}

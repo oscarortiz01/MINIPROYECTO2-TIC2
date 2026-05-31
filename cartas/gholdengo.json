@@ -1,0 +1,16 @@
+{
+    "name": "Gholdengo",
+    "type": "steel",
+    "hp": 87,
+    "attacks": [
+        {
+            "name": "Trueno",
+            "damage": 44
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/gholdengo.png"
+}

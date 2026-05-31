@@ -1,0 +1,16 @@
+{
+    "name": "Pupitar",
+    "type": "rock",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Golpe Cabeza",
+            "damage": 28
+        },
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/pupitar.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Trumbeak",
+    "type": "normal",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Ataque Aéreo",
+            "damage": 45
+        },
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/trumbeak.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Tinkaton",
+    "type": "fairy",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/tinkaton.png"
+}

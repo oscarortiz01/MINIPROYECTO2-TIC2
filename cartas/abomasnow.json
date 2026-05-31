@@ -1,0 +1,16 @@
+{
+    "name": "Abomasnow",
+    "type": "grass",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Vaho Gélido",
+            "damage": 24
+        },
+        {
+            "name": "Treparrocas",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/abomasnow.png"
+}

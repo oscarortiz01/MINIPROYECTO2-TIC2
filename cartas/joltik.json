@@ -1,0 +1,16 @@
+{
+    "name": "Joltik",
+    "type": "bug",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Veneno X",
+            "damage": 28
+        },
+        {
+            "name": "Puya Nociva",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/joltik.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Volcanion",
+    "type": "fire",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Demolición",
+            "damage": 30
+        },
+        {
+            "name": "Golpe Cuerpo",
+            "damage": 34
+        }
+    ],
+    "image_path": "assets/volcanion.png"
+}

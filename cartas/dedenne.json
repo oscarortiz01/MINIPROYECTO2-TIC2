@@ -1,0 +1,16 @@
+{
+    "name": "Dedenne",
+    "type": "electric",
+    "hp": 67,
+    "attacks": [
+        {
+            "name": "Derribo",
+            "damage": 36
+        },
+        {
+            "name": "Trailblaze",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/dedenne.png"
+}

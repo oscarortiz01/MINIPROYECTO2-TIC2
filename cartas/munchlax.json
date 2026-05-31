@@ -1,0 +1,16 @@
+{
+    "name": "Munchlax",
+    "type": "normal",
+    "hp": 135,
+    "attacks": [
+        {
+            "name": "Llamarada",
+            "damage": 44
+        },
+        {
+            "name": "Lanzallamas",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/munchlax.png"
+}

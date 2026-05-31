@@ -1,0 +1,16 @@
+{
+    "name": "Sunkern",
+    "type": "grass",
+    "hp": 30,
+    "attacks": [
+        {
+            "name": "Hoja Mágica",
+            "damage": 24
+        },
+        {
+            "name": "Megaagotar",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/sunkern.png"
+}

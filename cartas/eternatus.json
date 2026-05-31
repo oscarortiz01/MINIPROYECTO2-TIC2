@@ -1,0 +1,16 @@
+{
+    "name": "Eternatus",
+    "type": "poison",
+    "hp": 140,
+    "attacks": [
+        {
+            "name": "Rayo Infinito",
+            "damage": 45
+        },
+        {
+            "name": "Rayo Meteórico",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/eternatus.png"
+}

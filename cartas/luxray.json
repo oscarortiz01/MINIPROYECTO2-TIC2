@@ -1,0 +1,16 @@
+{
+    "name": "Luxray",
+    "type": "electric",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Ronquido",
+            "damage": 20
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/luxray.png"
+}

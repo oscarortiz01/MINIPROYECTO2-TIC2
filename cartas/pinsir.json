@@ -1,0 +1,16 @@
+{
+    "name": "Pinsir",
+    "type": "bug",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Amago",
+            "damage": 15
+        },
+        {
+            "name": "Giro Vil",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/pinsir.png"
+}

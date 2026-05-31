@@ -1,0 +1,16 @@
+{
+    "name": "Donphan",
+    "type": "ground",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Plancha Corporal",
+            "damage": 32
+        },
+        {
+            "name": "Rodar",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/donphan.png"
+}

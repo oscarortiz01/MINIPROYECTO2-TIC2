@@ -1,0 +1,16 @@
+{
+    "name": "Tapu-koko",
+    "type": "electric",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Ladrón",
+            "damage": 24
+        },
+        {
+            "name": "Canon",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/tapu-koko.png"
+}

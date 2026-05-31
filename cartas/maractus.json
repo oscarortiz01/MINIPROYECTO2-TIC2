@@ -1,0 +1,16 @@
+{
+    "name": "Maractus",
+    "type": "grass",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Mazazo",
+            "damage": 45
+        },
+        {
+            "name": "Pin Misil",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/maractus.png"
+}

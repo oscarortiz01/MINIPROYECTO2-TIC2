@@ -1,0 +1,16 @@
+{
+    "name": "Regidrago",
+    "type": "dragon",
+    "hp": 200,
+    "attacks": [
+        {
+            "name": "Autodestrucción",
+            "damage": 45
+        },
+        {
+            "name": "Ciclón",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/regidrago.png"
+}

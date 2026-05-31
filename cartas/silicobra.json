@@ -1,0 +1,16 @@
+{
+    "name": "Silicobra",
+    "type": "ground",
+    "hp": 52,
+    "attacks": [
+        {
+            "name": "Golpe Rastrero",
+            "damage": 28
+        },
+        {
+            "name": "Giro Vil",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/silicobra.png"
+}

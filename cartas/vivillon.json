@@ -1,0 +1,16 @@
+{
+    "name": "Vivillon",
+    "type": "bug",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Golpe Rastrero",
+            "damage": 28
+        },
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/vivillon.png"
+}

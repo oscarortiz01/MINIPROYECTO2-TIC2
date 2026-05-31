@@ -1,0 +1,16 @@
+{
+    "name": "Morgrem",
+    "type": "dark",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Beso Drenaje",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/morgrem.png"
+}

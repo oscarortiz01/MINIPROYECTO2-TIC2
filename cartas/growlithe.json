@@ -1,0 +1,16 @@
+{
+    "name": "Growlithe",
+    "type": "fire",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        },
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/growlithe.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Taillow",
+    "type": "normal",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Picotazo",
+            "damage": 15
+        },
+        {
+            "name": "Onda Ígnea",
+            "damage": 38
+        }
+    ],
+    "image_path": "assets/taillow.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Deerling",
+    "type": "normal",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Bote",
+            "damage": 34
+        },
+        {
+            "name": "Represalia",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/deerling.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Pidgeotto",
+    "type": "normal",
+    "hp": 63,
+    "attacks": [
+        {
+            "name": "Alboroto",
+            "damage": 36
+        },
+        {
+            "name": "Viento Aciago",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/pidgeotto.png"
+}

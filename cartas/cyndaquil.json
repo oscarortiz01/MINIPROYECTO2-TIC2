@@ -1,0 +1,16 @@
+{
+    "name": "Cyndaquil",
+    "type": "fire",
+    "hp": 39,
+    "attacks": [
+        {
+            "name": "Cólera Ardiente",
+            "damage": 30
+        },
+        {
+            "name": "Garra Brutal",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/cyndaquil.png"
+}

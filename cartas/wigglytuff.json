@@ -1,0 +1,16 @@
+{
+    "name": "Wigglytuff",
+    "type": "normal",
+    "hp": 140,
+    "attacks": [
+        {
+            "name": "Brillo Mágico",
+            "damage": 32
+        },
+        {
+            "name": "Cabezazo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/wigglytuff.png"
+}

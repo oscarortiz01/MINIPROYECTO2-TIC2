@@ -1,0 +1,16 @@
+{
+    "name": "Cubone",
+    "type": "ground",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Megapatada",
+            "damage": 45
+        },
+        {
+            "name": "Lanzallamas",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/cubone.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Ursaluna",
+    "type": "ground",
+    "hp": 130,
+    "attacks": [
+        {
+            "name": "Terremoto",
+            "damage": 40
+        },
+        {
+            "name": "Rapidez",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/ursaluna.png"
+}

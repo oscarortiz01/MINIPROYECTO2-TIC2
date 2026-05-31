@@ -1,0 +1,16 @@
+{
+    "name": "Sandygast",
+    "type": "ghost",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Energibola",
+            "damage": 36
+        },
+        {
+            "name": "Canon",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/sandygast.png"
+}

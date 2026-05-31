@@ -1,0 +1,16 @@
+{
+    "name": "Stantler",
+    "type": "normal",
+    "hp": 73,
+    "attacks": [
+        {
+            "name": "Terremoto",
+            "damage": 40
+        },
+        {
+            "name": "Golpe Cabeza",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/stantler.png"
+}

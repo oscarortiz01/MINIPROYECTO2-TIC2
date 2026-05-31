@@ -1,0 +1,16 @@
+{
+    "name": "Absol",
+    "type": "dark",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Viento Cortante",
+            "damage": 32
+        },
+        {
+            "name": "Garra Umbría",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/absol.png"
+}

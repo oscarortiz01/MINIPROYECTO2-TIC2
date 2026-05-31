@@ -1,0 +1,16 @@
+{
+    "name": "Malamar",
+    "type": "dark",
+    "hp": 86,
+    "attacks": [
+        {
+            "name": "Plancha",
+            "damage": 32
+        },
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/malamar.png"
+}

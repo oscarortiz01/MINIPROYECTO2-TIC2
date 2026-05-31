@@ -1,0 +1,16 @@
+{
+    "name": "Silcoon",
+    "type": "bug",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Electrotela",
+            "damage": 22
+        },
+        {
+            "name": "Picotazo Veneno",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/silcoon.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Arctibax",
+    "type": "dragon",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Triturar",
+            "damage": 32
+        },
+        {
+            "name": "Cabeza de Hierro",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/arctibax.png"
+}

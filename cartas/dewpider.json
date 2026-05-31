@@ -1,0 +1,16 @@
+{
+    "name": "Dewpider",
+    "type": "water",
+    "hp": 38,
+    "attacks": [
+        {
+            "name": "Viento Hielo",
+            "damage": 22
+        },
+        {
+            "name": "Canon",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/dewpider.png"
+}

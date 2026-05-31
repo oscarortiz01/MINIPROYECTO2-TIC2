@@ -1,0 +1,16 @@
+{
+    "name": "Roaring-moon",
+    "type": "dragon",
+    "hp": 105,
+    "attacks": [
+        {
+            "name": "Garra Umbría",
+            "damage": 28
+        },
+        {
+            "name": "Roca Afilada",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/roaring-moon.png"
+}

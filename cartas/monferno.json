@@ -1,0 +1,16 @@
+{
+    "name": "Monferno",
+    "type": "fire",
+    "hp": 64,
+    "attacks": [
+        {
+            "name": "Cola Férrea",
+            "damage": 40
+        },
+        {
+            "name": "Ronquido",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/monferno.png"
+}

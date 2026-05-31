@@ -1,0 +1,16 @@
+{
+    "name": "Rhyperior",
+    "type": "ground",
+    "hp": 115,
+    "attacks": [
+        {
+            "name": "Colmillo Ígneo",
+            "damage": 26
+        },
+        {
+            "name": "Roca Afilada",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/rhyperior.png"
+}

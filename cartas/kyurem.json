@@ -1,0 +1,16 @@
+{
+    "name": "Kyurem",
+    "type": "dragon",
+    "hp": 125,
+    "attacks": [
+        {
+            "name": "Avalancha",
+            "damage": 30
+        },
+        {
+            "name": "Liofilización",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/kyurem.png"
+}

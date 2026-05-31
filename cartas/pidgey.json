@@ -1,0 +1,16 @@
+{
+    "name": "Pidgey",
+    "type": "normal",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Bofetón Lodo",
+            "damage": 15
+        },
+        {
+            "name": "Viento Cortante",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/pidgey.png"
+}

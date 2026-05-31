@@ -1,0 +1,16 @@
+{
+    "name": "Palafin-zero",
+    "type": "water",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Enfado",
+            "damage": 45
+        },
+        {
+            "name": "Doble Golpe",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/palafin-zero.png"
+}

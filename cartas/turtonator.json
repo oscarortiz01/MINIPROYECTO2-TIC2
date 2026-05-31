@@ -1,0 +1,16 @@
+{
+    "name": "Turtonator",
+    "type": "fire",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        },
+        {
+            "name": "Onda Certera",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/turtonator.png"
+}

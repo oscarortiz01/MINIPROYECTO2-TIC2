@@ -1,0 +1,16 @@
+{
+    "name": "Beldum",
+    "type": "steel",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Cabeza de Hierro",
+            "damage": 32
+        },
+        {
+            "name": "Golpe Cabeza",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/beldum.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Timburr",
+    "type": "fighting",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Puya Nociva",
+            "damage": 32
+        },
+        {
+            "name": "Puño Cometa",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/timburr.png"
+}

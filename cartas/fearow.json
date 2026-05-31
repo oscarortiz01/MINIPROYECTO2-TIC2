@@ -1,0 +1,16 @@
+{
+    "name": "Fearow",
+    "type": "normal",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Ladrón",
+            "damage": 24
+        },
+        {
+            "name": "Persecución",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/fearow.png"
+}

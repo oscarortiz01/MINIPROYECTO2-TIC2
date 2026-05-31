@@ -1,0 +1,16 @@
+{
+    "name": "Larvesta",
+    "type": "bug",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        },
+        {
+            "name": "Rueda Fuego",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/larvesta.png"
+}

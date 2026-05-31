@@ -1,0 +1,16 @@
+{
+    "name": "Rellor",
+    "type": "bug",
+    "hp": 41,
+    "attacks": [
+        {
+            "name": "Excavar",
+            "damage": 32
+        },
+        {
+            "name": "Tumba Rocas",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/rellor.png"
+}

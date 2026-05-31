@@ -1,0 +1,16 @@
+{
+    "name": "Sharpedo",
+    "type": "water",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Bote",
+            "damage": 34
+        },
+        {
+            "name": "Surf",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/sharpedo.png"
+}

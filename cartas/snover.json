@@ -1,0 +1,16 @@
+{
+    "name": "Snover",
+    "type": "grass",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        },
+        {
+            "name": "Mazazo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/snover.png"
+}

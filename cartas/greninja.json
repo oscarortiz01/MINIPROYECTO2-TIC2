@@ -1,0 +1,16 @@
+{
+    "name": "Greninja",
+    "type": "water",
+    "hp": 72,
+    "attacks": [
+        {
+            "name": "Derribo",
+            "damage": 36
+        },
+        {
+            "name": "Palma Rauda",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/greninja.png"
+}

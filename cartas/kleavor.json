@@ -1,0 +1,16 @@
+{
+    "name": "Kleavor",
+    "type": "bug",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Roca Afilada",
+            "damage": 40
+        },
+        {
+            "name": "Tajo Aéreo",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/kleavor.png"
+}

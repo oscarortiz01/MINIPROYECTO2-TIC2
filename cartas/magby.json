@@ -1,0 +1,16 @@
+{
+    "name": "Magby",
+    "type": "fire",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Ascuas",
+            "damage": 16
+        },
+        {
+            "name": "Niebla Clara",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/magby.png"
+}

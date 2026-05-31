@@ -1,0 +1,16 @@
+{
+    "name": "Noctowl",
+    "type": "normal",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Ciclón",
+            "damage": 16
+        },
+        {
+            "name": "Vendaval",
+            "damage": 44
+        }
+    ],
+    "image_path": "assets/noctowl.png"
+}

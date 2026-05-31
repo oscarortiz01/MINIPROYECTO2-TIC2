@@ -1,0 +1,16 @@
+{
+    "name": "Numel",
+    "type": "fire",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Ascuas",
+            "damage": 16
+        },
+        {
+            "name": "Llamarada",
+            "damage": 44
+        }
+    ],
+    "image_path": "assets/numel.png"
+}

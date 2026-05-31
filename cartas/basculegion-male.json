@@ -1,0 +1,16 @@
+{
+    "name": "Basculegion-male",
+    "type": "water",
+    "hp": 120,
+    "attacks": [
+        {
+            "name": "Derribo",
+            "damage": 36
+        },
+        {
+            "name": "Ráfaga Escamas",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/basculegion-male.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Munkidori",
+    "type": "poison",
+    "hp": 88,
+    "attacks": [
+        {
+            "name": "Psicocarga",
+            "damage": 32
+        },
+        {
+            "name": "Infortunio",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/munkidori.png"
+}

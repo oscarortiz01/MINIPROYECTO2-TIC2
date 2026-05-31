@@ -1,0 +1,16 @@
+{
+    "name": "Terapagos",
+    "type": "normal",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Cabezazo Zen",
+            "damage": 32
+        },
+        {
+            "name": "Esfera Aural",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/terapagos.png"
+}

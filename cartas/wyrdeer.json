@@ -1,0 +1,16 @@
+{
+    "name": "Wyrdeer",
+    "type": "normal",
+    "hp": 103,
+    "attacks": [
+        {
+            "name": "Paranormal",
+            "damage": 32
+        },
+        {
+            "name": "Golpe Mordaza",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/wyrdeer.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Mamoswine",
+    "type": "ice",
+    "hp": 110,
+    "attacks": [
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        },
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/mamoswine.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Rapidash",
+    "type": "fire",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        },
+        {
+            "name": "Doble Patada",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/rapidash.png"
+}

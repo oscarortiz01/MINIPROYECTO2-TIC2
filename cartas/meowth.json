@@ -1,0 +1,16 @@
+{
+    "name": "Meowth",
+    "type": "normal",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Cola Férrea",
+            "damage": 40
+        },
+        {
+            "name": "Bofetón Lodo",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/meowth.png"
+}

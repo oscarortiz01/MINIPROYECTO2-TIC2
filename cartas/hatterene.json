@@ -1,0 +1,16 @@
+{
+    "name": "Hatterene",
+    "type": "psychic",
+    "hp": 57,
+    "attacks": [
+        {
+            "name": "Rapidez",
+            "damage": 24
+        },
+        {
+            "name": "Psicorruido",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/hatterene.png"
+}

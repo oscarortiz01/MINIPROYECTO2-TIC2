@@ -1,0 +1,16 @@
+{
+    "name": "Charjabug",
+    "type": "bug",
+    "hp": 57,
+    "attacks": [
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        },
+        {
+            "name": "Pounce",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/charjabug.png"
+}

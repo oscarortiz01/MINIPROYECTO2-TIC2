@@ -1,0 +1,16 @@
+{
+    "name": "Noibat",
+    "type": "flying",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Tornado",
+            "damage": 16
+        },
+        {
+            "name": "Corte",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/noibat.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Kakuna",
+    "type": "bug",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Picadura",
+            "damage": 24
+        },
+        {
+            "name": "Electrotela",
+            "damage": 22
+        }
+    ],
+    "image_path": "assets/kakuna.png"
+}

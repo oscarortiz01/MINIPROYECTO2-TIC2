@@ -1,0 +1,16 @@
+{
+    "name": "Nincada",
+    "type": "bug",
+    "hp": 31,
+    "attacks": [
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        },
+        {
+            "name": "Canon",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/nincada.png"
+}

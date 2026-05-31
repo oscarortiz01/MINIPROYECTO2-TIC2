@@ -1,0 +1,16 @@
+{
+    "name": "Miltank",
+    "type": "normal",
+    "hp": 95,
+    "attacks": [
+        {
+            "name": "Torbellino",
+            "damage": 15
+        },
+        {
+            "name": "Carantoña",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/miltank.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Overqwil",
+    "type": "dark",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Desahogo",
+            "damage": 30
+        },
+        {
+            "name": "Barb Barrage",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/overqwil.png"
+}

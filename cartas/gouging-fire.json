@@ -1,0 +1,16 @@
+{
+    "name": "Gouging-fire",
+    "type": "fire",
+    "hp": 105,
+    "attacks": [
+        {
+            "name": "Alarido",
+            "damage": 22
+        },
+        {
+            "name": "Doble Patada",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/gouging-fire.png"
+}

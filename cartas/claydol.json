@@ -1,0 +1,16 @@
+{
+    "name": "Claydol",
+    "type": "ground",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Taladradora",
+            "damage": 32
+        },
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/claydol.png"
+}

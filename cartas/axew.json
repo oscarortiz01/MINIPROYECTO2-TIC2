@@ -1,0 +1,16 @@
+{
+    "name": "Axew",
+    "type": "dragon",
+    "hp": 46,
+    "attacks": [
+        {
+            "name": "Tumba Rocas",
+            "damage": 24
+        },
+        {
+            "name": "Corte",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/axew.png"
+}

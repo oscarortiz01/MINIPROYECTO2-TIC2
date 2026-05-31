@@ -1,0 +1,16 @@
+{
+    "name": "Farfetchd",
+    "type": "normal",
+    "hp": 52,
+    "attacks": [
+        {
+            "name": "Hoja Afilada",
+            "damage": 22
+        },
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/farfetchd.png"
+}

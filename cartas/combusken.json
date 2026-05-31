@@ -1,0 +1,16 @@
+{
+    "name": "Combusken",
+    "type": "fire",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Cólera Ardiente",
+            "damage": 30
+        },
+        {
+            "name": "Rapidez",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/combusken.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Golduck",
+    "type": "water",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Corte Furia",
+            "damage": 16
+        },
+        {
+            "name": "Psíquico",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/golduck.png"
+}

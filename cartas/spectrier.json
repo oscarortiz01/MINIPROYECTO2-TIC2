@@ -1,0 +1,16 @@
+{
+    "name": "Spectrier",
+    "type": "ghost",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Doble Patada",
+            "damage": 15
+        },
+        {
+            "name": "Pisotón",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/spectrier.png"
+}

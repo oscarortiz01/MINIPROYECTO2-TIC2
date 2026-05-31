@@ -1,0 +1,16 @@
+{
+    "name": "Phione",
+    "type": "water",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Hidropulso",
+            "damage": 24
+        },
+        {
+            "name": "Última Baza",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/phione.png"
+}

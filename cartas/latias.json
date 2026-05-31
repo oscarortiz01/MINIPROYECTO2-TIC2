@@ -1,0 +1,16 @@
+{
+    "name": "Latias",
+    "type": "dragon",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Trueno",
+            "damage": 44
+        },
+        {
+            "name": "Psíquico",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/latias.png"
+}

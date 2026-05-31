@@ -1,0 +1,16 @@
+{
+    "name": "Scrafty",
+    "type": "dark",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Megapatada",
+            "damage": 45
+        },
+        {
+            "name": "Puño Drenaje",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/scrafty.png"
+}

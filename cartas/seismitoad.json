@@ -1,0 +1,16 @@
+{
+    "name": "Seismitoad",
+    "type": "water",
+    "hp": 105,
+    "attacks": [
+        {
+            "name": "Golpe Roca",
+            "damage": 16
+        },
+        {
+            "name": "Excavar",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/seismitoad.png"
+}

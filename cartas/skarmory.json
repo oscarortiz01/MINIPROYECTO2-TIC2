@@ -1,0 +1,16 @@
+{
+    "name": "Skarmory",
+    "type": "steel",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Vuelo",
+            "damage": 36
+        },
+        {
+            "name": "Tajo Aéreo",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/skarmory.png"
+}

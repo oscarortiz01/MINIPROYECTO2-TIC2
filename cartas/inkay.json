@@ -1,0 +1,16 @@
+{
+    "name": "Inkay",
+    "type": "dark",
+    "hp": 53,
+    "attacks": [
+        {
+            "name": "Golpe Aéreo",
+            "damage": 24
+        },
+        {
+            "name": "Constricción",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/inkay.png"
+}

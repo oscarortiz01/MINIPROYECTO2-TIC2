@@ -1,0 +1,16 @@
+{
+    "name": "Pawniard",
+    "type": "dark",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Foco Resplandor",
+            "damage": 32
+        },
+        {
+            "name": "Roca Afilada",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/pawniard.png"
+}

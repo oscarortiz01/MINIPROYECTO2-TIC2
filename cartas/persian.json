@@ -1,0 +1,16 @@
+{
+    "name": "Persian",
+    "type": "normal",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Eco Voz",
+            "damage": 16
+        },
+        {
+            "name": "Golpe Cuerpo",
+            "damage": 34
+        }
+    ],
+    "image_path": "assets/persian.png"
+}

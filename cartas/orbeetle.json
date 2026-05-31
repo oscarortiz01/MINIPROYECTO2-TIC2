@@ -1,0 +1,16 @@
+{
+    "name": "Orbeetle",
+    "type": "bug",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Canon",
+            "damage": 24
+        },
+        {
+            "name": "Vendetta",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/orbeetle.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Grimmsnarl",
+    "type": "dark",
+    "hp": 95,
+    "attacks": [
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        },
+        {
+            "name": "Puntapié",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/grimmsnarl.png"
+}

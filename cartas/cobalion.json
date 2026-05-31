@@ -1,0 +1,16 @@
+{
+    "name": "Cobalion",
+    "type": "steel",
+    "hp": 91,
+    "attacks": [
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        },
+        {
+            "name": "Foco Resplandor",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/cobalion.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Kricketot",
+    "type": "bug",
+    "hp": 37,
+    "attacks": [
+        {
+            "name": "Golpe Rastrero",
+            "damage": 28
+        },
+        {
+            "name": "Destructor",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/kricketot.png"
+}

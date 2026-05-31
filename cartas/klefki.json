@@ -1,0 +1,16 @@
+{
+    "name": "Klefki",
+    "type": "steel",
+    "hp": 57,
+    "attacks": [
+        {
+            "name": "Foco Resplandor",
+            "damage": 32
+        },
+        {
+            "name": "Ronquido",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/klefki.png"
+}

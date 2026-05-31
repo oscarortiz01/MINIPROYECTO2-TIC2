@@ -1,0 +1,16 @@
+{
+    "name": "Grubbin",
+    "type": "bug",
+    "hp": 47,
+    "attacks": [
+        {
+            "name": "Agarre",
+            "damage": 22
+        },
+        {
+            "name": "Chispazo",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/grubbin.png"
+}

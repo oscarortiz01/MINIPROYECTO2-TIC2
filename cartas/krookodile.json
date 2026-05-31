@@ -1,0 +1,16 @@
+{
+    "name": "Krookodile",
+    "type": "ground",
+    "hp": 95,
+    "attacks": [
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        },
+        {
+            "name": "Mordisco",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/krookodile.png"
+}

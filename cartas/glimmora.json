@@ -1,0 +1,16 @@
+{
+    "name": "Glimmora",
+    "type": "rock",
+    "hp": 83,
+    "attacks": [
+        {
+            "name": "Carga Tóxica",
+            "damage": 26
+        },
+        {
+            "name": "Roca Afilada",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/glimmora.png"
+}

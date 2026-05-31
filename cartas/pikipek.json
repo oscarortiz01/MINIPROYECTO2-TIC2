@@ -1,0 +1,16 @@
+{
+    "name": "Pikipek",
+    "type": "normal",
+    "hp": 35,
+    "attacks": [
+        {
+            "name": "Aire Afilado",
+            "damage": 24
+        },
+        {
+            "name": "Derribo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/pikipek.png"
+}

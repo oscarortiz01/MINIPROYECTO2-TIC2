@@ -1,0 +1,16 @@
+{
+    "name": "Shroomish",
+    "type": "grass",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Lanzamugre",
+            "damage": 45
+        },
+        {
+            "name": "Hoja Mágica",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/shroomish.png"
+}

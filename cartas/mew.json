@@ -1,0 +1,16 @@
+{
+    "name": "Mew",
+    "type": "psychic",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Acua Cola",
+            "damage": 36
+        },
+        {
+            "name": "Ala Bis",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/mew.png"
+}

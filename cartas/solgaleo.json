@@ -1,0 +1,16 @@
+{
+    "name": "Solgaleo",
+    "type": "psychic",
+    "hp": 137,
+    "attacks": [
+        {
+            "name": "Lanzallamas",
+            "damage": 36
+        },
+        {
+            "name": "Envite Ígneo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/solgaleo.png"
+}

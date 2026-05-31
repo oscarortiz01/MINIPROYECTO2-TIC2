@@ -1,0 +1,16 @@
+{
+    "name": "Sprigatito",
+    "type": "grass",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        },
+        {
+            "name": "Voz Cautivadora",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/sprigatito.png"
+}

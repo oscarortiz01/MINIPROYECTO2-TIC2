@@ -1,0 +1,16 @@
+{
+    "name": "Gliscor",
+    "type": "ground",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Ala Bis",
+            "damage": 16
+        },
+        {
+            "name": "Triturar",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/gliscor.png"
+}

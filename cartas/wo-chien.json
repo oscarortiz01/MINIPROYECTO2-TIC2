@@ -1,0 +1,16 @@
+{
+    "name": "Wo-chien",
+    "type": "dark",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Pulso Umbrío",
+            "damage": 32
+        },
+        {
+            "name": "Alarido",
+            "damage": 22
+        }
+    ],
+    "image_path": "assets/wo-chien.png"
+}

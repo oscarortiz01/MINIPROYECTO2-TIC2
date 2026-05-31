@@ -1,0 +1,16 @@
+{
+    "name": "Metapod",
+    "type": "bug",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Picadura",
+            "damage": 24
+        },
+        {
+            "name": "Electrotela",
+            "damage": 22
+        }
+    ],
+    "image_path": "assets/metapod.png"
+}

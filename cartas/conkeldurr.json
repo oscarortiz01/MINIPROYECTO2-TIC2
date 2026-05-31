@@ -1,0 +1,16 @@
+{
+    "name": "Conkeldurr",
+    "type": "fighting",
+    "hp": 105,
+    "attacks": [
+        {
+            "name": "Desarme",
+            "damage": 26
+        },
+        {
+            "name": "Canon",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/conkeldurr.png"
+}

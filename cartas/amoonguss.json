@@ -1,0 +1,16 @@
+{
+    "name": "Amoonguss",
+    "type": "grass",
+    "hp": 114,
+    "attacks": [
+        {
+            "name": "Pataleta",
+            "damage": 30
+        },
+        {
+            "name": "Bola de Polen",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/amoonguss.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Sobble",
+    "type": "water",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Canon",
+            "damage": 24
+        },
+        {
+            "name": "Aguijón Letal",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/sobble.png"
+}

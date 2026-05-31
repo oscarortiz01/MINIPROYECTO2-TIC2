@@ -1,0 +1,16 @@
+{
+    "name": "Garchomp",
+    "type": "dragon",
+    "hp": 108,
+    "attacks": [
+        {
+            "name": "Joya de Luz",
+            "damage": 32
+        },
+        {
+            "name": "Mordisco",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/garchomp.png"
+}

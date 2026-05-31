@@ -1,0 +1,16 @@
+{
+    "name": "Bruxish",
+    "type": "water",
+    "hp": 68,
+    "attacks": [
+        {
+            "name": "Viento Hielo",
+            "damage": 22
+        },
+        {
+            "name": "Confusión",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/bruxish.png"
+}

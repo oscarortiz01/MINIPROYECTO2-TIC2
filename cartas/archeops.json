@@ -1,0 +1,16 @@
+{
+    "name": "Archeops",
+    "type": "rock",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        },
+        {
+            "name": "Garra Dragón",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/archeops.png"
+}

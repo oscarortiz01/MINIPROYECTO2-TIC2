@@ -1,0 +1,16 @@
+{
+    "name": "Bayleef",
+    "type": "grass",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Fuerza",
+            "damage": 32
+        },
+        {
+            "name": "Semilladora",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/bayleef.png"
+}

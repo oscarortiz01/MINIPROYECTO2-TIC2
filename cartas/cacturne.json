@@ -1,0 +1,16 @@
+{
+    "name": "Cacturne",
+    "type": "grass",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Cabezazo Zen",
+            "damage": 32
+        },
+        {
+            "name": "Megapatada",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/cacturne.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Spheal",
+    "type": "ice",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Avalancha",
+            "damage": 30
+        },
+        {
+            "name": "Golpe Roca",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/spheal.png"
+}

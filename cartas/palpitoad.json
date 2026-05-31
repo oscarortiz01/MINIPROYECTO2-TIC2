@@ -1,0 +1,16 @@
+{
+    "name": "Palpitoad",
+    "type": "water",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Hidrobomba",
+            "damage": 44
+        },
+        {
+            "name": "Latigazo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/palpitoad.png"
+}

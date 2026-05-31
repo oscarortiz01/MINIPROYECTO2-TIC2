@@ -1,0 +1,16 @@
+{
+    "name": "Electabuzz",
+    "type": "electric",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Alboroto",
+            "damage": 36
+        },
+        {
+            "name": "Derribo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/electabuzz.png"
+}

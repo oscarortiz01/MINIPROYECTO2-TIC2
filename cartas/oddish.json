@@ -1,0 +1,16 @@
+{
+    "name": "Oddish",
+    "type": "grass",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Rayo Solar",
+            "damage": 45
+        },
+        {
+            "name": "Trailblaze",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/oddish.png"
+}

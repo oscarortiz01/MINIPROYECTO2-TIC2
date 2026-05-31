@@ -1,0 +1,16 @@
+{
+    "name": "Palossand",
+    "type": "ghost",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Acoso",
+            "damage": 15
+        },
+        {
+            "name": "Bofetón Lodo",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/palossand.png"
+}

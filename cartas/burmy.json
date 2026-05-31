@@ -1,0 +1,16 @@
+{
+    "name": "Burmy",
+    "type": "bug",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Placaje",
+            "damage": 16
+        },
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/burmy.png"
+}

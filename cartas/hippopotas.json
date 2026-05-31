@@ -1,0 +1,16 @@
+{
+    "name": "Hippopotas",
+    "type": "ground",
+    "hp": 68,
+    "attacks": [
+        {
+            "name": "Ronquido",
+            "damage": 20
+        },
+        {
+            "name": "Derribo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/hippopotas.png"
+}

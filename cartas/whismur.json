@@ -1,0 +1,16 @@
+{
+    "name": "Whismur",
+    "type": "normal",
+    "hp": 64,
+    "attacks": [
+        {
+            "name": "Llamarada",
+            "damage": 44
+        },
+        {
+            "name": "Golpe Cabeza",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/whismur.png"
+}

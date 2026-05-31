@@ -1,0 +1,16 @@
+{
+    "name": "Yamask",
+    "type": "ghost",
+    "hp": 38,
+    "attacks": [
+        {
+            "name": "Ladrón",
+            "damage": 24
+        },
+        {
+            "name": "Onda Voltio",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/yamask.png"
+}

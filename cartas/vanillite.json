@@ -1,0 +1,16 @@
+{
+    "name": "Vanillite",
+    "type": "ice",
+    "hp": 36,
+    "attacks": [
+        {
+            "name": "Ronquido",
+            "damage": 20
+        },
+        {
+            "name": "Hidropulso",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/vanillite.png"
+}

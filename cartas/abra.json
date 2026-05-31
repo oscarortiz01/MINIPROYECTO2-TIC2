@@ -1,0 +1,16 @@
+{
+    "name": "Abra",
+    "type": "psychic",
+    "hp": 25,
+    "attacks": [
+        {
+            "name": "Furia",
+            "damage": 15
+        },
+        {
+            "name": "Puño Certero",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/abra.png"
+}

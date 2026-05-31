@@ -1,0 +1,16 @@
+{
+    "name": "Sandaconda",
+    "type": "ground",
+    "hp": 72,
+    "attacks": [
+        {
+            "name": "Giro Vil",
+            "damage": 24
+        },
+        {
+            "name": "Plancha Corporal",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/sandaconda.png"
+}

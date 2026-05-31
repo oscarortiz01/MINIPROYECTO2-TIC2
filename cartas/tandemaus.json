@@ -1,0 +1,16 @@
+{
+    "name": "Tandemaus",
+    "type": "normal",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Ida y Vuelta",
+            "damage": 28
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/tandemaus.png"
+}

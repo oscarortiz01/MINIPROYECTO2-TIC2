@@ -1,0 +1,16 @@
+{
+    "name": "Gorebyss",
+    "type": "water",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Acoso",
+            "damage": 15
+        },
+        {
+            "name": "Psíquico",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/gorebyss.png"
+}

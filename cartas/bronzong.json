@@ -1,0 +1,16 @@
+{
+    "name": "Bronzong",
+    "type": "steel",
+    "hp": 67,
+    "attacks": [
+        {
+            "name": "Comesueños",
+            "damage": 40
+        },
+        {
+            "name": "Poder Pasado",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/bronzong.png"
+}

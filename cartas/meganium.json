@@ -1,0 +1,16 @@
+{
+    "name": "Meganium",
+    "type": "grass",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Trailblaze",
+            "damage": 20
+        },
+        {
+            "name": "Fuerza",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/meganium.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Azurill",
+    "type": "normal",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Antojo",
+            "damage": 24
+        },
+        {
+            "name": "Cola Férrea",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/azurill.png"
+}

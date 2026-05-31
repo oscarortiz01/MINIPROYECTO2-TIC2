@@ -1,0 +1,16 @@
+{
+    "name": "Nymble",
+    "type": "bug",
+    "hp": 33,
+    "attacks": [
+        {
+            "name": "Trailblaze",
+            "damage": 20
+        },
+        {
+            "name": "Golpe Rastrero",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/nymble.png"
+}

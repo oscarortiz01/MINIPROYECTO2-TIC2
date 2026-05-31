@@ -1,0 +1,16 @@
+{
+    "name": "Loudred",
+    "type": "normal",
+    "hp": 84,
+    "attacks": [
+        {
+            "name": "Impresionar",
+            "damage": 15
+        },
+        {
+            "name": "Rodar",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/loudred.png"
+}

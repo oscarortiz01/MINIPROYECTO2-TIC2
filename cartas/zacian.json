@@ -1,0 +1,16 @@
+{
+    "name": "Zacian",
+    "type": "fairy",
+    "hp": 92,
+    "attacks": [
+        {
+            "name": "Metaláser",
+            "damage": 45
+        },
+        {
+            "name": "Brillo Mágico",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/zacian.png"
+}

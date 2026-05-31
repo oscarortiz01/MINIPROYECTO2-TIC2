@@ -1,0 +1,16 @@
+{
+    "name": "Noivern",
+    "type": "flying",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Vuelo",
+            "damage": 36
+        },
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/noivern.png"
+}

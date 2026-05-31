@@ -1,0 +1,16 @@
+{
+    "name": "Meowstic-male",
+    "type": "psychic",
+    "hp": 74,
+    "attacks": [
+        {
+            "name": "Sorpresa",
+            "damage": 16
+        },
+        {
+            "name": "Bola Sombra",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/meowstic-male.png"
+}

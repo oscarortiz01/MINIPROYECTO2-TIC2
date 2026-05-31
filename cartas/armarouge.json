@@ -1,0 +1,16 @@
+{
+    "name": "Armarouge",
+    "type": "fire",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Pulso Umbrío",
+            "damage": 32
+        },
+        {
+            "name": "Envite Ígneo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/armarouge.png"
+}

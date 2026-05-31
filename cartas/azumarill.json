@@ -1,0 +1,16 @@
+{
+    "name": "Azumarill",
+    "type": "water",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Rapidez",
+            "damage": 24
+        },
+        {
+            "name": "Vozarrón",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/azumarill.png"
+}

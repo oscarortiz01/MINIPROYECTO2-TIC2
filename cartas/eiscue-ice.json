@@ -1,0 +1,16 @@
+{
+    "name": "Eiscue-ice",
+    "type": "ice",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        },
+        {
+            "name": "Ice Spinner",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/eiscue-ice.png"
+}

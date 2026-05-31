@@ -1,0 +1,16 @@
+{
+    "name": "Arboliva",
+    "type": "grass",
+    "hp": 78,
+    "attacks": [
+        {
+            "name": "Rayo Solar",
+            "damage": 45
+        },
+        {
+            "name": "Pulso de Campo",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/arboliva.png"
+}

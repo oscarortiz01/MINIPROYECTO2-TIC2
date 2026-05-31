@@ -1,0 +1,16 @@
+{
+    "name": "Rattata",
+    "type": "normal",
+    "hp": 30,
+    "attacks": [
+        {
+            "name": "Ladrón",
+            "damage": 24
+        },
+        {
+            "name": "Rayo Hielo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/rattata.png"
+}

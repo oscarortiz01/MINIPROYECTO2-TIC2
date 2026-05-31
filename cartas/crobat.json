@@ -1,0 +1,16 @@
+{
+    "name": "Crobat",
+    "type": "poison",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Acróbata",
+            "damage": 22
+        },
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/crobat.png"
+}

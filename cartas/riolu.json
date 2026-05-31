@@ -1,0 +1,16 @@
+{
+    "name": "Riolu",
+    "type": "fighting",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Fuerza",
+            "damage": 32
+        },
+        {
+            "name": "A Bocajarro",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/riolu.png"
+}

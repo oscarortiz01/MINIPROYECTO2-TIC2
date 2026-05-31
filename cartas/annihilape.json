@@ -1,0 +1,16 @@
+{
+    "name": "Annihilape",
+    "type": "fighting",
+    "hp": 110,
+    "attacks": [
+        {
+            "name": "Alboroto",
+            "damage": 36
+        },
+        {
+            "name": "Desahogo",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/annihilape.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Tropius",
+    "type": "grass",
+    "hp": 99,
+    "attacks": [
+        {
+            "name": "Ala de Acero",
+            "damage": 28
+        },
+        {
+            "name": "Terratemblor",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/tropius.png"
+}

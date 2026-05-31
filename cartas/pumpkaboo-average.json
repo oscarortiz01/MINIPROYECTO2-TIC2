@@ -1,0 +1,16 @@
+{
+    "name": "Pumpkaboo-average",
+    "type": "ghost",
+    "hp": 49,
+    "attacks": [
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        },
+        {
+            "name": "Psíquico",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/pumpkaboo-average.png"
+}

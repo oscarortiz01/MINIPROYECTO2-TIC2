@@ -1,0 +1,16 @@
+{
+    "name": "Dubwool",
+    "type": "normal",
+    "hp": 72,
+    "attacks": [
+        {
+            "name": "Bote",
+            "damage": 34
+        },
+        {
+            "name": "Represalia",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/dubwool.png"
+}

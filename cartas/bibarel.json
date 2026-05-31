@@ -1,0 +1,16 @@
+{
+    "name": "Bibarel",
+    "type": "normal",
+    "hp": 79,
+    "attacks": [
+        {
+            "name": "Fuerza",
+            "damage": 32
+        },
+        {
+            "name": "Rapidez",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/bibarel.png"
+}

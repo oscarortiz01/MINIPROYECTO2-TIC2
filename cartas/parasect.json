@@ -1,0 +1,16 @@
+{
+    "name": "Parasect",
+    "type": "bug",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Falso Tortazo",
+            "damage": 16
+        },
+        {
+            "name": "Desarme",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/parasect.png"
+}

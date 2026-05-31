@@ -1,0 +1,16 @@
+{
+    "name": "Pachirisu",
+    "type": "electric",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Triturar",
+            "damage": 32
+        },
+        {
+            "name": "Voltio Cruel",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/pachirisu.png"
+}

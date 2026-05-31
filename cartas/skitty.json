@@ -1,0 +1,16 @@
+{
+    "name": "Skitty",
+    "type": "normal",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Alboroto",
+            "damage": 36
+        },
+        {
+            "name": "Comesueños",
+            "damage": 40
+        }
+    ],
+    "image_path": "assets/skitty.png"
+}

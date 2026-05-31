@@ -1,0 +1,16 @@
+{
+    "name": "Snivy",
+    "type": "grass",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Lluevehojas",
+            "damage": 45
+        },
+        {
+            "name": "Gigadrenado",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/snivy.png"
+}

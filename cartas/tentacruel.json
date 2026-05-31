@@ -1,0 +1,16 @@
+{
+    "name": "Tentacruel",
+    "type": "water",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Meteorobola",
+            "damage": 20
+        },
+        {
+            "name": "Burbuja",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/tentacruel.png"
+}

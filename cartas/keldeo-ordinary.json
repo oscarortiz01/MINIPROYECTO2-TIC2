@@ -1,0 +1,16 @@
+{
+    "name": "Keldeo-ordinary",
+    "type": "water",
+    "hp": 91,
+    "attacks": [
+        {
+            "name": "Espada Santa",
+            "damage": 36
+        },
+        {
+            "name": "Hidropulso",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/keldeo-ordinary.png"
+}

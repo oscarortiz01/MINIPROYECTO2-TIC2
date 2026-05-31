@@ -1,0 +1,16 @@
+{
+    "name": "Ralts",
+    "type": "psychic",
+    "hp": 28,
+    "attacks": [
+        {
+            "name": "Desarme",
+            "damage": 26
+        },
+        {
+            "name": "Psicorrayo",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/ralts.png"
+}

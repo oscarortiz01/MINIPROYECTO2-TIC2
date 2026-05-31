@@ -1,0 +1,16 @@
+{
+    "name": "Jynx",
+    "type": "ice",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Beso Drenaje",
+            "damage": 20
+        },
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/jynx.png"
+}

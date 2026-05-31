@@ -1,0 +1,16 @@
+{
+    "name": "Haxorus",
+    "type": "dragon",
+    "hp": 76,
+    "attacks": [
+        {
+            "name": "Fuerza Bruta",
+            "damage": 45
+        },
+        {
+            "name": "Golpe Cuerpo",
+            "damage": 34
+        }
+    ],
+    "image_path": "assets/haxorus.png"
+}

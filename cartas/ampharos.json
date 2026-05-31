@@ -1,0 +1,16 @@
+{
+    "name": "Ampharos",
+    "type": "electric",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Voltio Cruel",
+            "damage": 36
+        },
+        {
+            "name": "Cola Dragón",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/ampharos.png"
+}

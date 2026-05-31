@@ -1,0 +1,16 @@
+{
+    "name": "Togedemaru",
+    "type": "electric",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Canon",
+            "damage": 24
+        },
+        {
+            "name": "Cabezazo Zen",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/togedemaru.png"
+}

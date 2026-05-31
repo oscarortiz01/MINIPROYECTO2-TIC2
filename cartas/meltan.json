@@ -1,0 +1,16 @@
+{
+    "name": "Meltan",
+    "type": "steel",
+    "hp": 46,
+    "attacks": [
+        {
+            "name": "Impactrueno",
+            "damage": 16
+        },
+        {
+            "name": "Ronquido",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/meltan.png"
+}

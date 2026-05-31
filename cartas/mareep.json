@@ -1,0 +1,16 @@
+{
+    "name": "Mareep",
+    "type": "electric",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Ronquido",
+            "damage": 20
+        },
+        {
+            "name": "Trailblaze",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/mareep.png"
+}

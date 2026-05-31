@@ -1,0 +1,16 @@
+{
+    "name": "Oricorio-baile",
+    "type": "fire",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Aire Afilado",
+            "damage": 24
+        },
+        {
+            "name": "Doble Bofetón",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/oricorio-baile.png"
+}

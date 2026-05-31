@@ -1,0 +1,16 @@
+{
+    "name": "Espathra",
+    "type": "psychic",
+    "hp": 95,
+    "attacks": [
+        {
+            "name": "Doble Filo",
+            "damage": 45
+        },
+        {
+            "name": "Ida y Vuelta",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/espathra.png"
+}

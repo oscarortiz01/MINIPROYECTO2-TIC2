@@ -1,0 +1,16 @@
+{
+    "name": "Tangrowth",
+    "type": "grass",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Rayo Solar",
+            "damage": 45
+        },
+        {
+            "name": "Cuchilla Solar",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/tangrowth.png"
+}

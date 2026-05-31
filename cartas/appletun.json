@@ -1,0 +1,16 @@
+{
+    "name": "Appletun",
+    "type": "grass",
+    "hp": 110,
+    "attacks": [
+        {
+            "name": "Terremoto",
+            "damage": 40
+        },
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/appletun.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Wattrel",
+    "type": "electric",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Aire Afilado",
+            "damage": 24
+        },
+        {
+            "name": "Voltio Cruel",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/wattrel.png"
+}

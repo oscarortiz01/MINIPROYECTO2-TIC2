@@ -1,0 +1,16 @@
+{
+    "name": "Drampa",
+    "type": "normal",
+    "hp": 78,
+    "attacks": [
+        {
+            "name": "Alboroto",
+            "damage": 36
+        },
+        {
+            "name": "Llamarada",
+            "damage": 44
+        }
+    ],
+    "image_path": "assets/drampa.png"
+}

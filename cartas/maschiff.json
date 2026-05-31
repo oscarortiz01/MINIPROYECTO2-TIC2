@@ -1,0 +1,16 @@
+{
+    "name": "Maschiff",
+    "type": "dark",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Derribo",
+            "damage": 36
+        },
+        {
+            "name": "Golpe Cabeza",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/maschiff.png"
+}

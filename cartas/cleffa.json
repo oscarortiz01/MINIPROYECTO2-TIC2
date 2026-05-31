@@ -1,0 +1,16 @@
+{
+    "name": "Cleffa",
+    "type": "fairy",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Destructor",
+            "damage": 16
+        },
+        {
+            "name": "Alboroto",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/cleffa.png"
+}

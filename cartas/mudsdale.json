@@ -1,0 +1,16 @@
+{
+    "name": "Mudsdale",
+    "type": "ground",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        },
+        {
+            "name": "Golpe Cuerpo",
+            "damage": 34
+        }
+    ],
+    "image_path": "assets/mudsdale.png"
+}

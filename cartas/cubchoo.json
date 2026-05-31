@@ -1,0 +1,16 @@
+{
+    "name": "Cubchoo",
+    "type": "ice",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Ladrón",
+            "damage": 24
+        },
+        {
+            "name": "Garra Metal",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/cubchoo.png"
+}

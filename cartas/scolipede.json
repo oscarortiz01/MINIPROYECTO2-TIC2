@@ -1,0 +1,16 @@
+{
+    "name": "Scolipede",
+    "type": "bug",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        },
+        {
+            "name": "Terratemblor",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/scolipede.png"
+}

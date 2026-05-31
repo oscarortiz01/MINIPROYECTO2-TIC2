@@ -1,0 +1,16 @@
+{
+    "name": "Torracat",
+    "type": "fire",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Golpe Bis",
+            "damage": 16
+        },
+        {
+            "name": "Nitrocarga",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/torracat.png"
+}

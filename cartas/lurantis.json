@@ -1,0 +1,16 @@
+{
+    "name": "Lurantis",
+    "type": "grass",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Bomba Germen",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/lurantis.png"
+}

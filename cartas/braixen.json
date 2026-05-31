@@ -1,0 +1,16 @@
+{
+    "name": "Braixen",
+    "type": "fire",
+    "hp": 59,
+    "attacks": [
+        {
+            "name": "Ronquido",
+            "damage": 20
+        },
+        {
+            "name": "Puño Trueno",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/braixen.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Barboach",
+    "type": "water",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Roca Afilada",
+            "damage": 40
+        },
+        {
+            "name": "Hidrobomba",
+            "damage": 44
+        }
+    ],
+    "image_path": "assets/barboach.png"
+}

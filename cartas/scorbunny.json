@@ -1,0 +1,16 @@
+{
+    "name": "Scorbunny",
+    "type": "fire",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Placaje",
+            "damage": 16
+        },
+        {
+            "name": "Ida y Vuelta",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/scorbunny.png"
+}

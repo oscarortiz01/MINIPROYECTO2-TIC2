@@ -1,0 +1,16 @@
+{
+    "name": "Zweilous",
+    "type": "dark",
+    "hp": 72,
+    "attacks": [
+        {
+            "name": "Tierra Viva",
+            "damage": 36
+        },
+        {
+            "name": "Pulso Umbrío",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/zweilous.png"
+}

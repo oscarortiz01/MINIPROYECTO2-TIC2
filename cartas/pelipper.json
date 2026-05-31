@@ -1,0 +1,16 @@
+{
+    "name": "Pelipper",
+    "type": "water",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Caída Libre",
+            "damage": 24
+        },
+        {
+            "name": "Tajo Aéreo",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/pelipper.png"
+}

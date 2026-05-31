@@ -1,0 +1,16 @@
+{
+    "name": "Dragapult",
+    "type": "dragon",
+    "hp": 88,
+    "attacks": [
+        {
+            "name": "Vuelo",
+            "damage": 36
+        },
+        {
+            "name": "Gigaimpacto",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/dragapult.png"
+}

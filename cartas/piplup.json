@@ -1,0 +1,16 @@
+{
+    "name": "Piplup",
+    "type": "water",
+    "hp": 53,
+    "attacks": [
+        {
+            "name": "Rapidez",
+            "damage": 24
+        },
+        {
+            "name": "Destructor",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/piplup.png"
+}

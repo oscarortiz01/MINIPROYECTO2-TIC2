@@ -1,0 +1,16 @@
+{
+    "name": "Pidove",
+    "type": "normal",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Ala de Acero",
+            "damage": 28
+        },
+        {
+            "name": "Daño Secreto",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/pidove.png"
+}

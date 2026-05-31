@@ -1,0 +1,16 @@
+{
+    "name": "Combee",
+    "type": "bug",
+    "hp": 30,
+    "attacks": [
+        {
+            "name": "Aire Afilado",
+            "damage": 24
+        },
+        {
+            "name": "Estoicismo",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/combee.png"
+}

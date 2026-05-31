@@ -1,0 +1,16 @@
+{
+    "name": "Simipour",
+    "type": "water",
+    "hp": 75,
+    "attacks": [
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        },
+        {
+            "name": "Puño Certero",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/simipour.png"
+}

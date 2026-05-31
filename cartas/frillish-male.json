@@ -1,0 +1,16 @@
+{
+    "name": "Frillish-male",
+    "type": "water",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Restricción",
+            "damage": 15
+        },
+        {
+            "name": "Rayo Burbuja",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/frillish-male.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Meloetta-aria",
+    "type": "normal",
+    "hp": 100,
+    "attacks": [
+        {
+            "name": "Triple Axel",
+            "damage": 15
+        },
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/meloetta-aria.png"
+}

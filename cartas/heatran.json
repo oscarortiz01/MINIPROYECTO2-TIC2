@@ -1,0 +1,16 @@
+{
+    "name": "Heatran",
+    "type": "fire",
+    "hp": 91,
+    "attacks": [
+        {
+            "name": "Lluvia Ígnea",
+            "damage": 40
+        },
+        {
+            "name": "Llamarada",
+            "damage": 44
+        }
+    ],
+    "image_path": "assets/heatran.png"
+}

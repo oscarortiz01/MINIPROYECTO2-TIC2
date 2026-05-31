@@ -1,0 +1,16 @@
+{
+    "name": "Bramblin",
+    "type": "grass",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Bomba Germen",
+            "damage": 32
+        },
+        {
+            "name": "Poltergeist",
+            "damage": 44
+        }
+    ],
+    "image_path": "assets/bramblin.png"
+}

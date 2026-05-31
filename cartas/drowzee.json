@@ -1,0 +1,16 @@
+{
+    "name": "Drowzee",
+    "type": "psychic",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Rapidez",
+            "damage": 24
+        },
+        {
+            "name": "Golpe Cabeza",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/drowzee.png"
+}

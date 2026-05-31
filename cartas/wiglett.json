@@ -1,0 +1,16 @@
+{
+    "name": "Wiglett",
+    "type": "water",
+    "hp": 10,
+    "attacks": [
+        {
+            "name": "Hidroariete",
+            "damage": 34
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/wiglett.png"
+}

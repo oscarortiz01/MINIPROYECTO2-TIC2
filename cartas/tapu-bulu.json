@@ -1,0 +1,16 @@
+{
+    "name": "Tapu-bulu",
+    "type": "grass",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Cuerno Certero",
+            "damage": 28
+        },
+        {
+            "name": "Falso Tortazo",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/tapu-bulu.png"
+}

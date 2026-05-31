@@ -1,0 +1,16 @@
+{
+    "name": "Electrode",
+    "type": "electric",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Electrotela",
+            "damage": 22
+        },
+        {
+            "name": "Derribo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/electrode.png"
+}

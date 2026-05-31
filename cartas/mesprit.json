@@ -1,0 +1,16 @@
+{
+    "name": "Mesprit",
+    "type": "psychic",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Vasta Fuerza",
+            "damage": 32
+        },
+        {
+            "name": "Cabezazo Zen",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/mesprit.png"
+}

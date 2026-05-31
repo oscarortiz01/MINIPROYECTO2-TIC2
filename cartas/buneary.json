@@ -1,0 +1,16 @@
+{
+    "name": "Buneary",
+    "type": "normal",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Golpe Cabeza",
+            "damage": 28
+        },
+        {
+            "name": "Llave Giro",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/buneary.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Graveler",
+    "type": "rock",
+    "hp": 55,
+    "attacks": [
+        {
+            "name": "Autodestrucción",
+            "damage": 45
+        },
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/graveler.png"
+}

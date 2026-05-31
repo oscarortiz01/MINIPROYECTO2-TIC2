@@ -1,0 +1,16 @@
+{
+    "name": "Raikou",
+    "type": "electric",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Triturar",
+            "damage": 32
+        },
+        {
+            "name": "Canon",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/raikou.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Quilava",
+    "type": "fire",
+    "hp": 58,
+    "attacks": [
+        {
+            "name": "Golpe Aéreo",
+            "damage": 24
+        },
+        {
+            "name": "Cabeza de Hierro",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/quilava.png"
+}

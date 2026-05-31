@@ -1,0 +1,16 @@
+{
+    "name": "Hitmontop",
+    "type": "fighting",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Represalia",
+            "damage": 28
+        },
+        {
+            "name": "Golpe Cuerpo",
+            "damage": 34
+        }
+    ],
+    "image_path": "assets/hitmontop.png"
+}

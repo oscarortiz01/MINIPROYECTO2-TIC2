@@ -1,0 +1,16 @@
+{
+    "name": "Lumineon",
+    "type": "water",
+    "hp": 69,
+    "attacks": [
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        },
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/lumineon.png"
+}

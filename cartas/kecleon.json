@@ -1,0 +1,16 @@
+{
+    "name": "Kecleon",
+    "type": "normal",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Rayo Solar",
+            "damage": 45
+        },
+        {
+            "name": "Megapatada",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/kecleon.png"
+}

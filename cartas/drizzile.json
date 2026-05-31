@@ -1,0 +1,16 @@
+{
+    "name": "Drizzile",
+    "type": "water",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Ronquido",
+            "damage": 20
+        },
+        {
+            "name": "Ida y Vuelta",
+            "damage": 28
+        }
+    ],
+    "image_path": "assets/drizzile.png"
+}

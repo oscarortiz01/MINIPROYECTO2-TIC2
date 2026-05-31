@@ -1,0 +1,16 @@
+{
+    "name": "Salazzle",
+    "type": "poison",
+    "hp": 68,
+    "attacks": [
+        {
+            "name": "Acróbata",
+            "damage": 22
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/salazzle.png"
+}

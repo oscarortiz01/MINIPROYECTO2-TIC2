@@ -1,0 +1,16 @@
+{
+    "name": "Baltoy",
+    "type": "ground",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Tumba Rocas",
+            "damage": 24
+        },
+        {
+            "name": "Paranormal",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/baltoy.png"
+}

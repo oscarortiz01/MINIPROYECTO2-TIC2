@@ -1,0 +1,16 @@
+{
+    "name": "Tyrantrum",
+    "type": "rock",
+    "hp": 82,
+    "attacks": [
+        {
+            "name": "Golpe Cuerpo",
+            "damage": 34
+        },
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/tyrantrum.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Delibird",
+    "type": "ice",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Sorpresa",
+            "damage": 16
+        },
+        {
+            "name": "Viento Hielo",
+            "damage": 22
+        }
+    ],
+    "image_path": "assets/delibird.png"
+}

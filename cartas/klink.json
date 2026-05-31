@@ -1,0 +1,16 @@
+{
+    "name": "Klink",
+    "type": "steel",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        },
+        {
+            "name": "Rayo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/klink.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Elekid",
+    "type": "electric",
+    "hp": 45,
+    "attacks": [
+        {
+            "name": "Patada Giro",
+            "damage": 24
+        },
+        {
+            "name": "Trueno",
+            "damage": 44
+        }
+    ],
+    "image_path": "assets/elekid.png"
+}

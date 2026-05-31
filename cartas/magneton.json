@@ -1,0 +1,16 @@
+{
+    "name": "Magneton",
+    "type": "electric",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        },
+        {
+            "name": "Furia",
+            "damage": 15
+        }
+    ],
+    "image_path": "assets/magneton.png"
+}

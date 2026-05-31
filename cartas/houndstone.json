@@ -1,0 +1,16 @@
+{
+    "name": "Houndstone",
+    "type": "ghost",
+    "hp": 72,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Excavar",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/houndstone.png"
+}

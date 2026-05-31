@@ -1,0 +1,16 @@
+{
+    "name": "Slowking",
+    "type": "water",
+    "hp": 95,
+    "attacks": [
+        {
+            "name": "Hidropulso",
+            "damage": 24
+        },
+        {
+            "name": "Eco Voz",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/slowking.png"
+}

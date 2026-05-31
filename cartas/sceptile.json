@@ -1,0 +1,16 @@
+{
+    "name": "Sceptile",
+    "type": "grass",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Cola Férrea",
+            "damage": 40
+        },
+        {
+            "name": "Corte Furia",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/sceptile.png"
+}

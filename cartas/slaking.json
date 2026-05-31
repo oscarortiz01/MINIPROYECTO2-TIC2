@@ -1,0 +1,16 @@
+{
+    "name": "Slaking",
+    "type": "normal",
+    "hp": 150,
+    "attacks": [
+        {
+            "name": "Rayo Solar",
+            "damage": 45
+        },
+        {
+            "name": "Enfado",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/slaking.png"
+}

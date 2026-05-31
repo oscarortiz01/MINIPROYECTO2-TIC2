@@ -1,0 +1,16 @@
+{
+    "name": "Dracovish",
+    "type": "water",
+    "hp": 90,
+    "attacks": [
+        {
+            "name": "Torbellino",
+            "damage": 15
+        },
+        {
+            "name": "Salmuera",
+            "damage": 26
+        }
+    ],
+    "image_path": "assets/dracovish.png"
+}

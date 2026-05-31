@@ -1,0 +1,16 @@
+{
+    "name": "Budew",
+    "type": "grass",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Antojo",
+            "damage": 24
+        },
+        {
+            "name": "Rayo Solar",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/budew.png"
+}

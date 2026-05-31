@@ -1,0 +1,16 @@
+{
+    "name": "Iron-hands",
+    "type": "fighting",
+    "hp": 154,
+    "attacks": [
+        {
+            "name": "Empujón",
+            "damage": 15
+        },
+        {
+            "name": "Cabeza de Hierro",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/iron-hands.png"
+}

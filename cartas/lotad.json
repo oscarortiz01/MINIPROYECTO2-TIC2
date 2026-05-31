@@ -1,0 +1,16 @@
+{
+    "name": "Lotad",
+    "type": "water",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Ladrón",
+            "damage": 24
+        },
+        {
+            "name": "Meteorobola",
+            "damage": 20
+        }
+    ],
+    "image_path": "assets/lotad.png"
+}

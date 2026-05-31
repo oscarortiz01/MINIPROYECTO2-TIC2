@@ -1,0 +1,16 @@
+{
+    "name": "Hariyama",
+    "type": "fighting",
+    "hp": 144,
+    "attacks": [
+        {
+            "name": "Placaje",
+            "damage": 16
+        },
+        {
+            "name": "Derribo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/hariyama.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Weezing",
+    "type": "poison",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Niebla Clara",
+            "damage": 20
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/weezing.png"
+}

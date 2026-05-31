@@ -1,0 +1,16 @@
+{
+    "name": "Wormadam-plant",
+    "type": "bug",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Psíquico",
+            "damage": 36
+        },
+        {
+            "name": "Excavar",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/wormadam-plant.png"
+}

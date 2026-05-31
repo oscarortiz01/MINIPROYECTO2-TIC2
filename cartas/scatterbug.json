@@ -1,0 +1,16 @@
+{
+    "name": "Scatterbug",
+    "type": "bug",
+    "hp": 38,
+    "attacks": [
+        {
+            "name": "Pounce",
+            "damage": 20
+        },
+        {
+            "name": "Tera Blast",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/scatterbug.png"
+}

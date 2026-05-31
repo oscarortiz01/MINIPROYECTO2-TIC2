@@ -1,0 +1,16 @@
+{
+    "name": "Silvally",
+    "type": "normal",
+    "hp": 95,
+    "attacks": [
+        {
+            "name": "Cabeza de Hierro",
+            "damage": 32
+        },
+        {
+            "name": "Doble Rayo",
+            "damage": 30
+        }
+    ],
+    "image_path": "assets/silvally.png"
+}

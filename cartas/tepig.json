@@ -1,0 +1,16 @@
+{
+    "name": "Tepig",
+    "type": "fire",
+    "hp": 65,
+    "attacks": [
+        {
+            "name": "Nitrocarga",
+            "damage": 20
+        },
+        {
+            "name": "Eco Voz",
+            "damage": 16
+        }
+    ],
+    "image_path": "assets/tepig.png"
+}

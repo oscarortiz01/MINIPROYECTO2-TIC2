@@ -1,0 +1,16 @@
+{
+    "name": "Seedot",
+    "type": "grass",
+    "hp": 40,
+    "attacks": [
+        {
+            "name": "Viento Cortante",
+            "damage": 32
+        },
+        {
+            "name": "Poder Oculto",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/seedot.png"
+}

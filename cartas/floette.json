@@ -1,0 +1,16 @@
+{
+    "name": "Floette",
+    "type": "fairy",
+    "hp": 54,
+    "attacks": [
+        {
+            "name": "Tormenta Floral",
+            "damage": 36
+        },
+        {
+            "name": "Rayo Solar",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/floette.png"
+}

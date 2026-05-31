@@ -1,0 +1,16 @@
+{
+    "name": "Floatzel",
+    "type": "water",
+    "hp": 85,
+    "attacks": [
+        {
+            "name": "Hiperrayo",
+            "damage": 45
+        },
+        {
+            "name": "Viento Hielo",
+            "damage": 22
+        }
+    ],
+    "image_path": "assets/floatzel.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Greavard",
+    "type": "ghost",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Imagen",
+            "damage": 28
+        },
+        {
+            "name": "Triturar",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/greavard.png"
+}

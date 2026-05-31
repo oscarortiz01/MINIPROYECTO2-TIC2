@@ -1,0 +1,16 @@
+{
+    "name": "Roselia",
+    "type": "grass",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Rapidez",
+            "damage": 24
+        },
+        {
+            "name": "Lluevehojas",
+            "damage": 45
+        }
+    ],
+    "image_path": "assets/roselia.png"
+}

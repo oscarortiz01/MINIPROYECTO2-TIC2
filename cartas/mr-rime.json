@@ -1,0 +1,16 @@
+{
+    "name": "Mr-rime",
+    "type": "ice",
+    "hp": 80,
+    "attacks": [
+        {
+            "name": "Confusión",
+            "damage": 20
+        },
+        {
+            "name": "Rayo",
+            "damage": 36
+        }
+    ],
+    "image_path": "assets/mr-rime.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Dottler",
+    "type": "bug",
+    "hp": 50,
+    "attacks": [
+        {
+            "name": "Plancha Corporal",
+            "damage": 32
+        },
+        {
+            "name": "Cabezazo Zen",
+            "damage": 32
+        }
+    ],
+    "image_path": "assets/dottler.png"
+}

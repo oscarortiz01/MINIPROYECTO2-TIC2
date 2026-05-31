@@ -1,0 +1,16 @@
+{
+    "name": "Mothim",
+    "type": "bug",
+    "hp": 70,
+    "attacks": [
+        {
+            "name": "Ronquido",
+            "damage": 20
+        },
+        {
+            "name": "Ladrón",
+            "damage": 24
+        }
+    ],
+    "image_path": "assets/mothim.png"
+}

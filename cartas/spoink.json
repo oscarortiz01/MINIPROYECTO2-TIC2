@@ -1,0 +1,16 @@
+{
+    "name": "Spoink",
+    "type": "psychic",
+    "hp": 60,
+    "attacks": [
+        {
+            "name": "Bote",
+            "damage": 34
+        },
+        {
+            "name": "Viento Hielo",
+            "damage": 22
+        }
+    ],
+    "image_path": "assets/spoink.png"
+}
