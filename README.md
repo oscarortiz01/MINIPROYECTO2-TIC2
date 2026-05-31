@@ -19,3 +19,11 @@ En el siguiente enlace se encuentra el video demostrativo donde se enseña el fu
 
 ⦁ Video de Demostración en YouTube
   https://youtu.be/cklyOgzhCMc
+
+  Integrantes:
+* Oscar Ortiz Molina
+* Joaquín Mardones Gallegos
+
+
+
+
